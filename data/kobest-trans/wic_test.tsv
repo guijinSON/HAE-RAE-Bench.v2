@@ -1,0 +1,1270 @@
+Target	SENTENCE1	SENTENCE2	ANSWER
+Nutrients	The soil is rich in nutrients, so the trees grow well.	The fetus receives [nutrients] and oxygen from the mother.	1
+Nutrients	The purpose of intercropping is to complement each other's crops, prevent weather disturbances and pests, and efficiently utilize soil nutrients and space.	The roots of a plant are organs that absorb water and nutrients from the soil.	1
+Iron	Flowers bloom according to the iron.	In late April, azalea flowers blossomed fully in response to the spring.	1
+Scenery	The [Scenery] is crying at the end of the roof.	Looking around the room [scenery].	0
+Scenery	At the boundary of the temple, the light softly seeped and flowed, and at the end of the eaves, the sound of [scenery] was tranquil.	Our ancestors expressed this beautiful land and friendly [scenery] with their skilled brushwork.	0
+slope	A gentle slope hill.	The mountain is difficult to climb because it has a steep slope.	1
+slope	Roof insulation prevents an increase in the roof load and also prevents the deformation of the roof surface slope.	Byeonsan Beach has clear water and a gentle slope, making it a perfect place to visit throughout the year.	1
+time	[Poem] to recite a poem.	If you break the rules, you will be punished.	0
+catcher	The catchers went hunting with pistols.	In the bottom of the 9th inning, [the catcher] let the ball slip, resulting in giving up the winning run.	0
+catcher	The [catcher] shot a gun towards the deer.	[The catcher] led the hunting dogs and went out to hunt a tiger.	1
+Every	One person received five hits each.	Soaring High in the Sky [Hawk].	0
+County office	There was an instruction to intercept the phone calls of key personnel to the intelligence agents.	"A scorpion came up with the message ""Come up to [the government office]."""	0
+County office	[Surveillance] The man who discovered the device immediately reported it to his superiors.	[Undercover] He, who was unaware of the truth, spilled all the business secrets.	1
+Support	To support a downward trend focused on stability.	"""If you continue to resist without support, it is obvious that you will be conscripted."""	1
+Support	[Application] submitted the documents.	[Support] I was disqualified due to inadequate qualifications.	1
+Welfare	Interest accumulated as compound interest.	To accrue interest on a deposit.	1
+Welfare	The policy was unfolded based on public [welfare].	The welfare of our company's employees is on the good side.	1
+Jindo	[Jindo] All houses collapsed due to a very strong earthquake of magnitude 7.	The speed of the [progress] of the work, as if a skilled worker was working diligently, was fast like pouring out the product from an automatic machine.	0
+Cut-off	Tomorrow is a joyful day for making ssuk (mugwort) jeolpyeon (traditional Korean rice cake).	The [jerky] is too tough and chewy, so it's not enjoyable to eat.	1
+Consciousness	She lost consciousness immediately after the accident and was transported to the hospital.	It seems like the anesthesia hasn't worn off completely and [consciousness] is hazy.	1
+Consciousness	Before performing a ritual, one must tidy up their posture.	I don't want to be conscious of the camera, but it's not easy.	0
+Suburb	It was a good idea to escape from the crowded palace or downtown on Sunday and come out to the suburbs.	During the summer when I just entered college, there was a time when some of us went on a picnic [outside of the campus].	1
+Suburb	[Suburb] Learning in the environment is also an important part of education.	I went out for an outing to the outskirts for the first time in a long time.	0
+comrade	How many people are in your [comrades]?	Former enemies who were once prisoners now turn into our [comrades].	1
+New Year's Day	"These days, there is a strange ""rumor"" going around."	During the New Year or Chuseok holidays, highways suffer from heavy traffic congestion due to the influx of cars traveling back to their hometowns.	0
+New Year's Day	"Why do we celebrate the New Year with ""Seol"" this time?"	Yutnori is the most popular traditional folk game played during the Korean New Year holiday.	1
+Approval	At one time, this place, which used to be a vast wilderness, was filled with [licenses].	By the time the survey was completed, I received a [license] as a journalist.	0
+Approval	Seoul [is] too densely populated.	Our company started working with the [authorization] of the local government.	0
+Order	There were several showers.	He repeated the same words several times.	1
+Noun	Various [nouns] from all walks of life attended this meeting.	Starting next week, we would like to inform you that the columnist for the [noun] column will be changed as follows.	1
+Foreign currency	We should focus on substance rather than foreign currency.	If one is caught trying to smuggle foreign currency out of the country, they will be arrested.	0
+Alcohol	The [mainstream] of philosophy is limited to ontology.	During the medieval period, literature was divided into Korean literature and Chinese literature, with Chinese literature forming the mainstream.	1
+Alcohol	"There were too many people who didn't know about it to call it a ""beverage""."	To purchase [alcoholic beverages], you must present identification.	0
+Perfume	[Fragrance] The scent of a childhood hometown.	[Perfume] The smell is strong and fragrant.	0
+Perfume	When I saw the space that remained the same as when I was young, a deep nostalgia came up.	Because everyone has different preferences, giving perfume as a gift is difficult.	0
+Assertion	He is the captain of our team.	He is an eccentric who only sticks to his own [opinions].	0
+Assertion	His [argument] is empty and meaningless.	The [captains] of each team shook hands with each other.	0
+Torture	My Bible was written in ancient script, so it helped me with my [Classical Chinese] studies.	It was a pain that could not be compared to any other torture.	0
+Foundation	I wonder if [근간] is doing well.	I cut down the walnut tree, Areumdri [foundation], with my own hands.	0
+Sensibility	It is said that Jangnim has a more developed sense of touch than ordinary people.	Farmers are on high alert for a drop in rice prices.	0
+Sensibility	The man who was on edge reacted sensitively even to small sounds.	There is visual and auditory art, but there is no art that relies on smell or touch.	0
+Holdings	My father was the [pillar] of my life.	Professor Kim was the ideological leader of our school.	1
+Holdings	[The landlord] was famous for bullying the tenant farmers.	The influence of [the landlord] in the village was tremendous.	1
+fermentation	In this country, the total mobilization order is currently [fermenting], so the young generation is almost in the military.	Drink properly fermented makgeolli.	0
+fermentation	Kimchi gains strong antimicrobial properties through the action of antimicrobial substances produced by microorganisms such as organic acids and bacteriocins generated during the fermentation process.	Yeon Suk has an amazing taste ability to guess the type and amount of seasoning, as well as the degree of fermentation, in any food from the first bite.	1
+Whole	All of our students have passed the exam.	Insert [power] into the computer main body.	0
+Sound Department	[Genitalia] refers to the external reproductive organs of males and females, primarily referring to those of females.	"""[Pitch notation]"" is a symbol in sheet music that represents the length and height of a sound."	0
+Sound Department	We divided it into [sound divisions] according to the pitch.	[Food] has been infected with bacteria.	0
+Front	Trying to capture not just fragments of life, but the [entirety] of life...	The four people anxiously waited while staring at the [front].	0
+Front	Korea's steel and semiconductor industries are facing a crisis as exports are being completely halted due to aggressive anti-dumping measures taken by US companies.	This celadon with blue glaze applied on the [front] is our family's ancestral vase that has been passed down through generations, showing the high quality of craftsmanship and carving.	0
+Rain	It rained [a lot] throughout the summer, but it has finally stopped.	This time, my father built a [bee] on grandfather's grave.	0
+Sunday	The people working here receive compensation on a weekly basis.	On Sunday, I go to church.	0
+Sunday	I organized my week while attending worship on Sunday.	My mother used to read the Bible every Sunday.	1
+manuscript	I wrote the [manuscript] hastily because the deadline was approaching.	Many parts of the author's [manuscript] were deleted during the review process.	1
+manuscript	The matter was resolved by the [plaintiff] side.	The editor asked him for the manuscript.	0
+Payment	I paid one million won as the [payment] for the goods.	I spent too much on my credit card this month.	1
+Payment	Everyone was surprised by the sudden statement that he wanted to learn [the piano].	Because I didn't pay for the goods [payment] for several months, my credit was already ruined.	0
+Exhibition	The art exhibition [display] ends this month.	[Exhibition] Do you know what happens when a civilian touches military supplies, dear madam?	0
+Exhibition	I prepared a bouquet of flowers to go see my friend's graduation [exhibition].	[Exhibition] All the artworks are CEO Kim's cherished items.	1
+Annotation	Adding footnotes to a paper is an important task.	When reading a book, I also read the annotations carefully.	1
+Annotation	Add footnotes to the text.	These two translations have been constantly criticized by the academic community for their Chinese-style sentences, excessive interpretation and misinterpretation, and weak footnotes, leading to the need for retranslation.	1
+Poet	In a way, all poems can be seen as self-portraits of poets in a broad sense.	[A Poet] with a unique style.	1
+Structure	[Structure] Agents are engaged in swift rescue operations.	The refugees who were adrift at sea requested [rescue] from a passing ship.	1
+Structure	As the rescue operation became delayed, everyone became anxious.	We will design it to fit the space of a square structure.	0
+Part.	[The] person in charge [of the department] is the manager.	To enjoy [part].	0
+gallbladder	He is the CEO [rank].	The branches of the persimmon tree extend beyond the fence of the neighboring house.	0
+Bell	The wall clock struck the [bell] twice, indicating 2 o'clock in the morning.	That nobleman ruthlessly killed the [endangered species].	0
+waste	He coldly criticized and condemned the [corruption] of the faction.	[Obsolete] It seemed that the health had deteriorated or the condition did not look good.	0
+waste	It is said that the ingredients in omija berries enhance the function of the lungs and improve bronchial health.	The sweet air tirelessly passes through my nostrils and into my lungs.	1
+change	As the morning dawned, the radio informed about the change in the typhoon's path.	It seemed like Hong had some change in emotions or a change in plans.	1
+change	I visited the local office to apply for a change of address.	Whenever there was a careless change, there were always ominous events.	0
+Evil	He is a person who has endured tough times with one [evil] thing.	"In Christianity, there is an interpretation that the term ""evil"" refers to the absence of God."	0
+Evil	If I didn't tightly plug my ears with a cotton swab, I couldn't withstand the loud sound of [evil] that was being written.	"I was so unfairly treated that I wrote ""박박 [악]"" (an expression of anger/frustration)."	1
+sea	If you take too much medicine, it becomes poison.	She is afraid of putting on a swimsuit.	1
+sea	Flowers should be planted in a place where they receive plenty of sunlight.	When they investigated the damage caused by [the tsunami], it was much bigger than expected.	0
+Order	Something magical happened when that wizard memorized the [spell].	I called [order] and woke someone up.	1
+Order	He placed an [order] over the phone.	If you memorize [the order], it will come true.	0
+Snow	When I opened my eyes, a beautiful scenery unfolded.	What's in my eye that it's so cold.	1
+Snow	A house with a red roof that catches [the eye].	"[눈] 위에 자국을 내며 걷다.
+en: Walking with footprints on the snow."	0
+Correction	[Correction] program for rejuvenation.	The sound of paper announcing the end of the class rang out three times [corrected].	0
+Correction	Since I was assigned the task of proofreading, I ended up sitting at my desk all day.	There was a rumor that the bench in the [school campus] brings good luck in love.	0
+Possession	There is a potential for this law to be abused.	This problem has the potential for controversy.	1
+Possession	As criticism arose that the product could have a negative impact on public health, all the products were immediately recalled.	The Ministry of Environment announced that it will completely suspend development permits that have the potential to damage forests.	1
+Nipple	They ate watermelon and melon, made noodles and rice cakes, and offered them at the shrine.	Yuwol [Yudu] and Chilwol Chilseok are midsummer and mid-autumn festivals, and Palwol Chuseok is a traditional Korean rice cake.	1
+Nipple	He suffered for a long time with a wound on his nipple.	In order to enhance the appearance of his clothes, the man always attached a knife to his nipple.	1
+Name	I delivered a scholarship to my alma mater in the name of the alumni association.	A true [name] is someone who treats before the disease occurs.	0
+Name	I applied for an apartment subscription under my mother's name.	I couldn't believe the fact that I didn't have a single bank account under my name.	1
+obstacle	He did not waver in the face of any [obstacle].	After crossing this mountain, we have to pass through several obstacles.	1
+obstacle	I couldn't believe the doctor's words that there was something wrong with [me].	We have encountered a huge obstacle.	0
+Room	[Room] A two-room house.	[To] build a room.	1
+Room	His [room] is a total mess.	[The room] is filled with thick cigarette smoke.	1
+Disguise	A chameleon is a master of disguise.	Industrial dyes and bacteria are a bit too much for the human stomach.	0
+Disguise	When solid or liquid waste comes out, it is advisable to check for any abnormalities in the esophagus or stomach.	To disguise himself, Dongyeong glanced around through the dry branches of a reed and a thistle vine that he had placed.	0
+Newly appointed	[New Appointment] Listen to the inauguration speech of the minister.	Losing people's trust due to frequent slip of the tongue.	0
+Newly appointed	She interviewed the [newly appointed] Minister of National Defense.	Manager Kim is already flattering the new president.	1
+Japanese cuisine	I bought new furniture [Japanese style].	Today, for some reason, I'm craving [Japanese food].	0
+Japanese cuisine	She can cook anything from Korean cuisine to Japanese and Chinese cuisine.	The meeting ran long, so I couldn't see [the Japanese film].	0
+So-called	In this region, which is uncommon to see, two women, so-called wealthy housewives, pushed open the hospital door and entered.	Kim [So-called] usually held a shovel and worked with the soldiers.	0
+Dongsim	Even between spouses, maintaining a childlike innocence is not easy.	I happily played, returning to my childhood for the first time in a long while.	0
+Chin	He bought us drinks as a celebration of his success.	Kyung-hwa pointed at them with her chin and asked seriously.	0
+Chin	Inside, he had a yellow mustache and beard that looked like a goat's beard on his chin.	His innocent eyes and round chin appear right in front of me.	1
+Delay	Due to the [delay] in administrative procedures, the public affairs business was not properly carried out.	Do not focus on blood ties or [delay].	0
+ours	Tiger trapped in [our] place.	[We] go first.	0
+ours	[Our] club can be considered as a representative club of the school.	The secret that only we knew soon became a rumor that everyone knew.	1
+Daegu	I went from Seoul to Busan via Daegu.	That bus was dispatched on the [Daegu] Yeongcheon section.	1
+Daegu	My mother brought [Daegu] and made spicy soup.	Leave for [Daegu] immediately.	0
+impression or feeling	"The [impression] of reading that book was simply ""amazing""."	Tears of [emotion] flowed for my late mother.	0
+survey	The police discovered evidence that could unravel the clues of the incident through an on-site investigation.	Start [investigating] right away.	1
+survey	When the investigation into the incident began, many doubts were discovered.	I learned that [조사] is a word when I was in high school.	0
+Night	Pitch-black [Night]	[At night] What should I do if I stay out late.	1
+masturbation	Even though the business failed, thinking that at least we saved our pride, it could be considered a consolation.	Ok-sun managed to do everything she could on her own in [self-defense], but she barely managed to catch her breath.	1
+enemy	What happened with the child?	With your current skills, you are not yet my [enemy].	0
+Erosion	Our traditional culture is being eroded by unknown foreign cultures.	He was engrossed in this book that he had never heard or read before, as if he was trying to cut off [erosion] early.	0
+Erosion	Not only erosion, but also the transportation and deposition actions of rivers cause changes in the terrain over long periods of time.	When a valley formed by glacial erosion subsides, it creates a fjord, such as those found in western Norway.	1
+Cheers	After a few days of suffering, a [pimple] appeared on my face.	I don't want to get involved in such a celebration.	0
+Cheers	People like Bongi who are determined and resilient are sometimes both disliked and looked down upon by others, but at the same time, they can also inspire admiration.	Older people were keeping their distance from Mr. Park, and the younger ones were also keeping their distance from him.	1
+Give up	To make kimchi with 20 [heads] of cabbage.	Beware of the thorns as there are often roses [buds] in front of the yard.	1
+Give up	On the half-split defeat, fresh and tall rice [ears] grow vigorously on the paddy field that seems to have been plowed.	It seemed better for me to give up quickly.	0
+Legal	Can you testify to the information you just mentioned in [court]?	Typhoid fever is one of the first-class [statutory] infectious diseases.	0
+Legal	If you insult a sacred [court] it will be considered an additional crime.	We are soon going to court.	1
+Target	The [target] that I must defeat is none other than myself.	That singer won the prestigious [Grand Prize] at the music awards ceremony.	0
+Feeling	She has excellent [intuition] in dealing with crisis situations.	Today, I didn't feel good [emotion] so I took a break from going to the sea.	1
+Feeling	That place is a famous town surrounded by mountains in the inland of Jeolla Province.	Ultimately, there is not a complete absence of meaning in meaningless voices.	0
+Store	The presence of oil reserves under the sea [storage] is a major point of interest.	The Jangdolbangi (peddlers) conducted business by going around [stores].	0
+Store	Although the opening time of the [store] was still a long way off, people were already lining up.	Contact the [store] and check if they have stock.	1
+Anonymous	Wear pants made by [anonymous].	Myeongju is not as tough as [anonymous].	1
+Colonel	[The general] issued the order to charge towards the enemy position.	[Colonel] I am nervous as the surgery approaches.	0
+Colonel	If constipation persists for a long time, it can cause damage to the [colon].	I had an endoscopy to examine my colon.	1
+Luck or fortune	He received a lot of blessings for doing good deeds.	May you receive a lot of blessings in the new year.	1
+sari	He is a person who knows how to discern [good from bad].	You should not sell your job title and take a bribe.	0
+sari	In celebration of the Buddha's arrival, the [relics] that were stored in the temple's treasure house were made accessible to the public.	Kimchi stew with tangy and ripe kimchi, thinly sliced and added with tuna and [sari], was my mother's patented dish.	0
+during	An elderly person with a cane.	Who can lie in front of such a sincere person?	1
+during	I shook my legs with tension throughout the time I was waiting.	The man looked younger than his age.	0
+Double glazed window	They completed a beautiful song with only the soprano and alto's [dual voices].	"The product ""Nae Changyong [Double Window]"" has much easier internal and external locking."	0
+Double glazed window	[Double glazed] for added safety.	The most important thing in [double-pane windows] is to listen to each other's sound.	0
+Bronze statue	I stood still like a statue.	I felt a little disappointed that it was neither gold nor silver [medal].	0
+Bronze statue	He got frostbite on his feet because of the cold.	In front of our house in the park, there is a very large statue.	0
+Process	In all things, the process is as important as the result.	Once the process of translating the original work is completed, we will immediately proceed to determine the roles.	1
+Peaceful	The people who raised the flag of rebellion [repression] were rewarded.	His face, which had been smiling, stiffened and soon regained its composure.	0
+기	"I often heard the phrase ""I have strong willpower."""	Pressed by the shaman's [spirit], I couldn't speak.	1
+기	I feel like I'm going to die if this continues.	When the enemy's troops arrived at the castle, everyone wept.	0
+Red thread	Do not enter the [danger zone] marked area.	Saddo takes care of the people only with [kindness].	0
+Red thread	The Korean ship, the Koryo Bae, had iron horns to receive the impact of a [red line] for pushing.	It is necessary to consider whether the sympathetic attitude of giving money to beggars on the bridge or in the subway is actually beneficial for them.	0
+performance	There is a need for expenses for [performing] business tasks.	He is said to isolate himself in the mountains and devote himself only to [practice].	0
+performance	A bodyguard was assigned to the President's [performance].	In winter, monks go out to practice their spiritual training by taking walks.	0
+Slogan	The profits will be used for the [relief] of disadvantaged orphans and refugees worldwide.	To advocate for environmental conservation as a [cause].	0
+Slogan	He stood at the front of the protest group and shouted the [slogan].	"When someone shouted ""[Slogan]"", the rest followed and shouted as well."	1
+Chibu	He trusted me enough to honestly tell me about his flaws.	It is a business that would be great if you touch it, as it is directly linked to profit and loss depending on how it is operated.	0
+Chibu	What good is there to expose his flaws?	Everyone has a way to hide their [flaws].	1
+Past	That woman has a complicated past.	To start anew, forgetting [the past].	1
+Pear	I ate a lot for dinner and my stomach got bloated.	I have a pain in my lower back.	1
+Pear	Yukhoe (Korean beef tartare) tastes better when eaten with a refreshing [pear].	You can receive interest several times.	0
+Gisu	He was selected as a [designated hitter] for every event because of his tall height.	"During road construction, a ""flagman"" is needed to control vehicle traffic."	1
+Fire	[I'm] so angry that [I] don't know what to do.	How dare you make such a fuss [about something trivial].	1
+Fire	He angrily kicks the tree.	I laughed unexpectedly at the idea of releasing [the movie] [화].	1
+middle	I enlisted in the military while I was in college.	Among them, he slightly smiled towards the woman.	0
+lion	As soon as he received the royal command, the [lion] immediately carried out the order.	A hungry lion is looking for prey.	0
+lion	Young [lions] are gathering around the lioness, playing and having fun.	The [lion] secretly eavesdropped on the conversation between the king and the messenger.	0
+Retail	Long sleeves that cover up to the back of the hand.	Our store sells goods at retail.	0
+Retail	The front edge of the brown jumper that was thrown away had yellow soil on it, like on the back or [sleeve].	Yangnyeong carefully trimmed the sleeves and hem of the official's robe so that no wind could blow through, then carefully descended and turned towards the king's side, placing his hand in the king's armpit.	1
+Octopus	[Informal] Chewing the legs vigorously.	Six young men are intertwined like octopus tentacles.	1
+Octopus	This paper contains more spoken language than written language.	It would be delicious to lightly cook and eat freshly caught [octopus].	0
+Stamp	After searching through his pocket for a moment, he pulled out a pretty [stamp] that appeared to be counterfeit.	Stamp [seal] on the sales certificate.	1
+Stamp	My older brother, who wears a dobok and goes to a taekwondo [dojang], looked very cool.	I believed that the [stamp] made of crystal would bring good luck.	0
+Ambassador	Embassy of South Korea in France [Permanent Mission].	The [main building] of a traditional Korean house was made of wood and earth.	0
+Ambassador	The main material of this building is wood.	The [host] of this event is the President.	0
+Classmate	I met up with my elementary school classmates after a long time and had a conversation.	These days, it is rare for personnel decisions to be made based on alumni relationships or delays.	1
+Classmate	I get excited thinking about meeting my old school friend after a long time.	I was surprised to find out that my neighbor and I went to the same high school [as classmates].	1
+Talent	Professor Kim has nurtured many talents at the university.	That person is a really important [talent] for our team.	1
+Talent	The reason why [talent] is regrettable is because it was an avoidable accident.	"That person is called a ""[talent]"" who won a competition at a young age."	0
+situation	I left early due to [family circumstances].	He poured all his strength into the [consideration] of the achievements of that politician, as it became a settled fact.	0
+situation	My friend's situation was really tough, but I couldn't help.	Please listen to our situation and then make a decision.	1
+Prayer	The aircraft hijacking [attempt] ended in failure.	I prayed to God for his well-being.	0
+Boundary	The boundary between dreams and reality has not yet been clearly drawn.	Behind the school, the mountain was untouched without any boundaries.	1
+foot	I sprained my ankle while tripping over my foot.	The police shot a tear gas canister towards the fleeing suspect.	0
+foot	The child sat down hesitantly, complaining of a painful foot.	I quickly wiped off the moisture of the foot with a towel.	1
+Point	He has a large [spot] on his forehead.	The [dot] next to his eye makes him look more attractive.	1
+Point	I went to a dermatologist and got a [mole] removed.	After looking at the [point], I felt a sense of clarity.	0
+Seasonal	[Fresh] Fruits are definitely delicious.	I visited the iron-making process.	0
+Liver	Drinking alcohol so often will inevitably damage your liver!	Oh, I almost fainted.	1
+Torch	I am unable to go on vacation, so I am getting frustrated.	To make a fuss about buying a bicycle.	1
+Gumi	Food that suits the taste of Koreans.	He traveled to various countries in his youth and experienced Western culture firsthand in Gumi.	0
+Evolution	To determine the process of [evolution] in organisms.	The strong wind made it difficult for the wildfire [to be extinguished].	0
+Evolution	There was a disruption in the progress of the [Evolution] project due to strong winds.	Human [evolution] is still ongoing.	0
+Cheongsan	After some people went to prison or were harassed in public opinion trials, [Chungsan] ended and only the innocent and successful people remained around us.	It is a silent [clear mountain], a timeless flowing water.	0
+Cheongsan	The [Blue House] of regional sentiment is one inevitable process that we must go through for democracy.	The Ministry of Labor has announced that it will organize a special task force for unpaid wages [settlement] and take action to resolve the issue.	1
+Military	The military seized power through a coup d'état.	Kim [military rank], where are you in such a hurry to go?	0
+Military	This event was organized with the intention of honoring the [military].	After founding the Goryeo dynasty, King Taejo changed the names of the [military] and administrative divisions throughout the country.	0
+sentence	I corrected the [sentence] that violated grammar while proofreading.	This novelist's [style of] writing is rough.	1
+sentence	This [sentence] has too many fragments.	Looking at the [sentence] of the family, it is undoubtedly a prestigious family.	0
+Toilet paper	He had a nosebleed and was plugging one nostril with a white tissue.	Wipe off the spilled water here with a tissue.	1
+Toilet paper	I'm out of toilet paper, so I need to go grocery shopping.	Do not wipe with [toilet paper] roughly.	1
+self	He does everything his own way.	My sister always does her best in her work.	1
+self	A friend introduced [him] to his fiancée.	This [self] is presumed to be from the Joseon Dynasty.	0
+Hill	I turned my head towards the direction where I heard a sound.	She struggled to climb the steep hill.	0
+Hill	Raise your head.	I have already crossed the fifth [hill].	0
+Korean history	[History] In this difficult and talent-lacking time, we cannot afford to waste a great figure like a chief minister.	We raised a national dispute in order to correct [national history].	1
+Korean history	[History] I received a high score on the exam.	This comic book is made to easily learn [Korean history].	1
+Electricity	Professional Baseball [Electric] League.	When an accident occurred, the [electricity] supply in that area was suspended.	0
+Electricity	My electricity bill for this month came out to be too high.	You need to save [electricity].	1
+sweet	We must follow the command of [단].	Please leave the left [blank] of this page empty.	0
+sweet	In the middle of the stove, a small [pot] is placed and a boiling pot filled with purified water is placed on top of it.	"""Eungae"" is a top garment worn by women in Vietnam, and it is a type of upper garment that only reaches the waist."	0
+Solidarity	The author and era of this novel are unknown.	It was also asking Kim Sayong for responsibility [in solidarity].	0
+Soy sauce and vinegar dressing	Dip the dumplings in soy sauce and eat them.	If you're in a bad mood, nothing good will happen.	0
+Soy sauce and vinegar dressing	The [chord progression] of 평시조 (Pyeongsi Jo), 중장 (Jungjang), and 종장 (Jongjang) is composed of four notes each.	I prefer dipping raw fish into soy sauce rather than [chojang].	0
+Saju	It was revealed that the culprit told a lie to his son using [fortune-telling].	There is a culprit who manipulated everyone behind the scenes in [Saju].	1
+Saju	Looking at [your palm], it seems that you will have good luck in your old age.	Whose [fortune-telling] did you come with?	0
+Gyeongju	He won the marathon race in long distance running.	[Gyeongju] The cars raced fiercely.	1
+Region	I graduated from high school in [a province].	Do you know why I was demoted to the [provincial] position?	1
+Region	People with less subcutaneous fat handle the cold well.	Daechang is a food with a lot of fat.	1
+Correct	Already [정] has arrived.	I hit the rock with a pickaxe.	0
+Veterinary medicine	He wore a [lawyer's] robe and sat in the witness stand.	The body was dressed in a [veterinary] uniform and laid flat in the coffin.	0
+Veterinary medicine	Wearing handcuffs in prison, he finally realized his mistake.	There is a saying that if you eat an early [meal], you will actually live longer.	0
+Accompaniment	Everyone sang along to the accompaniment.	Since you have come all the way to Busan, it counts as having visited all over the country.	0
+Accompaniment	On the eastern wall of the main shrine, a painting of people dancing to the accompaniment of music [accompaniment] was drawn, and on the eastern wall of the eastern side hall and the northern wall of the northern side hall, a procession of about 250 people was drawn.	On the days when protests take place, the drinkers in this house passionately sing May songs or the Gwangju Uprising anthem to the accompaniment of a guitar.	1
+base	The existence of Kim Sang-tae's [base] society made the drinking seat passionate.	Independence activists established bases in various locations, including Gando, to lay the foundation for independence.	0
+base	The special forces carried out various attacks, such as saturating the enemy's [base] with firepower.	At the naval base's dock, not only destroyers but also cruisers can be moored.	1
+Jeotgal (Korean fermented seafood condiment)	That house only puts shrimp paste in their kimchi, they say.	He emptied a bowl of rice with a delicious and slightly salty [sauce].	1
+Jeotgal (Korean fermented seafood condiment)	Mr. Yeongho came holding a jar, saying it was [jeotgal], which his mother sent from his hometown.	On the dining table, there is a side dish of [anchovies] prepared for my father to enjoy with shiny and moist steamed rice.	1
+elevation, raising	The children played [jegi].	One of the representative traditional games in Korea is Jegi-chagi.	1
+elevation, raising	Sometimes I played [jegi], and slapped the 'dakkji'.	He did not accept the objection.	0
+Dialogue	[Dialogue] Where are you going to the temple?	At the presidential inauguration, diplomats and ambassadors from various countries attended.	0
+Dialogue	[Dialogue] Because the lines were long, I kept making mistakes.	I can't believe that they memorized all those lines in just one day.	1
+mouse	Set a mousetrap to catch a mouse.	The cat is stalking the mouse.	1
+mouse	The sound of [mice] scurrying prevented me from falling asleep.	During swimming, it is important to thoroughly prepare exercises to prevent cramps.	0
+Knife shop	He pulled out the knife from the sheath with a sharp motion.	I placed the meat on the cutting board and made a cut with a knife.	0
+Knife shop	If you make a slit in the pork belly and grill it, it will be grilled well.	He put the knife in the sheath and collapsed on the spot.	0
+Conversation	He owns several paintings by a famous painter.	He has more talent in sculpture than in painting.	1
+Conversation	He attends a Chinese [conversation] language academy.	His [painting] works captured the attention of everyone.	0
+White rice	"""Chunhyangjeon"" is the [highlight] of Korean classical literature."	When rice used to be distributed, they would calculate and give one white rice per person per day, but now they mix it with mixed grains...	0
+Debt	He purchased two books as [trauma].	That store gives [credit] to regular customers.	1
+Debt	In terms of the patient's trauma level, immediate blood transfusion is necessary.	This restaurant does not give any discount even to regular customers.	0
+visual	Go out to the meeting place at the promised [time].	Elderly people, please do not delay [your] vision.	1
+visual	Please sit in your designated seat at the scheduled time.	One must be able to view people from various perspectives.	0
+Postscript	I thought about whether this would be the manifestation of her self-esteem, but it felt like something unnecessary [aside], so I decided not to consider it at all from my side.	That friend added [postscript] at the end of every sentence.	1
+Postscript	[Note] Without further ado, let's get straight to the point.	He, who was the first son of the Jinju [Sajok] family, had a very neat appearance.	0
+Wish	Since the argument at that time, he and I have been living in a [wish] state.	The unconstitutional decision of the Constitutional Court regarding this case will have a significant impact on other similar cases.	0
+Wish	The children made a wish while watching shooting stars.	The wish of the older sister couple is to have a child.	1
+In the market	Counterfeit currency is being circulated in the market.	They distributed smuggled gold in the [market].	1
+Inventory	He sold the remaining [inventory] at a low price.	The result of that matter is so obvious that there is no room for doubt.	0
+Inventory	Due to insufficient inventory, it was eventually discontinued.	When I searched the warehouse, I found that there were several boxes of [inventory] piled up.	1
+Underwater	To cross over to someone else's [territory/area/water].	That coffin fell into the [underwater] enemy.	1
+Radio waves	The official announcement of the authorities spread throughout the country through [broadcasting].	No matter how much [transmission] is sent, if a receiver is broken or the frequency does not match, the transmission will scatter.	1
+Radio waves	to receive [transmissions].	For several days, there was severe interference in international communication due to solar interference.	1
+Clothing	The stage [costumes] reflected in the light shines particularly brightly.	Korean [clothing] definitely seems to have a Korean beauty.	1
+Clothing	In small theater stages, the art director is responsible for everything, including costumes, lighting, and sets.	With the appearance of renowned monks such as Jajang, Wonchuk, and Uisang, Silla Buddhism developed to a higher level.	0
+Poultry	Isn't there a way to prevent the influx of [birds]?	To accompany and assist the global [birds].	1
+Poultry	The protection of [birds] is urgently needed.	They gradually changed their policies to align with the global [bird] market.	0
+Anniversary	The family gathered together for my father's [memorial].	To commemorate my grandfather's [death anniversary], I performed a memorial ceremony.	1
+Anniversary	As it was my grandmother's first [anniversary], the adults from our neighborhood gathered at our house around dinner time.	If the defendant does not attend the trial [date], it cannot be amended unless there is a special provision.	0
+Jeongjo	Having a husband does not mean that I have to protect [Jeongjo].	After King Jeongjo's reign ended, young King Sunjo took the throne.	0
+Jeongjo	[Jeongjo] was a king who was respected by the people.	[Jeongjo] is a king of an era that achieved significant cultural development.	1
+Arrangement	I changed the [arrangement] of the furniture in the room.	Pay more attention to the [arrangement] with the new machine.	1
+Arrangement	I wondered how to arrange the furniture.	In a situation where [placement] has been made, compromise is necessary.	0
+Voice	To speak in a slightly hoarse [voice].	He checked the voice message.	1
+saturation	To exhaust all [resources].	To aim [saturation] towards one's own people.	1
+Hwaseong	The spaceship landed on Mars and began exploration.	The photo of [Mars] taken by the exploration probe will be revealed on the evening news today.	1
+Hwaseong	Just 20 years ago, many people thought that the exploration of Mars was just a mere dream.	"Sunnyoung and I practiced listening to ""Garak"" and ""Hwaseong"" in the practice room and transcribed them onto sheet music while practicing ear training."	0
+Name	He was nominated as a presidential candidate in the national election.	"Busan was called ""Dongnae"" in the past."	0
+Name	The discovered stele has high archaeological value as it is engraved with personal names and place names from the Silla Dynasty.	There are many place names in South Korea that are written in Chinese characters.	1
+downstream	Transporting lumber using [downstream].	Grandfather rode the boat again and went down the Yeongsan River, [downstream].	0
+downstream	The river [downstream] is adjacent to the sea.	If you release poison in the upper stream, people in the lower stream will also die!	1
+Makeup	The [makeup] of the newly adjusted hanbok was too long.	Before his speech, President Park quickly finished grooming his hair and [makeup].	0
+Jisung	My wife's young intellect.	I asked my mother-in-law to pray for a son for me, but she gave birth to a daughter instead.	1
+Jisung	"If it's ""Jisung,"" it must be Gamcheon."	She was an elite who possessed both intelligence and skills.	0
+Abbreviation	When he received the newspaper, he [abbreviated name] started folding the rice cake-like thing carefully.	The government conducted a [informal] event for Hangul Day, which was excluded from the public holidays.	0
+Abbreviation	The event was conducted in a simplified manner due to circumstances.	The [traditional medicine] made by my grandmother is always delicious whenever I eat it.	0
+White	Pack toiletries in a [bag].	He won every match he played. If it was a hundred, he won a hundred.	0
+White	There are so many people that it is impossible to count the exact number in hundreds or thousands.	Suddenly, the company flipped over the [box] and spilled all of its contents onto the ground.	0
+Oksa	A rebellion [Ok Sa] broke out.	The narrow alley seemed like it would burst with the people who had gathered.	0
+Crowd	Using a whining voice to complain.	A swarm of bats suddenly rushed in.	0
+Kim	In that town, there was a drying shed in the middle of the terraced rice fields.	Hee-sun came into the room with a bowl of tteokguk (rice cake soup) in her hands.	0
+Kim	[Kim] took a bite of the steaming dumpling that was rising.	With just some roasted seaweed, one bowl of rice can be quickly finished.	0
+Chief	When I visited Myohyangsan this time, I was impressed by the majestic mountain scenery and the [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석] (impressive) [수석	[Top] To seize the honor of passing.	0
+Chief	The name of my older brother, who took the top spot, was written on the first line of the list of successful applicants.	My grandfather, who knew that I had graduated as valedictorian, smiled satisfactorily.	1
+India	He demanded a meeting with the murderer and the corpse [India] from the police station chief.	An accident occurred where a bus jumped into [India] and hit pedestrians.	0
+India	She traveled to [India] following her destiny.	When the red light is on, you must wait in [India].	0
+Legacy	If you have any tricks, please [teach] me.	My mother-in-law was only interested in the secret recipes [legacy].	1
+Legacy	Now is the time when [full transfer] of technology is needed.	So, you're saying that we need to understand through a comprehensive investigation.	0
+instead	[Instead] give despair.	Feed milk instead of breast milk.	1
+instead	[Instead], they all sincerely served and respected the king.	All the delegates stood up in unison and showed their respect to him.	1
+Harmful	[Purified] water filtered from harmful substances.	Mosquitoes are classified as [harmful] insects to humans.	1
+Harmful	[Unsafe] Imported beans are causing problems before a precise investigation on the ingredients is conducted.	Most fast food is perceived as [harmful] food among people.	1
+time	When he stood at the school gate, a bell rang to signal the start of class.	Sometimes I get dizzy.	1
+time	At that time, a sharp sound was heard.	When you push the [dirt] in the sauna, it feels like you've taken a bath.	0
+Price	I bought new clothes at a cheap [price].	The reason for winning the final game was the effectiveness of the abdominal [price] against the opponent.	0
+Yoji	The essence of my words is that it should not be done.	It is important to understand the other party's intention.	1
+Poem	Dongmyeongseongwang is the [founder] of Goguryeo.	Choi Chi-won is a [sijo] of our Korean literature.	1
+Poem	[Sijo] is unique in its structure compared to the other two traditional Korean poetic forms, Chojang and Jungjang.	I strolled along a quiet lakeside while reciting Song Kang's [Sijo].	1
+kki	There is a lot of [talent] in singing.	Director Kim gave them the opportunity to show their hidden talent.	1
+kki	There is a lot of [charm] in dancing.	"It is not easy to deal with the problem of ""매 [끼]"" (a Korean slang term referring to a feeling of irritation or annoyance)."	0
+Suse is a Korean surname.	It is a good house, with beautiful scenery and smooth water flow.	As the empty-handed side of the sword began to feel empty, the other side gradually shifted from defense to offense in the water.	0
+Suse is a Korean surname.	When the complaint was posted, the famous large corporation was soon engulfed in controversy.	They put forth excuses while being cornered by accusations.	1
+above	Climb up the mountain.	Let's go up to the rooftop of the building.	1
+above	When I climbed the mountain, my mind became at ease.	[The person] took medicine to relieve pain.	0
+Shinmyeong	They fought for the country with all their might.	He devoted himself to this work until his death, sparing no effort.	1
+Shinmyeong	As I watched the clown's lively dance, I felt the bones in my arms tingle, and I wanted to swing the whip vigorously.	Mingchang's pansori added a new element, [Shinmyeong], with the accompaniment of bukjaebi.	1
+Entertainment	I was on my way to the legislator's house to deliver some entertainment.	This drama provides abundant [entertainment].	0
+Entertainment	There are so many [things to see] in the world, right?	That child has suffered from [sightseeing] for a long time.	0
+Attire	Compared to other guests at the wedding, he was dressed too shabbily.	I'm so frustrated because of you that my [outfit] is about to burst.	0
+Fountain	One should live according to [fraction] without knowing.	The water was boiling vigorously and white steam was rising like a fountain from the lid of the kettle.	0
+Fountain	The child threw a coin into the [fountain].	Live in accordance with [the fountain].	0
+Apple	An apple must be red and shiny to taste good.	My younger sibling apologized to me about yesterday's incident.	0
+Apple	I wondered whether you would accept my sincere apology even if I wholeheartedly [apologized].	The apple's sweetness is very delicious.	0
+Evangelism	In that young man's room, there was a world map hanging.	Isn't the phenomenon of the transmission of values already old?	0
+Harmony	The play had excellent harmony between the stage setting and the characters.	What is this harmony? There are scattered hay in the yard!	0
+Wealthy person	My younger sibling became a [wealthy person] by succeeding in business.	He is a [wealthy] person with billions of dollars in assets, but he lives modestly.	1
+Wealthy person	If you cannot share with someone who only seeks to satisfy their own desires and thirst, what is the difference between a stingy [rich person] and others.	He is just an ordinary office worker, neither particularly wealthy nor particularly poor.	1
+Technology	He excelled in [the skill of] handling people.	He made efforts to hone his skills.	1
+Technology	In comparison to the advancement of technology, people's level of awareness is lagging behind.	Our company will leap to become the world's top company through [technological] innovation.	1
+Smile.	To smile.	[A smile] is flowing.	1
+Appearance/attitude	He cut his hair and pretended to be a middleman.	The thief disguised himself as a drunkard and roamed around.	1
+Appearance/attitude	He was caught pretending to be rich and suffered embarrassment.	Why is that person pretending to be a teacher?	1
+Elasticity	The people's [resilience] to harsh politics is evident.	I felt a sense of admiration when I saw the pictures of the living room and bedroom completely covered in wallpaper. [Excitement]	1
+Elasticity	The characteristic of this Yongsoo Cheol is excellent elasticity.	It was a magnificent sight that produced [elasticity].	0
+Thousand	"[천] 두 필을 끊다.
+en: To cut two threads."	One apple costs [one thousand] won.	0
+Road	He lost his way in the mountains.	The house's front entrance is well-groomed.	0
+Road	She made a phone call on her way to the bookstore.	On the way to the academy, I always stopped by that park to see the cats.	1
+One	Release the [Korean] that is stuck in your heart.	I will help him, within my reach.	0
+Git	I put on [a scarf] thickly because I was afraid it would be cold.	He neatly laid down straw in the barn.	1
+Git	The [git] is all wrinkled and doesn't look neat.	I need to properly organize the [collar] of the clothes.	1
+Need	To cut the thread.	I have stored tens of necessary or tens of words.	0
+Need	They released the fifth [necessary] horse to the market.	I took only two cherished words [necessary] and embarked on a journey.	1
+Price	We were sitting on the [riverbank] and watching the flowing water.	Coincidentally, Jong-sul was the one who untied the rope of the swing that was tied to a tree branch.	1
+Price	The [inflation] that was causing anxiety has entered a state of stability through the government's active stabilization efforts.	He went to the [riverbank] and stepped on the slippery rocks like stepping stones and walked a few steps into the water.	0
+height	That woman is very tall.	Mom carefully picked out lint and dust with a [key].	0
+height	He was tall like a utility pole, whether he was a basketball player or not.	The captain was still holding the tiller and the key.	0
+Contemplation	He does not show his emotions in contemplation.	The contemplation of Gongju was pure and dignified.	1
+Contemplation	In deep thought, he seemed as if he couldn't hear our voices.	The teacher who finished all the stories soon became absorbed in contemplation.	1
+Straight	The bullets were still flying in a magnificent empty street, drawing [straight lines] in all directions.	The outfielder successfully caught the [line drive] and made a double play.	1
+Straight	I ran on a road that stretched out in a straight line.	The batter tensed up when the ball, which was flying straight, suddenly curved.	1
+Baekban (Korean meal consisting of rice, soup, and side dishes)	I always had a regular simple restaurant near the bus terminal for meals and filled my stomach with 150-won udon or [baekban].	When pouring water into a peach, the color is not pretty and does not turn dark easily with just the flower and leaves, but if you add a little bit of [rice water] and crush it, the water becomes pretty and dark.	0
+Unmanned	The factory adopted an [unmanned] production method.	I got caught by a [unmanned] camera while speeding.	1
+Unmanned	They installed [unmanned] surveillance cameras.	[Unmanned] The car recognizes obstacles and hazards using various sensors and drives to the destination.	1
+abalone	Every day, the common people on the beach suffer as they catch abalones.	Craft using natural colors of abalone	1
+abalone	After working half a day, she brought back sea cucumber, abalone, and a handful of seaweed.	We went to the beach carrying two large abalones, sea salt, and soju.	1
+Branch Office	Our company is a mid-sized company that has established multiple branches nationwide.	Have branches all over the world.	1
+Branch Office	I applied for a dispatch to the German [branch].	I have been appointed as the representative of the Canadian branch.	1
+Private education	Our school is a prestigious [private school].	In particular, it is remarkable that the wealthy individuals who were once immersed in [private education] are now showing a change of heart.	0
+Private education	[Education] There was a commotion when the corruption was revealed.	[Education] Many students struggled when the foundation collapsed.	1
+Australia	After his father passed away, he became the head of the household [in Australia].	In the National Assembly, [Australia]'s abolition bill was deliberated.	1
+Heart	I cut the thread with scissors.	Lee Hang-bok, a true judge of the Yi Dynasty, is a person of great value who was chosen and appointed at a time when the nation was in decline, because he had a strong mind and bright and clear thinking.	0
+Snowball fight	After having a snowball fight with my younger sibling, my eyes hurt.	When the two people accidentally met each other's gaze, they stared at each other as if having an eye fight.	1
+Snowball fight	When the snow started falling, the children rushed out as if they had entered a different world and were busy making snowmen, having snow fights.	The children were having a [snowball fight], throwing poorly made snowballs at each other.	1
+Current affairs	People showed a gloomy reaction to this [current affairs].	He is an expert in [current affairs] issues.	1
+Poison	Although it looks flashy on the outside, this mushroom has a strong [poison].	Don't touch the frog because it is poisonous.	1
+Daejeon	All players are nervous for the [Daejeon] match against last year's winning team.	The Four Deities presented their offerings to the Daejeon, Junggung, and Donggung palaces.	0
+Daejeon	She lived in [Daejeon] and moved near Seoul today.	He was tried as a war criminal for the mass murder of Jews during the Jay Cha [Daejeon] era.	0
+frost	Last night, there was a lot of frost.	In the summer, I used to make and eat watermelon [sorbet] with my friends.	0
+frost	When frost begins to fall, you should start working.	The field owner put up a fence to prevent frost on the watermelons.	0
+Luminous	He had a [glow] because he wanted to dance.	People do not respond to his [outburst] that he does not know what to do with his anger.	1
+Bill	I declare the approval of this [bill].	[Bill] was rejected in the cabinet meeting.	1
+Bill	[The bill] was unanimously passed.	Last March, some bills related to the development of certain cities were proposed.	1
+Preceding	[Preceding] Provide a scholarship to a student.	His [predecessor] was a rare genius.	1
+Specialty	This restaurant specializes in bulgogi.	He runs a [specialized] store that only sells traditional Korean clothing.	1
+Specialty	[Expert] It seems wise to leave it to the repair center.	In that field, I am [specialized].	1
+Jeong Gyeong	Tearful Boyhood [Jung Kyung].	Corruption resulting from the collusion between the previous government and the business sector has been gradually exposed.	0
+Jeong Gyeong	In the calm sleep like a mirror, [Jung Kyung] with red flower petals floating gently catches the eye.	Whenever she gets tired, she looks at the horizon of the Maldives' turquoise sea [scene] that unfolds before her.	1
+Human resources	[A country] with abundant manpower and technology.	Dying and living is not something that can be done with [human] resources.	1
+Human resources	This task requires a lot of [manpower].	That person started a business by mobilizing a lot of [personnel].	1
+Spy	Please criticize my lack of loyalty.	Sealing off both the house of the two sisters and [the spy]...	0
+Shinsa	[Men] Three men and three ladies are going.	That man was so dignified that his head naturally bowed down just by looking at him. [Gentleman]	1
+Shinsa	[Sinsa] asked about my well-being.	Does wearing a suit make you a [gentleman]?	1
+impression	He didn't seem like a businessman, nor did he have the appearance of a scholar. His attire was shabby.	Inflation has been suppressed.	0
+Medium size	One of the three rooms in the three-room house is occupied by a [medium-sized] piano.	I was living with my [medium-sized] at that time.	0
+Medium size	Everyone cheered when the culprit was sentenced to [medium] punishment.	[Medium-sized] The boundary between cars and small cars was ambiguous.	0
+Adult	She became an adult and went to the convenience store to buy alcohol.	The life and ideology of a great [person] in history had a significant impact on future generations.	0
+neat, tidy, clean	The anxiety that is gripping Young-hee is that Minghoon has not returned, and it came from the [conclusion] that it is related to the previous fight.	Mr. Hwangpan-sik believes that the smile that appeared on Detective Kwak's face can be interpreted in various ways, with one meaning being that it cannot be easily judged as [neat].	1
+neat, tidy, clean	The doctors who attended the meeting concluded that brain death is considered as death.	Now, it seemed that everyone had given up hope on that business.	1
+fraud	His words boosted people's morale.	The [spirit] of the players is soaring.	1
+fraud	[Fraud] He, who had a criminal record, was unable to gain people's trust.	I rotated snacks to boost team members' morale.	0
+Water level	Air pollution has reached a serious level.	The river is rising and churning in a dangerous [water level].	1
+Water level	In the area around the river, there are measurement stations installed to measure water temperature and water level.	[Suwi] locked the door and entered the school.	0
+DaeRyung	Upon seeing someone sweating, I grab a towel and hand it over to them as a gesture of respect.	Chang-sik never comes when his father calls him, and it takes him three or four tries before he finally responds.	1
+DaeRyung	Among his classmates who were commissioned as lieutenant colonels, he became a general first.	The assistant behind the priest poured water into a bowl.	0
+Material	To write using indigenous [materials].	Since departing from the military headquarters in Daegu, he has been immersed in deep silence for almost two hours without saying a word.	0
+Material	Bukpyeong is a port located in Donghae City.	Flowers and butterflies are commonly depicted traditional subjects in Oriental paintings.	0
+Country	To play the [national anthem] of each country.	Whenever I see the South Korean flag or hear the national anthem while I am abroad, my heart always feels a pang.	1
+Country	One must act with the mindset of representing the [country].	I investigated cases from various countries.	1
+Before	There were occasionally such things in the past.	During holidays, our house is filled with the smell of oil because we fry pancakes.	0
+Before	I was going to make [jeon], but ran out of flour.	To make [jeon] crispy, you need to use a lot of oil.	1
+Optimism	This picture is impossible to know whose it is because there is no [optimism].	With the many factors causing the increase in prices, one cannot simply remain optimistic.	0
+Wallpaper	Medical activities for residents of Naktado and [Wallpaper].	The room has torn window coverings instead of wallpaper.	0
+Wallpaper	People living in [the wall] do not easily receive medical infrastructure benefits.	This time, instead of [wallpaper], we painted with paint.	0
+Traditional Korean clothing	He is studying the clothing of women in the Joseon Dynasty.	Among the things my mom lightly criticized about Japanese customs, [traditional clothing] stood out the most.	1
+Traditional Korean clothing	It was not easy to put on [traditional clothing] as it required a lot of effort.	[Sports] The two players seemed to have a lack of synchronization despite preparing for the match.	0
+Excuse me.	I am very sorry for causing inconvenience.	I will ask one more thing without hesitation.	1
+Excuse me.	[Excuse me], if it's not too much trouble, may I ask one question?	I do not want to cause inconvenience.	1
+Moving	[Move] Choose the day to move.	I downsized my house and moved.	1
+Moving	The first female [director] has been appointed.	There is no responsibility because it was a decision made by Director Park.	1
+Wheel	That car has large [wheels].	It looks like a weird [wheel]!	0
+Wheel	The sound of a pillar clock announcing eleven o'clock and the sound of hooves ringing out horizontally, the sound of [wheels] rolling can be heard from afar.	By tapping the steel [wheels] of the train with a small hammer, I learned how to determine whether there was any problem or not based on the short and hard sound it made.	1
+Flight	To commit an [act of flight] that cannot be done as a human.	He has a record of one million hours of accident-free [flight].	0
+savings	The characteristics of information communication are cost savings in obtaining information and increased effectiveness in using information.	Budget [savings] were achieved through personnel reduction.	1
+savings	Our company has decided to eliminate the year-end vacation pay traditionally given in order to save expenses.	Using military personnel in public projects is recommended for the purpose of cost savings.	1
+Alcohol	He drank [alcohol] with rice.	She had no appetite today, so she decided to have a few drinks instead of dinner.	0
+Alcohol	It makes a sound of ripening while turning red.	I feel dizzy and confused after drinking [alcohol].	1
+Sale	He took out a house document and seal from his suit pocket and wrote a [selling] contract.	"It keeps repeating the words of ""sell"" over and over again."	0
+Sale	[src: Sell] Bring the seal to sign the contract.	He no longer received any contact after selling all the goods.	1
+Sorry, but I'm unable to provide the translation you're requesting.	There is a saying that Mr. Kim is involved in this matter.	[모] The process of extracting fibers was not smooth.	1
+Sorry, but I'm unable to provide the translation you're requesting.	I went to my grandfather's house and planted trees and also brought back some beef.	Manjae went to the field where he planned to plant the radishes, pulling a cow along with him, and was busy hoeing the field early in the morning.	1
+Hypothesis	He set up a [hypothesis] and explained the argument.	Since the [hypothesis] was originally incorrect, the problem has been invalidated.	1
+Hypothesis	Do you think that hypothesis makes sense?	First, even if you look at the building and make a judgment [hypothesis], it's not too late.	0
+Feed	A new [feed] was discovered in this excavation.	Rice bran becomes a good feed for livestock.	0
+Feed	[Food] doesn't eat even when I put it in its mouth, but it eats well when I throw a piece of meat.	Even before the food was placed in the bowl, the dog barked loudly, indicating that it was hungry.	1
+Park	Stayed for 3 nights and 4 days in Jeju Island.	Why are you hitting someone who did nothing wrong so violently?	0
+Park	Mr. Park was skilled in playing the guitar.	Suddenly, the wall was filled with [Park].	0
+mine	The road stretched across the field, winding around the mountain and crossing the [meadow].	On this road, I am the rotten [one].	0
+mine	My favorite color is blue.	I will establish my position at work this year.	0
+After death	Who would recognize this cylinder [before/after] one's death?	After death, stiff muscles begin to soften over time as time passes.	1
+After death	In the past, people would bury several pieces of pottery under the feet of the deceased to show their interest in the afterlife.	I will pay the payment [afterwards].	0
+Capital	To equip the town with [water supply] facilities.	Living in the mountains [capital city]	0
+Capital	[Due to the] water being cut off, I couldn't cook rice.	The people rebelled against the story of moving the capital.	0
+Trap	He set a trap [snare] and waited to catch a deer.	We cautiously remain on guard, fearing that there may be enemies lying in wait to trap us.	1
+Trap	North Korean submarines are being salvaged by naval [traps].	To catch the wicked tomb raider, they had no choice but to set a trap and wait.	0
+support	Send [support] to the government's policy.	He gained overwhelming public support.	1
+support	He was elected as the chairman with enthusiastic support from the members.	His argument received widespread support from the middle class.	1
+Telecommunications company	I will go to Jeonju as a [telecommunications company] agent the day after tomorrow.	I would like to know the newspaper company or telecommunications company you work for.	1
+Gol	If we add just one more [goal], it will be a tie.	Seoraksan Mountain is famous for its deep valleys and breathtaking scenery.	0
+Gol	When I scored a goal, all the players cheered.	I was in pain as if I got hit with something during the game.	0
+Cabinet	To embark on the appointment of a new cabinet.	The temporary [cabinet] that was launched at the end of Namsan.	1
+Cabinet	The sum of the angles in a triangle is 180 degrees.	With the new [cabinet], the appointment of ministers has begun.	0
+Recovery	He had no choice but to resort to quantum measures.	Throughout my life, I have experienced the spring of Jirisan every year, but I have never felt the mystery of [rebirth] of life like this time.	0
+Recovery	Please entrust that task to [Sosang].	He raised even his ex-wife's child.	0
+Electric wire	"[전선]에 걸쳐 마지막 공세를 가하다.
+en: Launching a final attack across the front line."	Under the ash-colored sky, useless wires and messy instruments are now hanging loosely, getting drenched in the rain.	0
+Electric wire	It is dangerous to touch exposed wires with bare hands.	Untangling [wires] is a cumbersome task.	1
+Conservatism	That company seems to have a lot of conservatives, but the work seems too difficult.	The residents of this apartment had an official meeting with the construction company to demand repairs.	0
+East and West	[East-West] Cold War between the two camps.	Regardless of [East or West], alcohol was considered a sacred food offered to the gods.	1
+East and West	It was really fascinating to have a relationship with [Dongseo] like siblings.	Seeing that both the East and the West had taken part in it, he became angry and stopped talking.	1
+repair	Making a fuss over trivial matters.	[If] [I] [do] [the] [repair] [properly], [these] [shoes] [will] [look] [like] [new].	0
+repair	I had to eventually get [alterations] done as my belt kept loosening, indicating that I had lost weight.	The man who repairs shoes next to the bus stop is actually a billionaire.	1
+Furniture	While tidying up the kitchen [furniture], I often thought of my mother.	1. [Furniture] The government has announced that it will impose additional taxes on those who own a second home.	0
+Furniture	First, let's go and check out the [furniture] street and then make a decision.	When moving, I threw away most of the [furniture].	1
+Theft	There is [moderation] in his behavior.	Soldiers should always have [modesty] in every action they take.	1
+Drainage	This drain works well.	Crops cannot grow in land where there is no drainage.	1
+Drainage	It is difficult to completely control young seedlings, but if you do proper drainage, you can achieve some effectiveness.	"The university first selects freshmen based on a ""multiple"" system and then passes half of them in the final evaluation."	0
+Indicator	Magma erupts through the [indicator].	The hot heat heated up the [indicator].	1
+Indicator	Recently, there have been criticisms that various indicators representing the performance of electronic products differ significantly from the actual values, indicating the need for improvement.	Advection fog refers to fog that forms when warm and moist air moves over a cold surface or water.	0
+Marriage book	We gathered the poems he wrote during his lifetime and bound them into a [poetry collection].	I used to tremble at his extraordinary talent when I happened to read his [poetry collection].	1
+Marriage book	I have a habit of getting nervous every time I go to [a wedding].	[Poem] I received a gift.	0
+foundation	After neatly arranging the foundation and setting up the shrine, I raised the table.	To donate funds to a scholarship [foundation].	0
+superior	I will not interfere with whatever decision she makes.	Whatever incident happens in the village, it has nothing to do with me.	1
+superior	This matter has nothing to do with you.	[Correlation] Please salute the officer.	0
+Jinju	She decorated her wedding dress with pearls.	I decided to stay in Jinju for a while and do some sightseeing.	0
+Jinju	My friend who went down to Jinju did not return to Seoul for a while.	The necklace made of pearls was an heirloom left by her mother.	0
+apartment/complex	Creating a large-scale flower garden [complex].	Transformed into an industrial research [complex].	1
+apartment/complex	When I opened the lid of the tea [pot] that was tightly wrapped in a cloth to preserve its aroma, a strong scent and steam rose.	In the past, Dongdongne, which used to be synonymous with poverty, now has apartment complexes, so it is impossible to find any traces of its old appearance.	0
+Manipulation	He is clumsy at operating machines.	It was revealed that his award history has been manipulated.	0
+재 (jae)	[Revised] Getting Married in the Town Beyond.	Drop the [re] of the pipe.	0
+재 (jae)	Be careful not to let [it] fly away.	After the fire went out, the hearth was filled with ashes.	1
+seed	Mr. Park, please come here for a moment.	Let's form a team with the same [last name] and play a game.	1
+Hydrogen	Water is a compound of hydrogen and oxygen.	When oxygen combines with hydrogen, it becomes water.	1
+Hydrogen	It was the first time that an elderly person released [hydrogen] in the market.	[Hydrogen] could not exert its strength as it aged.	1
+Blue pottery	When telling a story, one must consider the age or occupation of the listener.	A [qing ware] with a painting of a twin dragon gate.	0
+Blue pottery	This [porcelain] is a work made during the Goryeo Dynasty.	The blue color of Goryeo Celadon has a mysterious beauty.	1
+Period	It is not the [time] yet to proceed with our plan.	He has a humble and quiet personality and does not feel jealous or envious.	0
+Period	They say that adolescence is a time when everything is like that.	There is nothing good about fighting [at this time].	1
+I am.	[I] carrying the voice of the readers [I].	Give water to [me].	0
+I am.	"So, Hong Geon-jeok's ""Nan"" occurred."	I gave water to the [egg] that the principal teacher cherishes.	0
+Fundraising	After smoking a few puffs of cigarettes, 경락이 starts coughing.	My mother prepared to attend a fundraising event for the Patriotic Women's Volunteer Association to help unfortunate neighbors.	0
+Fundraising	This year's donation [fundraising] decreased compared to last year.	The subsidy campaign for neighbors [fundraising] has successfully ended.	1
+Origin	The monks offered their prayers to the Buddha.	How great would it be if things went according to our [origin]?	1
+Origin	Even the teachers playing Go in [Origin] were all surprised and ran out.	We may open the [origin] of a new era.	0
+Repair	He is skilled in [repair], so he never makes calculation mistakes.	To increase agricultural production, expand irrigation facilities.	0
+Succession	A celebration was held to congratulate the [transmission of tradition].	Culture that is being passed down through the private sector.	0
+Succession	The [transmission] of culture and art has been raised as an important issue.	If we win this game, we will set a record for [consecutive victories] in this tournament.	0
+Name	[Relationship] Close influence relationship.	"The sign is engraved with the name ""Choi Dental"" in raised letters."	0
+Name	If the interests between two countries are not guaranteed, they cannot become friendly nations.	The wife scratched her head while handing her husband a card receipt with the name of a bar [trade name] on it.	0
+scissors	The teacher said that they will use paper and scissors in the art class.	The child sleeps while sweating nervously under the pressure of [scissors].	0
+scissors	I purchased a safety [scissors] for the child.	It seemed like all the paper in the house had been cut with [scissors].	1
+Shoes	There is a black shoe under the calf.	This is a [verbal] order from the party.	0
+Shoes	Promise verbally.	Hansol put on his new shoes and left the house.	0
+Symbol	Choose food that suits each person's taste.	People choose items according to their own preferences.	1
+Symbol	To borrow a book, please write the call number, title, and author's name on paper.	The novel quickly became a bestseller, appealing to readers' psychology and preferences.	0
+Wind	The wind is so strong that it's difficult to keep my body together.	[Weather] Perfect weather.	1
+Kyungdo	The incline of this uphill road is approximately 20 degrees.	Don't worry too much because it's just a minor injury.	0
+Kyungdo	[Longitude] divides the earth into hemispheres.	If the hardness of a diamond is classified as grade 10, ceramics are as hard as grade 9.	0
+purchase	He experienced a pain that felt like his limbs were being torn apart.	He is a person who can put comrades in danger.	0
+Reversal	The runner who reached third base was a [reversal] runner.	Our team player succeeded in a [comeback] one minute before the end of the game.	1
+Reversal	Dongsu made a 3-point shot 2 seconds before the end of the game, leading to a [comeback].	We aimed for the opportunity of [reversal].	1
+Pause	Issue a [stop] production order.	To demand [the cessation] of nuclear experiments.	1
+Depth	Because of the family that he had left behind, my father always kept his feelings hidden even when he was deeply saddened.	On the island, there was a considerable amount of sand and the depth of the water was relatively shallow near the edges, but the current was strong, so the river old man always cautioned to be careful.	0
+Depth	It was unfortunate that there was a deep sadness on the face due to various problems.	I was curious about what kind of creatures would be in the deep sea.	0
+waste	Recycle [waste paper].	To implement a [abolition] of the ceiling on land ownership.	0
+waste	As the exchange rate rose, companies began purchasing waste paper domestically instead of from foreign sources, leading to an increase in the recycling rate of waste paper in the country.	The prince's divorce became a good pretext for republicans who advocate for the abolition of the constitutional monarchy.	0
+Individuality	His work lacks [individuality].	The elements that characterize people's [individuality] are very diverse.	1
+Individuality	[Uniqueness] All the judges pressed the pass button in response to the full voice.	He had a sophisticated style, claiming to live in [Gaesong].	0
+Early	I ate [조기] grilled.	[Early] I worked hard to graduate.	0
+Early	The government proposed an emergency meeting with Japan to resolve the incident [early].	On her way home from work, Hye-yeong stopped by the market and bought a few [pollack] to use as side dishes.	0
+national religion	The religion of that country is Buddhism.	Joseon made Confucianism its state religion and began suppressing Buddhism.	1
+Old model	Received a sentence of 10 years in prison.	The judge, who acknowledged all the facts of the prosecutor's indictment, sentenced [the defendant] to life imprisonment according to the [previous] law.	1
+Old model	[Former] often had different cases from the actual case.	The only person who still uses that [old] laptop is him/her.	0
+Item	This clothing is large in size.	The talking [item] is like an adult.	0
+Item	[I] came back with a gift full of [products].	The [embrace] of the man was warmer than anyone else's.	1
+Half Year	To hear the [opinion] of the authorities.	To mourn and express condolences.	0
+Half Year	He gave a [half-bow] to his father, who made all decisions dictatorially.	Non-liquor lawmakers who carried the [half-bottle] and engaged in independent actions are showing a mass movement to leave the party.	1
+reduction	I felt [disgusted] by the forced logic.	The [dislike] towards the other person gradually grew.	1
+reduction	Members have [displeasure] towards Chairman Kim's unilateral actions.	Due to the rumor that spread on the internet, the store could not avoid a decrease in imports.	0
+Article	Journalist Kim is busy writing an article to be sent to the newspaper.	My father used to drive a bus and now he is a taxi driver.	0
+Article	There was only one lady sitting in the driver's seat and in the front seat near the entrance, while the car was empty.	He was tired of constantly telling the gathering crowd that the article was not true.	0
+Corn	To condemn politicians who accept bribes.	Eat rice cake made from [sorghum].	0
+Comparison	The students poured their efforts into preparing for the mid-term exams.	I didn't prepare at all for the exam.	1
+Tolerance	He showed me [kindness/leniency].	Based on [tolerance], we should gather people's opinions rather than hatred.	1
+Tolerance	Despite causing chaos and creating disturbances in the country for nearly two months, the authorities showed special leniency and granted forgiveness.	He knew how to use idiomatic expressions very appropriately in his speech.	0
+won	He unraveled my usual [wish].	If I see reunification in my lifetime, there will be nothing more [valuable] than that.	1
+won	The clown took his hands out of his pockets and drew a circle with his arms, doing shoulder exercises.	She solved the mystery of the ghost's [origin].	0
+Case	He gave specific examples to support his argument.	I don't know how to handle it because there have been no such cases.	1
+Case	Our traditional customs, Dure, Pumasi, and Hyanggyu, are examples of practices that embody the spirit of community cooperation.	There are often cases where financial institution employees commit financial crimes in order to recover losses incurred in stock investments.	1
+Window	There is a south-facing window in the house.	[View] The sky visible beyond.	1
+Window	Are there still people who throw [nets] to catch fish?	Sujin opened the window to ventilate the room.	0
+Blister	The doubt that had been thrown at oneself countless times disappeared as a foam in front of a greasy alcohol plate in a restaurant.	All the efforts so far have gone to waste.	1
+Dryness	There are two methods of drying wood: natural drying and artificial drying.	It would have played a significant role in the construction of the turtle ship.	0
+Dryness	The shipbuilding [construction] phase is important.	The laundry [drying] did not go well because the weather was cloudy.	0
+New Year	Since the beginning of the year, all public utility fees have been significantly increased.	I saw the secret to success in the new year.	1
+New Year	Last year, the labor movement in the country faced severe friction between labor and management, leading to a continuous confrontation that started in the beginning of the year and lasted throughout the year.	Our company sets a target profit at the beginning of the year and if we exceed it, we provide the employees with a certain percentage of the excess as a bonus.	1
+Military officer	The successor [military supplies] will soon be appointed.	[Army] Transporting supplies to the battlefield.	0
+Military officer	That path is the enemy's [military supply] supply route.	The people mentioned as candidates for this year's [military supply] were not impressive.	0
+Suwon	That area was well-suited for farming due to the abundance of [Suwon].	He commutes by electric car in Suwon.	0
+old	Have you heard about our former [old] member of parliament? It was also reported in the newspaper, right?	I ordered seolleongtang from the [former] number table.	0
+old	The last line of the poem we learned in class left a deep impression.	This year's charity pot event will be held in 65 cities, counties, districts, towns, and villages.	0
+Motivation	Exports in June increased by 32.5% compared to the same period last year.	I asked for the [reason] for their escape.	0
+Motivation	Once the motive for the crime was revealed, people sympathized with the criminal.	Jiwon [Motive] is safe.	1
+Acidity	Rice or alcohol are representative [acidic] foods.	The stomach of that animal is [acidic].	1
+public	Honoring the achievements of the ancestors is also a good thing for the future of their descendants.	Staying up all night resulted in achieving nothing [significant].	1
+public	Laziness is a [public] concern that we all need to be cautious about.	The [achievement] established by women will be remembered in history.	0
+Pumpkin	To slice and cook [pumpkin] and eat it.	[Pumpkin] Pumpkin hanging on a vine	1
+This	The teeth of a person help to chew and break down food.	[I] need to go to the dentist because [my tooth] is shaking.	1
+This	The child was still very young, not even being a year old.	If you don't thoroughly clean it, it will quickly rot.	1
+Topic	This [topic] is difficult.	Deciding on the [topic] of a thesis is the most difficult part.	1
+Topic	The boss likes someone who knows their own [subject].	[Topic] You can live long as long as you don't exceed your limits.	1
+Cultural heritage	I carefully kept the [inheritance] that my father left me.	Legally, Myeonghee, who had remained as Jooyoung's wife, received a significant inheritance.	1
+Cultural heritage	He divided his inheritance into four equal parts and gave them to his four sons.	She secretly entrusted the inheritance she received from her parents to the bank without her husband's knowledge.	1
+Desire	According to the residents' demand, a library was established in the district.	A nationwide [demand] has been fulfilled.	1
+Desire	The man's [desire] was not in line with propriety.	Despite strong demand, the unauthorized order was declined.	1
+Long-term	His organs, soaked in alcohol, have no healthy spot.	The clown embraced the laughter as his own [instrument].	0
+Long-term	I had a chessboard, but I couldn't play chess without chess pieces.	If a person's [organs] become polluted, they are more likely to suffer from various adult diseases.	0
+Chief Executive Officer	He is the next in line after the [CEO].	He appointed his son as [CEO].	1
+Chief Executive Officer	The manager suspected the employee because the number of items was different.	That person can be called the right-hand man of the [CEO].	1
+Tokyo	The plane is passing through forty degrees east longitude.	Suddenly, my cousin's older brother who was attending university in Tokyo came in through the side gate that leads directly into the house.	0
+Tokyo	The woman worked hard at her job based on her admiration for her boss.	There were trams running in Tokyo that I had never seen before.	0
+atmosphere	I took a deep breath and inhaled the fresh air.	The chilly [atmosphere] of a winter morning stuck to my body like spider webs.	1
+Polar	Due to the appearance of a rabbit, it is unclear what the director's intention was, but the [play] had now become a comedy.	The frenzy of the greedy officials who bleed the blood of the people reaches its peak in [The Extreme]. The suffering of the people is beyond description.	0
+Polar	When anger reached its extreme, the old man trembled and finally fainted.	The actress took on the role of a woman who falls in love with a younger man in the [drama].	0
+Hat	A soldier wearing a uniform and a [hat].	I had a conversation with [a hat] that I met after a long time without realizing how late it was at night.	0
+Hat	British people always take off their hats when standing in front of a taller person, no matter how attached they are to it.	On payday, they gather their loose change to buy cheap gifts like [hats] or socks.	1
+Doctor	[The doctor] moved the patient to the emergency room.	I will push forward with this decision regardless of his [opinion].	0
+Doctor	He became aware of his illness name due to the confirmation of [doctor].	The enemy showed their intention to abandon their weapons and surrender.	0
+Noodles	That furniture takes up one side of the wall.	I prefer [noodles] over rice.	0
+Noodles	We increased production by improving the inefficient aspects of the production process.	The textile industry began to develop in areas with abundant cotton production.	0
+Goryeo	That issue is still under consideration.	[GoRyeo] Recorded fact.	0
+Goryeo	[Koryo] did not bend its will to resist the invasion of Mongolia until the end.	The pottery of the Goryeo Dynasty and the pottery of the Joseon Dynasty are very different.	1
+Cultivation	His [nurturing] that was flowing out of the radio was very trembling.	Even though the sound came from my father's mouth, it didn't sound like a human [voice].	1
+Yaksu	[A well] flowed down on a long board and into a water container.	[Yak-su] is mostly water that flows underground and then springs out again.	1
+Yaksu	Our dad's hobby is to collect mineral water from the mountains.	The [mineral water] from this mountain is very good for your health.	1
+Admission	The prosecution clearly stated that there is no sanctuary in the investigation.	Firestarter [Admission] Impossible movie.	0
+Admission	Although they were begging for food, they hoped to be treated by others as dignified gentlemen rather than beggars.	In their response submitted to the Second Joint Committee of the Smile, they showed conflicting positions regarding the categorization of pro-Japanese collaborators.	1
+the public	Cultural facilities for the public.	Walking the path as a [popular] North Star.	0
+the public	It is important to understand the changing trends in public perception.	Many [public] cheered for the celebrity's actions.	1
+Sweet potato starch noodles	The well-cooked [sweet potato noodles] are chewed with a delightful texture.	I happened to encounter that person at the intersection and had a chance to talk to him.	0
+Sweet potato starch noodles	I especially like [glass noodles] that are in Japchae.	Now, let's think about the situation we are facing with [당면].	0
+Single layer	My dream is to live in a single-story house and cultivate a garden.	As I climbed the stone stairs, a single-layered wooden building coated with coltar appeared in front of me.	1
+Single layer	Insulation on a single floor is slightly better than on a duplex.	Although the house is single-story, it has plenty of extra space, so it can be used widely.	1
+sheep	The boy herded the sheep into the valley by the stream.	[Sheep] The sound of the herd's droplets goes tunkle tunkle.	1
+sheep	That person cherished the sheep he was raising.	It is useless if there is only a large quantity without taste.	0
+Event	The event will be canceled if it rains.	The organizers of the competition prepared various events.	1
+Event	Violence [events] cannot be justified for any reason.	Since there was no special event, the footsteps of the guests also stopped abruptly.	0
+Officer	Women were allowed to enter the male-only [Officer] School.	The duty officer [officer] inspects the internal affairs department.	1
+Purpose	He is taking care of his younger siblings and fulfilling the role of the eldest brother.	That child has been causing trouble all this time, and now he is finally giving an excuse.	1
+Purpose	Don't make excuses for your own mistakes.	The sentence ending form serves as a [function] to conclude the sentence.	0
+cow	If you put less [beef] in the dumplings, they won't taste good.	Can't we say that we cannot avoid making mistakes due to [small] constraints?	0
+Martial arts	To think that I have to use the [martial arts] I learned in spy training in a situation like this...	Before selling medicine, the herbalist demonstrated martial arts to gather people.	1
+Delay	Please go home immediately without any delay.	[Delayed] There were rumors that [지체] had made various comments from a biased standpoint.	0
+"The word ""코"" translates to ""nose"" in English."	Byungsoo wiped his nose with a handkerchief.	He tied the scarf with all his heart.	0
+"The word ""코"" translates to ""nose"" in English."	The seal places the ball on its nose and shows off its skills.	I passionately [pierced] the [co] of the buckwheat flower like never before.	1
+Chrysanthemum	Mugunghwa... is not only cherished as our national flower, symbolizing eternal beauty, but also revered as a symbol of our nation.	He sent a white [chrysanthemum] flower wreath to the portrait house.	0
+official	They made a new instrument and trained 50 certified people and 10 non-certified people.	As a civil servant, one must fulfill their responsibilities diligently.	0
+official	Recently, the top scorers of the [official] national English exam are gradually decreasing.	The government announced plans to develop and administer a nationally recognized English proficiency test.	1
+resources	Teenagers are an important [resource] in our country.	In countries with limited resources, it is necessary to efficiently utilize those resources.	1
+resources	[Resource] Volunteers distributed meals.	The most crucial part was the issue of [resource] utilization.	0
+Excellent	After buying a lot of notebooks, they gave me an additional five as a [bonus].	They didn't give me a single [excellent] even though I bought so many.	1
+Excellent	He saw the girl with eyes soaked in [excellence].	That company has been selected as an excellent company this year.	0
+each	There is no true origin [for this].	What is the angle formed by these two line segments?	1
+each	Be careful as the [corners] are very sharp and you could hurt your hands.	The [game] ended more smoothly than expected.	1
+artisan	[Master Craftsman] Since my son-in-law has set out a table full of alcohol and sat down, anything will be fine.	"""[Jangin]"" handles his work skillfully."	0
+artisan	[Master] likes mushrooms.	The [artisan] did not like his own work.	0
+Three	To enter someone else's house without permission.	Resist the power of the empire.	0
+Three	Today, I asked to raise the [세] at the 안집.	I am living in someone else's house.	1
+Lottery	[Lottery] I only spent 5,000 won on buying a lottery ticket.	I won the lottery and improved my life.	1
+Lottery	The winner of this lottery will receive the largest prize in history.	The company promised to reconsider the issue of dismissal of workers.	0
+Affair	During the day, they took care of [affairs] and held competitions at night.	He earnestly advised the king to take care of his affairs [정사].	1
+Affair	The [Affair] of the young lady in that house and the young lord in the next house was a well-known touching story in the village.	The courtiers who should have discussed [affairs of the state] with the king were instead causing chaos in the country.	0
+"The word ""파"" in Korean can have multiple meanings depending on the context. It can mean ""green onion"" or ""leek"" as a noun, or it can mean ""to leak"" or ""to disclose"" as a verb. Please provide more context for a more accurate translation."	Mom planted [parsley].	A celebrity packed [Pa] kimchi.	1
+Color	Songchungi was crawling down from the end of the collar of the white blouse, reaching the texture of the back of the head below.	As I passed by Jiseo, I saw a scene where a person with a white [collar] was flipping through some documents.	1
+Color	So, this [color] is not easily achievable.	I like this color among the three colors.	1
+English	I cannot understand the [English] that he brought.	On the back, there was writing printed in [English] with the same content.	0
+English	I was drawn to Suhyun without even knowing [English].	I'm curious about what it is in English.	1
+Garden	[Jeongwon] will not recruit again until the contract ends.	[In the garden], have a barbecue party.	0
+Garden	While tending to the garden, there was plenty of room to wash away the concerns of the old man who was called over, as if he were an old man worried about iron.	Through the patterned iron gate, an old familiar housekeeper could be seen occasionally walking down the steep [garden] path.	1
+dictionary	[Dictionary] Be thoroughly prepared.	Students looked up the meaning of unfamiliar words in the [dictionary].	0
+dictionary	[Dictionary] should have given prior notice.	These days, people don't use paper dictionaries much.	0
+Sleep	According to the phenomenon of the ebb and flow, the [surface] of the sea is said to change in color and height.	Reflecting one's face in a calm [sleep].	1
+Sleep	I threw a stone into the calm [water].	For the body, you must get enough sleep.	0
+Current	After founding Goryeo, King Taejo changed the names of the military and provinces nationwide.	[Present] The bells rang well, and the orchestra cried out.	0
+Current	The communication was cut off while trying to coordinate.	This [hyun] is made from lamb intestines.	1
+Bank	[Bank] There is no need to stand in line at the counter.	My mother goes to the park to pick up gingko nuts in the autumn.	0
+Bank	I had been waiting for a long time at the bank.	I visited the [bank] to terminate the matured fixed deposit.	1
+Assumption	Before the song started, an [interlude] played.	The teacher played the [violin].	1
+Resolution	He and I became brothers through [resolution].	To make a [resolution] with a junior and become brothers.	1
+Seafood	After the meeting ended, the members dissolved the organization.	The striking workers dispersed.	1
+Seafood	The mother-in-law fed the daughter-in-law who had just given birth with grilled fish.	After ordering the dissolution of illegal protest groups, the government proceeded with forced dissolution.	0
+Route	Collect information through various [routes].	Elderly people with [path] privilege cards receive free admission to this park.	0
+Route	I don't know how it ended up in my hands.	We need to find a [route] that will have as little traffic as possible.	1
+Jade	Even trapped in [jail], she did not lose her composure.	Imprison the criminal in [prison].	1
+Minister	The view of Ugyeong from the observatory was truly [spectacular].	The sunset seen from the East Sea is [magnificent].	1
+Minister	The country's Minister of State [Minister] began diplomatic efforts to ensure that the resolution was adopted while visiting the foreign country.	These streams form waterfalls that cascade down the steep cliffs, resembling silk threads flowing into the sea, creating magnificent scenes [of nature].	0
+Outbreak	I think I won't be able to go even ten miles because I got [sick].	North Korea, which was planning to provoke a war, delayed the outbreak due to various circumstances.	0
+Outbreak	We will try to prevent other complications [occurrences].	We know how to prevent [outbreaks of] epidemics.	1
+sesame leaf	The battle of the great masters started when [Gosu] hit the north.	An army marching to the sound of [Gosu]'s drum beats.	1
+Gondong	From a distance, the sound of the ship's [rumble] can faintly be heard.	[Sound] The sound was heard clearly.	1
+Gondong	If you eat [Godong], it's delicious.	The sound of the train [rumbling] filled my heart.	0
+Society	I will introduce the [social] of this gathering.	What do you plan to do when you go out into society?	0
+Society	[Society] Reform is necessary even for stability.	School violence should be seen as a problem of the [society] as a whole.	1
+Geumsu	Lions are ruthless when it comes to hunting, just like the king of [gold water].	Wearing a [Geumsu] on the body.	0
+Geumsu	It was taking care of someone who was not very capable because they were still family.	You are such a despicable person, pretending not to know even though you have received grace.	1
+Detox.	Although there have been dual characters since the Three Kingdoms period, this was created for the convenience of Hanmun [interpretation].	Decipher the inscription engraved on the tombstone.	1
+Old junk	He struck the hull of the boat with an oar.	Even my head has become [junk] now.	0
+Old junk	The old radio was still my father's treasure No. 1.	Over time, the bicycle also became [junk], and the chain often came off with a slight bump.	1
+chief	Who is the owner of this field?	"You can truly be called the ""master"" of these words."	1
+bicycle ride	Calculate the period of the Earth's rotation.	One rotation of the moon takes about 27 days.	1
+bicycle ride	Scientists have uncovered evidence of the Earth's rotation.	The author published a [autobiographical] novel that reflects his own life.	0
+Intelligence	A person with high [intellect].	To focus on [intelligence] and solve the problem.	1
+Associative	That woman is three years older than her husband.	He used honorifics even though he was more than ten years older.	1
+Robbery	There was a [robber] in the house.	The [strength] of steel is high.	0
+Robbery	The players were exhausted from the intense training.	I think this practice will probably be the most intense.	1
+Military	The person who operates the military and plans military operations under the command of a commander is called [military].	[The morale of the soldiers is at its lowest.]	0
+Military	We had to boost the morale of our soldiers.	[Military] troops have opened the gate!	1
+Failure	During the frost, one child had to keep watch.	They made them see the [net] in order and... went to sleep.	1
+Tteokji	As I played with [딱지], the day passed quickly.	I took all the [stickers] of other kids.	1
+Tteokji	[Sticker] Don't scratch it even if it appears.	Looking at the black [scar], it seems like the injury will heal soon.	1
+Blackout	Due to a strong wind causing a blackout, the entire village was pitch dark.	It's a big deal that there is a power outage even though there was no initial warning.	1
+Blackout	Due to the increased electricity consumption caused by the heat wave, a power outage occurred.	[Power outage] No matter how much I press the buttons, the machine does not move.	1
+Chosun	Now, I will pass this on to the lion of the So family as it is, and So Son intends to go to that country where the [Joseon] exists.	Korean horse [Joseon] early.	0
+Chosun	My father is engaged in the [Joseon] business.	The future of [Korea] depends on you.	0
+Suyang	The understanding has broadened as the amount of knowledge accumulated.	You have worked hard and suffered a lot during that time.	1
+Induction	The plane landed according to the guidance of the ground.	The government focused more on dialogue [inducement] rather than retaliation.	1
+Induction	I had a thought that I want to learn [Judo].	He is a player who won a gold medal in the previous Olympic [Judo] event.	1
+Field trip	Following the lawsuit by the representative of current students, there will also be a [field trip] by the representative of graduates.	We conducted extensive field surveys in the Manchuria region of China and the Maritime Province of Russia for the investigation of Balhae archaeological sites.	0
+Field trip	I packed my luggage to leave for the field survey.	"He was skilled at finding directions as he had previously visited and conducted a ""survey"" in advance."	1
+Name	The teacher's [name] in the vicinity is about to arrive.	His drinking capacity was relatively high in his hometown.	1
+Name	Please fill in [name] correctly.	To enter, we verify [name], identification, and ticket status.	1
+"우의
+en: Uui"	Their friendship was very strong.	I got completely drenched in pouring rain without an umbrella.	0
+"우의
+en: Uui"	Those who are close to each other spent time together every day.	"When it's windy, a ""우의"" (a traditional Korean hat) is more suitable than an umbrella."	0
+"Source: 지문
+English translation: Text"	To put a [fingerprint] on the resident registration card.	The detective collected fingerprints that appeared to belong to the criminal at the crime scene.	1
+Injection	His injection is very painful.	I have the flu [injection] and it hurts.	0
+Injection	When the child saw the needle, they burst into tears.	Kim [Ju-sa] is better at writing official documents than anyone else.	0
+purebred	The era where [obedience] was considered a virtue has passed.	When my father used to see me with a worried expression, my childish rebelliousness, which used to cheerfully challenge him, naturally transformed into [obedience].	1
+purebred	This cat is purebred.	Unconditionally obeying parents makes the situation worse.	0
+paragraph	This article is divided into two [paragraphs].	The teacher is a giant of Korean [paragraph].	0
+Sparrow	A [swallow] is chirping at the end of the eaves.	My father gave the [swallow] for the ancestral ritual to my grandmother.	0
+Gijang	The [length] of the coat is too long.	My father wore pants with shortened length.	1
+Gijang	Since I think [the length] needs to be shortened, let's start by looking for a tailor.	[The guide] started the announcement.	0
+Short story	That author wrote a total of ten short stories and one medium-length novel.	This book is a collection of [short stories] by famous authors.	1
+Short story	The [Short Story] section was very intense in this competition.	The [short stories] included in the textbook are all valuable works.	1
+Eight	Spread your arms wide.	Put a preventive injection on [eight].	1
+Eight	My arm hurts because I didn't hold the baby for a long time.	After a long time of exercising, my [arm] hurts.	1
+Jeonse	They won by reversing the [lease] with 5 minutes remaining.	"It seems that my brother and I are entangled in a fateful chain that was established in the form of a ""jeonse"" (a type of long-term rental contract)."	0
+Jeonse	Reversal goal became a signal to turn [Jeonse] around.	"When renting a room with a ""jeonse"" contract, the standard duration is two years."	0
+Pharmaceuticals	There are many restrictions on exports due to protectionist trade policies in various countries.	Jeongsoo was wearing a white sanitary suit to start [pharmaceuticals], but heard a knocking sound.	0
+Pharmaceuticals	Unable to withstand the activity [restriction], he eventually gave up.	One should avoid doing anything that could be legally restricted or prohibited.	1
+official	The arrow hit the target accurately.	A person must live their best until they enter the coffin.	0
+official	This project is organized by [관].	[관] Inside, there was a well-preserved mirror.	0
+Diary	[Diary] I was feeling really bad.	I had been observing the weather forecast continuously for the flight.	1
+Diary	I have decided to write [diary] more diligently in the future.	Try writing a [diary] with the intention of organizing your day.	1
+Mrs./wife	Now you have become my [wife].	[I] love it when [my] wife smiles brightly.	1
+Mrs./wife	I think my wife is the most beautiful.	The suspect strongly denied the allegations.	0
+Band	They invited a band to perform at their mother's 70th birthday feast.	[The band] started playing slow-tempo music.	1
+Band	I fixed my arm with a rubber band.	Wonhee, who wants to tour the world as a rock singer, is currently active as a member of a university rock band.	0
+station	She did a good job playing the role of her grandmother.	I left for a train trip to meet friends at [the station].	0
+station	She appeared as the mother character in this movie.	"Like the neighborhood in front of the [train] station that developed around lodging facilities and restaurants...
+(Note: The word in brackets [역] is translated as ""train"" in this context, but it could also refer to other types of stations such as bus stations or subway stations, depending on the context.)"	0
+Container	Those without courage should all step back.	He filled me with hope and [courage].	1
+Yeonsu	In order to obtain a driver's license, one must receive actual training on the road.	This [training session] is organized with excellent instructors and unique planning skills.	1
+Listing	My company became a [listed] company.	Yeongkyung received a [listing].	0
+Listing	Our team has received [listing] this time.	I felt a strange feeling when I received the Special Award [Certificate].	1
+home	I found out about it because my husband told me.	What are you saying? Did I borrow money from you or something?	1
+home	When I visited my aunt's house, I was able to eat as many cherries as I wanted.	Please bring the teacher to [your] house.	1
+Army stew	In Vietnam, we were in the same [military unit].	The soldier safely returned to the [unit] after completing the mission.	1
+Army stew	I am a person who worked in the same [unit].	I found a delicious restaurant near [bude] for the first time in a while.	1
+Mi-eum	[Unknown] Thanks to one bowl, the market is gone, but there is no energy.	Empty one bowl of [Mium].	1
+Conclusion	I worked without taking a break [rest].	It is one [결] per 25 people.	0
+Conclusion	Meat is cut well when it is cut along the grain.	I carefully sawed the wood while being cautious.	1
+News/Updates	Evoke sympathy from those around you.	I regret the warm touch of sympathy.	1
+Weather	[Weather] The departure time of the airplane has been delayed due to deteriorating conditions.	[Weather] It is said that a heavy rain has fallen in the desert due to a change.	1
+Bedbug	A [dragonfly] is flying in the blue autumn sky.	I looked at the [dragonfly] flying around the pole.	1
+style	My mother prefers Korean food over Western food.	I have a [Western cuisine] cooking skills certificate.	1
+style	[I] particularly like steak among [Western] cuisine.	The application form [format] has changed this time.	0
+Director	A bride with styled [hair].	After finishing [the haircut], it had been quite a while since I could have left.	1
+Director	The gospel was delivered to the mother of a child suffering from leukemia.	The department store will resume operations starting from this Sunday with a new manager.	0
+determination	A person who is always [determined].	He had to break his own will.	0
+determination	Her [willpower] is too weak.	He continues to submit articles to the newspaper with the [determination] to become a novelist.	1
+Becoming an official or starting a new job	[Working] and a generous reward.	He has never held a position or job.	1
+Becoming an official or starting a new job	Be careful not to lose your original intentions even when you rise to a higher position.	Seeing that the chicken's comb is large, it is clear that it is the leader.	0
+Reduction	The budget was reduced due to a decrease in personnel.	I will give [reduction] to overcome the bottle for the sake of the nation and the people's livelihood.	0
+Reduction	Due to the company's bankruptcy, more than half of the personnel needed to be reduced.	It was said that budget reduction was necessary, but this was simply impossible.	1
+Training	Pina achieved enlightenment through meditation.	To reach a high level, rigorous training is necessary.	1
+Training	Before starting the [training], one must sit on a cushion with the correct posture and take deep breaths.	After coming here and undergoing [training], that guy who used to wander around seems to have become quite disciplined.	1
+Notice	I would like to hear the teacher's [instructions].	This plant also grows well in [highlands].	0
+Notice	The elderly person reminisced about the battles fought on the [highland].	I want to eat cabbage grown in [Goji].	1
+Correction	How much is the cost for [modifying] the plan?	In the picture [amendment], the power of the won is ultimately needed.	1
+Correction	Wouldn't it be more comfortable to make a [modification]?	After finishing the plan [modification], he sighed with relief.	1
+Improvement	The workers demanded [improvement] in their treatment.	The athlete responded to the cheers of the citizens congratulating the Olympics.	0
+Improvement	Our relationship is hopeless if it does not [improve].	The working environment for women has greatly improved through active women's movements.	1
+Jaksal	I caught a fish by throwing [bait].	The pottery jar that was hit by a stone was shattered.	0
+Jaksal	The fisherman installed a [net].	He untied the tangled rope with his bare, red hands.	1
+distinguished	He was a graduate from a prestigious university.	His writing is well known as a [prestigious] work of the time.	0
+Relief	It is difficult to help refugees [relief].	To utilize the original funds for relief expenses.	1
+Pair	I was worried because I couldn't find a [matching] partner despite getting older.	Let's match lonely people together [as a couple].	1
+Pair	One of the most exciting things for me was changing my [partner] once a month.	[Pairless], he stood alone in the playground.	1
+Ecology	This [ecosystem] is good because it was just caught.	Environmental changes have had a significant impact on the ecology of plants and animals.	0
+Ecology	Environmental education should go beyond teaching and transmitting knowledge about the environment and ecology, and should also lead to a change in values and behaviors.	To observe the [ecology] of plants and animals.	1
+Your Highness	It is said that the total amount of electric charge in the entire universe never changes.	Let me speak to the king [Your Majesty].	0
+Spit	The arm that was stung by a bee quickly swelled up.	To spit [saliva] on the floor.	0
+Spit	I felt less pain after receiving acupuncture treatment at the traditional Korean medicine clinic.	Do not spit [saliva] on the street.	0
+Great nation	The world's leading economy [superpower].	The previous final match ended with a victory for the black player.	0
+Great nation	I couldn't believe the fact that I won against [Daeguk].	In this [nation], we meet rivals.	0
+Currency	Let's talk later [on the phone] because you're busy now.	While talking on the phone with a friend, the call got disconnected.	1
+stocks	I sold the [stocks] that I had at a low price.	As interest in investment increased, people of all ages and genders began discussing stocks.	1
+Wall	Our house also painted the walls with paint this year.	When my boss gets angry, there is always something he throws [the wall].	0
+Serious	[Seriously], you should go catch some rest.	After the fight swept through like a storm, only the corpses remained standing.	0
+Pine tree	After finishing the haircut, the barber shaved off the hair with a [razor].	I brushed off the dust on the desk with a [broom].	1
+Pine tree	Press the keys [G], [C], [D] simultaneously on the piano keyboard.	I brushed off the dust that had accumulated on the furniture with a broom.	0
+village	Well, you know, if not, why would those two come all the way to this remote [village]?	The horizontal length of the box was about seven [chon].	0
+village	He introduced himself as coming from a rural area and seemed to have a cheerful personality.	In the [village], they were surprised and had never seen such a thing before.	1
+Relief/Safety	A full course meal with [Assurance] as the main dish.	Once we got out of the eye of the storm, we finally felt relieved.	0
+Relief/Safety	After successfully submitting the document, I became relieved.	Steaks made with [reassurance] are also delicious.	0
+barn	My brother built a [cowshed] in one corner of the yard and raised cows.	Once the national ceremony was quickly over, the awaited speech by the mayor [congratulatory speech] began.	0
+barn	Next, there will be a [sermon] by the pastor.	Despite deworming once a month, pests are still infesting the [livestock barn].	0
+Home country	There were tears [stains] on the sleeve of the clothes.	There is someone's [country] touch on the bread.	1
+Complaint	There were widespread protests against the treaty, and strong objections were voiced throughout the streets.	The court clearly stated the reasons for rejecting the appeal.	0
+Complaint	The man's [petition] was naturally rejected by the court.	The woman who accepted the verdict did not apply for any further appeals.	1
+reader	A meeting was held where the reader and the author met.	He grew up as an only child, so he didn't know what brotherly love was.	0
+reader	Many [readers] attended the event to meet the writer.	While reading this book, one can feel overwhelmed and shocked by the power it exerts on the reader.	1
+Geography.	"Banjang showed a particularly weak performance only in the subject of ""Geography""."	Bring the geography book to the geography class tomorrow.	1
+Geography.	He, who claimed to know nothing about geography, surprisingly found his way quite easily.	He is on the dark side in Busan [geography].	1
+Main Point	Build a house by getting a [main beam].	The market was crowded with people during the Chuseok holiday.	0
+Main Point	According to Lee Hyuk's recommendation, I was deeply impressed by the [impressive passage], so I took notes or even memorized it carefully.	As we need to build a high-altitude house, Sung-hwa asked me to sing the most famous [verse] in this village.	0
+Storage	There are toys [stored] in there.	This cost can also be paid by credit card.	0
+Storage	[Storage] There is plenty of space.	I will help you with the tuition fee payment here.	0
+Electric power	The team's performance weakened due to the injuries of key players.	As the summer season arrived, power consumption sharply increased.	0
+Electric power	Recently, public [electricity] consumption has increased by approximately 2.1 times, and residential electricity consumption has increased by approximately 1.9 times.	The national team's [strength] significantly increased with the participation of foreign players.	0
+schedule	[Schedule] Registration will be completed upon payment of the amount.	My day [schedule] starts at six o'clock.	0
+Revenge	He had an abscess in his abdomen due to appendicitis.	Having been defeated by the enemy, he was filled with emotions of anger and vengeance.	0
+Revenge	English distinguishes between singular and plural more strictly than Korean.	They aimed their blade at [revenge].	0
+Review	During the late Joseon period, the study of practical learning reached a higher level.	As I entered the [review], the situation took a turn.	1
+Review	I received sponsorship as I diligently posted reviews of the product.	Let's move on to the [post-work] review, and the team members regained their strength again.	0
+Chlorine	[The goat] ate the grass.	Among the isotopes of chlorine, the two most stable isotopes are 35Cl (75.77%) and 37Cl (24.23%).	0
+Chlorine	Since ancient times, the birth of a white deer or white [goat] has been considered an auspicious sign.	The [goat] took a step back and made a short whining sound when a stranger approached.	1
+main	The topic of this meeting has been thoroughly discussed.	This [company] was too hot this time.	0
+main	I pray in the name of [Company].	If it is not completed by the next [company], it will be a big problem.	0
+Poh	I can hear the sound of something being hit from afar.	The ally sank the enemy ship by firing a cannon.	1
+Understanding	Fortunately, when I explained the situation, he understood.	I sought his understanding for the mistake.	1
+Understanding	However, there was another unexpected twist of emotions that night that I couldn't understand.	In order to solve the problem, the parties involved directly engaged in negotiations for resolution.	0
+City Hall	Asking for directions to [City Hall].	He is a civil servant in the administrative position at the [City Hall].	1
+City Hall	The people gathered at the [City Hall] took out their identification cards.	"The movie ""시청"" was a long-time hobby."	0
+rap	Is it okay for [wrap] to come into direct contact with food?	Wrap the remaining watermelon in plastic wrap and put it in the refrigerator.	1
+rap	Minsoo wrapped up the leftover food with plastic wrap.	He has more experience in [rap] than in singing.	0
+Chisa	Regarding the [dangerous] situation, Heungseon replied with a crying face, said goodbye to his weapons, and came out.	Apply for a warrant of arrest on charges of homicide in Shanghai.	0
+Chisa	The minister conveyed the meaning of [치사] through a commendation.	Yoon-su was arrested on the charge of causing harm [fatality] while doing a water-sum with Hak-seong, so he went up to Seoul and was indicted...	0
+oyster	My grandmother picked [oysters] and made soup.	Long ago, caves became a good refuge where people could avoid rain or snow.	0
+oyster	Female divers are collecting abalones, oysters, seaweed, and other marine products.	The children crushed the raccoon [roll] with a branch.	0
+Alive	A cart with a bent wheel.	She got a tan at the beach during this summer vacation.	0
+Overall	To carry out reforms throughout the administration.	The owner manages the operation [overall] of the counseling center.	1
+Scorpion	Scorpions and spiders are closely related phylogenetically.	It looked like a scorpion with shiny flowing stingers.	1
+Scorpion	The scout urgently delivered the [scorpion].	Beware of [scorpions] in the desert.	0
+Hospitality	I decided to invite my friend for a meal [treat].	He was well treated by his son-in-law with alcohol and dinner.	1
+Coat	He was wearing a coat over his suit.	When the players came out on the court, the audience cheered.	0
+Coat	It was cold, so I tightly wrapped myself in a coat.	[Cote] Up above, tense gazes were exchanged.	0
+Director	[The chief] wandered around the wireless room and reported his homeland's reply to the captain.	In terms of administrative rank, the [Director-General] of each province and the head of each department in the central government are equal.	1
+Director	Demoted from a department head to a manager.	After the wife of the director [played her role], the incident began.	0
+Amnesty	To be released on a special amnesty for Independence Day.	[Surrounding] When it was completely surrounded, this place also came within the firing range of the machine gun.	0
+Alarm	[Alert] to arrive early at the destination.	When the storm became severe, a [warning] was issued.	0
+Alarm	Track races, field events, [alarms], and marathons are considered track and field events.	This device is designed to automatically sound an [alarm] when the circuit is disconnected.	0
+Accident	This year, there have been a series of major accidents.	He passed away unexpectedly due to an accident.	1
+Award	Build a brilliant [award] career.	The [leader] of a country is so clueless.	0
+Award	[The award] declared war on that country.	He is a champion who won an award at the Hwiho Competition.	0
+Daegun	Leading [Daegun] and heading out to Dongbuk.	To lead a million [soldiers] and sympathize with the situation.	1
+Daegun	During the Imjin War, the Joseon army had to fight against a Qing army of 200,000 soldiers.	Bonglim [Daegeun] was captured by the Qing Dynasty and then returned.	0
+invitation	Did you have a good meal at the house where you received [an invitation] for dinner?	He took office as the [inaugural] president of our university.	0
+invitation	[Invitation] The director of the National Museum of Modern and Contemporary Art, who was in charge of building the large building, collapsed from overwork shortly before its completion.	He readily accepted our family's invitation.	0
+Car road	Signs of illness began to appear in his condition.	The protesters came out onto the street and continued their march.	0
+Signature	To sign the payment document.	Received the autograph of a popular singer.	1
+Signature	To sign on paper.	The autopsy results revealed that the cause of death was tuberculosis.	0
+One place	There is a severe drought in the southern region [area].	[A once-in-a-lifetime opportunity.]	0
+Adjustment	A meeting was held to reconcile differences among practitioners.	The difficulty [adjustment] of the test question is not easy.	1
+Adjustment	In the rural areas, there is no culture of worshiping efficiency, and in the [government], there are few scholars who cultivate virtue and pursue pure knowledge.	I thought I was innocent, but since it was stated in the confession of [Jojeong], I couldn't avoid being sentenced.	1
+Agriculture	Don't get mad because I said [농].	My mother took out the money and gold ring she had kept in the [agricultural] drawer, put them in a bag with clothes already packed, and left the house.	0
+Agriculture	Seo-hee said naturally, with a mixture of [farming] in her tone.	This bowl is a cherished item, as my mother used to store it [on the farm].	0
+priest	It has been a long time since the fundamental human relationship of [priest] relationship has been shaken.	That was done by our [priest] at home.	0
+priest	He, who became a priest, listened more attentively to the words of his believers.	He had been going to the church since he was young, dreaming of becoming a priest.	1
+Japanese colonial rule	[Japanese Imperialism] I will never return to the homeland under Japanese rule.	Gunshots poured out from the right wing where the third platoon was located [during the Japanese occupation].	0
+Raven	There is a quite large [mole] on Minjeong's neck.	There was only a red bean in his left ear [samma-gwi].	1
+Raven	For getting rid of blackheads and freckles, Sotgeomdang is an effective remedy.	The female [sama-gwi] caught and ate the male before mating was even over.	0
+Combustion	The need for [developing] photos [printing] is also decreasing.	[Inflammable] substances should not be placed next to gas appliances.	0
+Enlightenment	The brilliant [Enlightenment] of national culture	In areas where commerce thrives, art also tends to flourish.	1
+Enlightenment	[Enlightenment] Everyone started learning English according to the trend.	I missed the cherry blossom [blooming] season.	0
+inside	I can't tell what he/she is thinking [inside].	His true colors are revealed.	1
+inside	Please stop telling stories that are impossible to believe.	It's a relief that you have ruined your mother's [inside].	1
+Award ceremony	He selected the recipients of the [awards] among the contributors.	The CEO announced a [recognition] plan for outstanding employees.	1
+Award ceremony	He stopped walking, saying that the [award ceremony] came to mind.	He was selected as a [prize] nominee.	0
+device	As a representative example of power transmission [mechanisms], one can consider gears.	A hospital equipped with the latest medical [equipment].	1
+device	This [device] will be useful for detecting the seabed.	A gas burner is a device that combusts gas to generate heat.	1
+Term	I raised ten million won by putting in a three-year [investment].	Two students from each grade can participate, for a total of twelve participants.	0
+Term	When rumors spread that [the wall] had been broken, the members of the Gye Clan gathered one by one at the house of Gyeju.	In our traditional society, [Gye] was a community organization that worked together and supported each other.	1
+Battery	I replaced the [battery] of the camera with a new one.	The players' skills have improved dramatically through winter [intensive] training.	0
+Tofu	I boiled soybean paste soup with tofu.	He raised his shotgun and quickly killed the farmer who was trying to stand up again.	0
+Definition	Let's all come together to create a society where [justice] is realized.	What is the definition of the Lagrange point?	0
+Living alone	Living alone [Independently] in a foreign place.	I don't even know where my friend went [to live alone].	0
+Danwon	Reading [unit] and writing unit in the Korean language subject.	Move on to the next unit after finishing one unit.	1
+Cover	Looking at only the [cover], it is impossible to know what kind of content this book has.	When I saw the [cover] of that book, I realized it wasn't something that had come out recently.	1
+Cover	Could you please take out a book with a cardboard cover among the novels?	The [cover] of the old and worn-out book was newly and firmly bound.	1
+Monopoly	After drinking [solo], he vomited blood and fell down.	In a marathon, one must continue the lonely [solo] journey from start to finish.	0
+Monopoly	The king knew that it was poisoned, but he still drank it.	Who is playing the cello [solo] this time?	0
+Security	to incur significant expenses.	Running that commercial building requires a lot of expenses.	1
+Tea	They chatted warmly while drinking [tea].	There are many cars on the highway.	0
+News	I received a call from a friend I haven't heard from in a long time.	In this mountain, there was no one who went down to the place where the Han River flows with its blue waves, and there was no one who brought news from the village.	1
+News	I happened to hear about her news through a friend.	Upon hearing the news of his accident, we all idolized him.	1
+Day	Complete the given task.	[One] is piled up like a mountain.	1
+Day	There was something I had to go out.	The woman had been nervous since three days before the interview.	0
+Oxygen	To pay respects to ancestors and find [oxygen].	I am also resentful about selling my ancestors' [oxygen] for a living.	1
+Oxygen	Oxygen is essential for the survival of living organisms.	I decided to stop by [Oxygen] after a long time and greet my mother.	0
+on time	The bus came in fifteen minutes late as if something big had happened.	It is common sense that the train should depart [on time].	1
+Black	He took the university entrance exam just the day before yesterday.	I achieved a good score on the Korean History Proficiency [Certification] Exam.	1
+Black	[Wearing a black] t-shirt, he stood out.	[Black] I've run out of paint, can you buy some new ones for me?	1
+Ton	Ki-cheol received it very skillfully with a [tone].	After taking a sip of water, he raised his voice even louder.	1
+Ton	He often felt upset because his voice tone was not strong.	What is the weight of this boat in [tons]?	0
+mistake	When you make a mistake, you should reflect on it and fix it yourself.	"""My mother often said that [mistakes] are abilities."""	1
+Korean cuisine	I went to pay respects at the ancestral grave after having a traditional Korean meal.	In this [Korean meal], the whole family worked together to weed the fields with my father.	1
+Korean cuisine	I learned about the origin of [Korean food] at school.	Food courts are convenient because they allow you to see and choose from various types of food such as Korean, Chinese, and Japanese cuisine all in one place.	1
+Wolnam	Mr. Choi Ok-sool went to Seoul right after August 15th and is said to have paid a visit to the liquor wholesaler and liquor store.	In Vietnam, we were in the same unit.	0
+Wolnam	[Wonam] The dispatch has already been decided.	The President awarded the Chungmu Military Merit Medal to Captain Kim, who returned from [Vietnam].	1
+Legislator	To implement improvements in the city council.	Is he really generous?	0
+Legislator	[The doctor] laid the patient on the bed and took out a tongue depressor from the drawer.	The [members of the party] had discussions in order to achieve candidate unification.	0
+condolence	In terms of [legal provisions], the principle is to believe in a person's conscience, although in terms of the spirit of the law, do not believe in evidence.	He even mourned more than the bereaved family when he came to offer condolences in Kaesong, and he acted like a criminal even though no one blamed him.	0
+condolence	The person giving the condolences was none other than the deceased's enemy.	My father changed into a black suit to pay his respects [at the funeral].	1
+Table	Youngsu became the president by obtaining a majority of votes.	No matter how much I clean, the stain doesn't come out.	0
+Table	The affected passengers caused a commotion by demanding a refund of their tickets.	People who were unable to obtain [tickets] were anxiously pacing back and forth.	1
+Market	My mother went to the [market] to buy fruits.	The market was crowded with people, and there was no space to move.	1
+Market	Following the opening ceremony of the market, the game soon began.	There is no suitable side dish to go out to the market.	0
+Gold	Heejin prepared a [gold] necklace as a birthday present for her mother.	Even if you offer [gold] instead of money, no one will do that work.	1
+Gold	I received a ring made of gold.	It is better to throw away a dish with a broken handle.	0
+daily wage	The representatives gathered at [Il-dang].	These days, both the amount of work and income have decreased significantly.	0
+daily wage	The workers on that site receive their wages on a daily basis.	I saved up diligently and bought a house.	1
+Word	The neighbor next door sometimes stutters when speaking.	I can't hear [what you're saying] well because I am far away.	1
+Word	A horse's tail is used to make a horsehair.	Can't you hear me?	0
+Other	He has an exceptional skill in playing the guitar.	It was found that the pollution in the factory area is much worse than in other areas.	0
+Other	My older brother played the guitar diligently.	His [guitar] playing is of a very high standard.	1
+Baby	The child smiled widely when they saw their mother.	The child is not coming, [the mother] gets upset.	0
+Baby	After struggling like that, you eventually succeeded.	She sings well but can't dance well.	0
+grass	Hey, stop making such noise celebrating for no reason and go have a drink.	They lay in their small newlywed room, designing their beautiful dreams.	0
+grass	When I lit a fire in [the fireplace], the room became warm and cozy.	All the remaining matches were broken, so I couldn't light a fire.	1
+Subak	Because most patients are quadriplegic, this ward also has four hygiene soldiers from another ward to take care of them.	Previously, Jeon Young-gam asked a friend for a small room in a house for rent to provide for Jong-sang, and even rescued a girl who had been sold.	1
+Institution	The invention of the steam engine was revolutionary in terms of power.	Our lives have evolved with the invention of the internal combustion engine.	1
+Institution	There was no announcement made by the [organization].	[Organization] received a flood of inquiries calls to the person in charge.	1
+steel plate	It is squeezed by grinding it with a [grater].	The thick [steel plate] makes a heavy noise.	0
+steel plate	[The ship] hit the steel plate.	The technician welded different [steel plates] together.	0
+Static	"""[Static]"" flowed in response to the manager's joke."	The king killed [the static].	0
+Static	[Static] Awkwardness lingered as time passed.	A mountain locked in [static].	1
+Daesu	If you are successful, this is nothing [algebra] at all.	Even if you try to be dangerous with a stubborn person like me, it's [algebraically] dangerous.	1
+Daesu	The general public tends to think of [algebra] as a difficult and boring subject.	In order to understand the principles hidden in the calculation process, it is necessary to know [algebra].	1
+pledge	The candidates made various promises.	It is difficult to capture the voters' sentiment with only superficial promises.	1
+Jorim	It would be nice to turn this place into a forest bath by [stewing] it.	Yesterday evening, my mother made braised mackerel.	0
+Jorim	[Stew] Business is now not a choice but an obligation.	I felt the desire to eat tofu [braised].	0
+Lane	If the best option is not possible, one must choose the next best option.	[Violation] I removed the sticker from the traffic police officer for violating the lane.	0
+Lane	The reason for failing the driver's license test is because [they] crossed the [lane].	There weren't as many cars on this lane as I thought.	1
+ancestor	During the Imjin War, King Seonjo retreated to Uiju.	The king [ancestor] steps on jewels and ascends to the grand hall.	1
+Strange	You can only ride amusement rides if your height is above 158cm.	This is my passion towards [ideals].	0
+This translation is already in English.	He decided to quit drinking because his liver was not in good condition.	No matter how late it is, the work must be completed within this week.	0
+This translation is already in English.	To encourage the people to drink [alcohol].	In the special feature of [this week]'s movie, we will show you a collection of famous scenes from horror movies.	0
+Tea	A boy wearing white [T] (shirt).	Clear voice without any [tea].	0
+Tea	I have wrinkles, I must be getting older.	Even with heavy makeup, a young [tee] is still noticeable.	1
+bee	A few days ago, I got stung by a bee while going to see the flowers.	If you commit theft, the punishment is heavy.	0
+heat	The number of people gathered is [ten].	Guess the answer until you get it right.	1
+heat	Eight or nine will agree on this matter.	She suddenly felt a feverish sensation in her body.	0
+Stone	My nephew tripped and fell on [a rock].	Tomorrow is my nephew's [first birthday].	0
+"조
+en: clan or family"	I cooked and ate rice with the harvested [조].	Please refer to Article 1 of the Constitution.	0
+"조
+en: clan or family"	[John] The CEO was a capable person in calculations.	South Korea finished the qualifying round in second place and advanced to the main event.	0
+Jeongja	He wrote his name [Jeongja] on the blackboard.	This [pagoda] is for rest and contemplation.	0
+Jeongja	[Jeongja], standing in the beautiful scenery, looked stunning.	Since eggs only contain X chromosomes, it can be said that sperm determines gender.	0
+Goreum	Extract [pus] from a wound.	Instead of sewing [a button], attach a button.	0
+Goreum	The injured area had already started to fester and a yellow pus was visible.	Did you finally ask your mother how to tie a jacket knot?	0
+selection	Among them, the eldest son was clever and had high moral character, so he was chosen by the people to succeed the throne as the king without any successors [selected].	The king bestowed [favor] upon his subjects.	1
+Bronze	I spread [mockery] on the poor result.	I couldn't handle the ridicule from so many people.	1
+Lace	She attached white lace to her clothes.	The pajamas adorned with chrysanthemum patterns and lace around the chest area were beautiful, as if they would fly away quickly.	1
+Lace	The car race has started.	If you want to create a stylish look, try wearing a blouse made of [lace] material.	0
+Business	He is so powerful that he has no rivals.	What it meant was that they were saying they had seen someone who couldn't do business because they didn't have money, even though they were a trustworthy and individualistic merchant.	0
+Sun	My younger sibling drew a [line] on the drawing paper with a pencil.	There is a grandmother who arranges [lines] between neighbors in the neighborhood.	0
+Sun	I practiced drawing a lot of lines.	There are not many things that contrast like good and evil.	0
+bottle	He suffered from a severe illness for a month, causing his face to become half paralyzed.	My mother poured barley tea into a [bottle] and put it in the refrigerator.	0
+bottle	I put strawberry syrup in a well-sanitized [bottle].	Just because you have caught a [disease], it does not mean you will die.	0
+slang	These days, [slang] used by teenagers is often difficult for older generations to understand.	The fish [eun-eo] rushed into the meat road in the water gate.	0
+slang	If you do not learn the slang of merchants, you may make mistakes in your work.	His favorite fish was [salmon].	0
+Real name	Originally, many [real names] appeared in his writing, but the editor anonymized them.	To deposit under a real name.	1
+Real name	Please write your full name on the contract.	Our dog at home is in crisis due to cataracts and is going blind.	0
+Middle way	The car broke down in the middle [of the trip], so we eventually had to give up on the journey.	What is the reason for this work being stopped and restarted?	1
+Grass	I breathed in the [fullness] of oxygen all day.	The child applied glue on the colored paper.	0
+Grass	I gave the goat a small piece of grass to eat.	The child sealed the envelope with glue.	0
+twist	There is not even a twist, let alone ten thousand won.	If I had [twists] to myself, I wouldn't have stolen.	1
+twist	The ending of this movie has a sudden twist, which makes it even more intriguing to people.	The peace activists supported the [unexpected] public opinion.	0
+Surgery	[Surgery] Extract the stitches from the area.	Silicone-based plastic surgery.	1
+Selection	In this season, I ended up playing as a starter instead of being a candidate.	The people who were sent as a [relay] have already gone ahead.	0
+failure	To suffer a crushing defeat with a score of 10 to 0.	Despite the [crushing defeat] of the Min-Kook Party, the magazines seemed to tolerate the Min-Kook Party.	1
+failure	That smooth pillar seems to have been made through conglomerate bribery.	After the rain or returning from the mountains, the carpenter would clean and oil his tools such as planes, saws, chisels, and saws, and then put them away before going to sleep.	1
+Simultaneously	That person was a farmer and a poet at the same time.	The child recited a poem simultaneously.	0
+Thank you.	[Thank you] I am busy preparing the materials.	There is an [audit] related to office operations.	1
+Thank you.	The whole department became chaotic when they heard the news that [Thanksgiving] is coming.	We present this certificate as a token of gratitude.	0
+Wind	Father shook his head vigorously like a wind-blown person.	There were various dishes from different countries piled up on the dining table.	0
+Wind	He composed music in the style of Slavic folk music.	Creating a French-style village was the secret to success.	1
+memorial service	August 15 Liberation Commemoration [Celebration].	He sent a [congratulatory gift] to celebrate his friend's wedding.	0
+memorial service	When it was my birthday, I received congratulatory messages from here and there.	The [congratulatory exhibit] has arrived at the graduation exhibition.	1
+Soil	Why do you add [spit] at the end of my words?	This performance is scheduled to take place over two days, on Saturday and Sunday.	0
+Water	By using the skill of Hong Gil-dong, they were able to escape from a difficult situation.	The rabbit proposed several conditions to the turtle.	1
+Water	This church has many believers.	"It is not easy to read the word ""수"" in Korean."	0
+Blemish	A face with black [blemishes].	The [blemishes] on the cheeks and forehead looked unclean like mold.	1
+Blemish	I cannot see any signs of [trace] appearing anytime soon.	Since there are no signs of rain, I can relax and hang out the laundry.	1
+Auxiliary	I worked in the kitchen with two assistants.	My friend finished college with the help of his uncle.	1
+Auxiliary	[Assistant] I was in charge of the task, but I felt good.	Even though it has been 20 years since I started working in the industry, I am still a [supporting] cast member.	1
+singular	Water was prepared in advance in anticipation of [singular].	It is expected to be a shortage for two days due to water pipe construction.	1
+Corporate	At that time, the indigenous people [warriors] fought to protect the tribal people.	He is a brave warrior.	1
+Corporate	The ancestral ritual to comfort the souls of the deceased soldiers during the war is being held today at the National Cemetery.	Upon hearing the news of her father's death, the mother could not hide her sorrowful expression.	0
+Reality	Currently, most libraries have a severe shortage of reading rooms.	The opposition party targeted the government's policies for attack.	0
+Criminal record	The child did their homework while looking up the [previous records].	You should not judge someone based on their past criminal record.	0
+Criminal record	I am wary of that person because they have a criminal record.	No one would want to marry someone with a criminal record.	1
+Seven	If you add one to this, it becomes [seven].	The exterior walls of the building were newly painted.	0
+Seven	The paint on the railing has been peeled off.	I started to paint on the tree.	1
+Gobi	The cold weather has also passed.	To decode the inscription carved on the cliff.	0
+Gobi	The envoy team safely completed their mission and returned, overcoming several life-threatening situations.	Baekje, which belonged to both Goguryeo and Silla, was a betrayal drama that was repeatedly defeated in crucial moments.	1
+Supervisor	With the investment of wealth, resources, and time, it is unthinkable that there would be no permission from the [director] to take on the tasks on behalf of the country.	You need to take [관장] for constipation.	0
+Peacock	[공작] I unfolded politics.	[Peacock] When it spread its wings, its colors were very brilliant.	0
+Peacock	The anti-government organization urged the government to stop conspiratorial destruction [sabotage].	The feathers of [peacock] are colorful.	0
+Sunsa	I couldn't give a handkerchief [gift] to the person I am grateful for.	As a result of this incident, the [shipping company] decided to provide passengers with a fare and compensation of 50,000 won.	0
+Sunsa	[Ancient Relic] Era artifacts have been unearthed.	[Prehistoric] People in ancient times used stones for their daily lives.	1
+Crowd	That is [impossible] for me to do with my abilities.	All the members of the [group] are gathered in one place.	0
+Crowd	They formed groups [herds] by pairing up with each other.	They are called wandering merchants [a crowd] here and there.	1
+"Original source: 원수
+English translation: Origin"	The king, who lost one governor and three subordinates at once, was as devastated as if he had lost an arm and a leg, or even a pillar of Goryeo.	That guy becomes my enemy.	0
+"Original source: 원수
+English translation: Origin"	Please help me repay my father's debt.	"""[Won-su] said we would meet at the wooden bridge, but I met him again in the alleyway."""	1
+Volunteer service	[Volunteer] Participants wanted for activities.	Sim [Service] for those who cannot see ahead.	0
+Volunteer service	[Volunteering] Regularly participating in volunteer activities is a great thing.	Before going out for volunteer work, the woman adjusted her schedule in advance.	1
+Arson	There were some robberies, but there were no murders or arson.	The retreating enemy carried out massacres and arson everywhere.	1
+Fate	To collide with an inevitable [fate].	He accepted his daughter's death as [fate].	1
+Fate	The bitter [fate] of longing that inevitably comes to the prince began to slowly cast a dark shadow since the year the emperor turned fifteen.	The fate of the Yongsan Division may soon split into two factions.	1
+quality	Contrary to appearances, he is a person with a bad [quality].	A woman's [vagina] becomes the path for the baby to come out during childbirth.	0
+quality	I made clothes with good quality silk.	Being a factory-produced product does not mean that its quality is poor.	1
+harvest season	Now is the [appropriate time] to say those words.	The representatives of Mongrimin easily reached an agreement that they should not miss the opportunity to meet the union workers and [settle] the dispute.	1
+back	I ranked fifth in the 100-meter race among seven people.	My aunt continued to pat my back and embraced my tantrums completely.	0
+Street	It takes 20 minutes [distance] from home to school.	That work is the work of one person [Distance].	0
+Lack	We live happily in our lives without knowing [shortages].	Due to water pollution, the fish suffered from a lack of oxygen and died in droves.	1
+self-restraint	I urged the excited crowd to restrain themselves.	It was a remarkable result of [self-restraint] that could respond so calmly.	1
+self-restraint	Please refrain from making emotional statements.	[Self] Are you healthy?	0
+Translation: Public Relations	How old are you that you still can't distinguish between [feces] and urine.	[Statement] He, who cannot distinguish between urine and feces, always wears a damp diaper underneath.	1
+Translation: Public Relations	After reading the [statement], please make sure to flush the water.	It seems like constipation as it has been several days since there has been a bowel movement.	1
+gas	In the meantime, I'm curious about how you've been, [name].	When the airplane tried to take off, the [aircraft] shook severely.	0
+gas	As the [aircraft] moved, the loud noise became louder, causing the passengers to panic, but fortunately, the plane took off safely.	The company reported that the accident occurred due to pilot error or a [mechanical] defect, and they are currently investigating the exact cause of the accident.	1
+sewage	The pollution is severe as the [sewage] flows directly into the river.	Jongdae turned into the alley where dirty [sewage] was flowing down.	1
+hand	"The culprit ran away to a place where the police's ""hands"" cannot reach."	Mr. Kim's real estate has all been transferred to the [hands] of the creditors.	1
+Line	A skirt with vertical lines.	Draw a line [through] the important part.	1
+Line	Pull the [line], people were drawn.	Hanging on the [line], it was risking its life.	1
+final exam	We offered a prayer to the mountain god [Gosa] before the hike.	After several negotiations, they finally accepted the offer.	0
+final exam	"It has been a long tradition in our village to offer a ""gosa"" to the new neighbor who moved in."	As the time for the end-of-semester exams approached, contact became less frequent.	0
+Palja	What can I do if I am born with such a personality?	My grandfather would trim his handlebar mustache every morning.	0
+Yes.	The professor explained the formula through an example.	This is just an example.	1
+Yes.	From the beginning until now, we have been putting shrimp sauce in kimchi.	The following are examples to support this theory.	0
+Genetics	There are many conflicts in the Middle East region.	Obtained mining rights and developed [genetic].	1
+Identity	The recession continues as the [stagnation] of the economy persists.	The identity of the mysterious shadow was the father.	0
+Identity	Even if I wanted to reveal the [identity], there were no clues.	The highway during rush hour is heavily congested.	0
+half	[Semifinal] Basketball match.	That student always ranks first in the [class].	1
+half	If you remove [half], it would be fine.	[Half] It was a glance that showed agreement.	1
+song	"The child cries while singing ""[Song]"" because things are not going as they want."	[Song] is difficult to sing along with.	0
+song	I mainly listen to lively music.	I sang a few songs at the karaoke.	1
+Shanghai	Inflict 5 weeks of [injury].	I got [injured] in a car accident.	1
+Shanghai	He contacted the insurance company after [sustaining injuries] in a traffic accident.	I booked a plane ticket to Shanghai, China.	0
+College entrance exam	This is difficult for official [entrance].	[College entrance exam] Students preparing for the exam should be especially mindful of their health management.	0
+Back or ridge	To catch a chicken by its neck.	The children were busy catching fish in the river, so they were very preoccupied.	0
+Back or ridge	They gathered by the neighborhood stream to catch fish.	Tying [the waistband] on Danotnal (a holiday) is a long-standing tradition.	1
+ventilation	As soon as he wakes up every morning, he opens the window wide for ventilation.	"The authorities organized a large-scale promotional event to ""vent"" public opinion on the new policy."	0
+ventilation	The air was stuffy, so I turned on the [ventilation].	Opening the door and ventilating made the air feel refreshing.	1
+Top	I discussed with my parents, but ultimately the decision was up to me.	Without any discussion or consultation with adults, my mom sent my older brother to a commercial school in Seoul.	1
+Top	My brother met with the guardian without directly colliding with the victim and had a discussion.	If the top is a dark color, it is recommended to match it with light-colored bottoms.	0
+Whole body	The Ministry of Culture, Sports and Tourism is the Ministry of Culture, Sports and Tourism.	"[전신]에 소름이 죽 끼친다. 
+en: It gives me goosebumps all over."	0
+Raw fish	The [raw fish] that my grandfather bought is really delicious.	We have about 2 social gatherings per month.	0
+Raw fish	Here, we directly sell fresh [raw fish] from the agricultural cooperative.	We added extra spicy red pepper paste and mixed it with vegetables to eat [raw fish].	1
+Joke	The sky-blue [joke] was clearly different on the right and left sides of the national road.	To make a [joke] to the person next to you.	0
+Joke	[Joke] Just do it moderately.	I thought you were joking, even if it was [a joke].	1
+AD	When [Seogi] reported the attendance of the members, the chairman stood up with a tense feeling.	Gyeonhwon established the state of Hubaekje and built its capital in Wansan in the year 900 AD.	0
+AD	In our office, there are two secretaries and one receptionist.	Coffee first became known to the world as a beverage in the 6th century AD when it was made from wild plants by Arabs.	0
+Paradox	Listen to the teacher's [paradox].	Living with faith means accepting paradoxes that are difficult to believe in rationally.	0
+Paradox	The paradox and emphasis he made in the lecture impressed many people.	How can one accept an [paradox] that is hard to believe in reason?	0
+propaganda	The players are delivering [pre-game] performances that exceed expectations.	To invade without a formal declaration of war.	0
+Bank account	He took charge of the neighborhood bank account.	He went to the bank with his stamp and [passbook].	0
+Greetings	Please accept my [greetings], although it may be insufficient.	When he saw me, instead of greeting me, he smirked.	1
+Greetings	A person who is good at [communication] will succeed in whatever they do.	[Greeting] It seemed like he didn't care about the relationship.	0
+Breakdown	Our [homeland] with good mountains and clear water.	Gaesung is famous for its high-quality ginseng.	1
+Bookshelf	I picked out six books from among the many books [on the bookshelf] that I borrowed.	He dipped his finger in saliva and flipped through the [bookshelves] for quite a while.	0
+Bookshelf	That [bookshelf] was a piece of furniture that I bought when I moved.	The student quickly flipped through the [bookshelf].	0
+Smoke	Smoke is coming out of the chimney.	The cigarette smoke is strong.	1
+Puppy	[Little] The puppy started whimpering.	The mother cow feeds milk to her [calf].	1
+Puppy	The child born from a father who worked hard on his heels will soon be born on straw shoes.	When the cat gave birth to kittens, it became sensitive.	0
+Fantasy	She is locked in the [fantasy] of her girlhood.	He became obsessed with fantasies about his high school years.	1
+Major	The [midst] of this city is beautiful.	Seo [Lieutenant Colonel] gave orders to this director.	0
+boundary	This place, where water supply is easy, is suitable for [agricultural land].	His skill went beyond the level of a simple craftsman.	0
+urban area	After finishing the meal, Daejin left the hotel to take a look around the city.	There are many interesting things in the city!	1
+urban area	The car is driving on a steep road outside the city.	The road to [the city] intersects with railroads in various places and also stretches parallel to them.	1
+Moisturizing	With a strong and sturdy body, Jangjung tightly held the handle of the plow and deeply embedded it into the soil, [moistening] it.	[Moisture] The soil sprouted up and then firmly turned over to one side in every spot where the moisturizing passes by.	1
+Moisturizing	Milk is often used as a pack because it is rich in moisturizing ingredients.	Today is the day that the children go to the [moisturizing] academy.	0
+Late	After several years have passed, when I was late [to realize], I reflected and realized that there was something good about it.	Our [lateness] in accepting and delivering commands has been extremely lazy and unreliable, as we have already consumed the heat.	1
+Late	It is said that the plate of [perception] moves according to the mantle convection.	He used to receive criticism from people because he was late every day.	0
+Solo Exhibition	After returning to the country, Kim Hwa Baek held a solo exhibition.	Our table tennis team is looking forward to team competitions rather than individual matches.	0
+Injury	Matrix of [injury] lines of players.	I have more desire for [injury] than for the main prize.	0
+Children's song	Building [shaking] due to an earthquake.	Collecting children's songs and compiling them into a book.	0
+Protest	He was arrested by the police for participating in the [protest].	As the armistice talks approached a rapid conclusion, the South Korean government became anxious and launched nationwide opposition demonstrations against the ceasefire.	1
+Protest	It seems that they were satisfied with having held a [demonstration].	As student [protests] grew more intense, the government deployed the police force.	1
+God	I hope to have the blessing of [신].	Encouraged by the enthusiastic applause from the audience, he became even more [inspired] and continued playing.	0
+God	What should we do if it takes this long from the first [new] shoot?	To offer a sacrifice to [God], a lot of preparation is needed.	0
+only	The square of one hundred is ten thousand.	My hometown is a remote fishing village in a small [man].	0
+only	Right now, there are [only] a few people gathered outside!	The school of fish you see next to it is about ten.	1
+Ownership	As the [director] of the counseling center, he manages all aspects of the center's operations.	He was a general of the [collector] rank.	0
+self	You are cool enough, so have confidence in yourself.	If you don't have confidence in success, quit now.	1
+self	"It means ""Do something that you can be proud of."""	I have confidence in doing this job well.	0
+Prosecutor	[Inspection] Please wait patiently for the results, which will be available in a week.	Through thorough inspection, the defect rate of the product has been reduced.	1
+Reproduction	Cholera can be caused by the reproduction of certain types of fish and shellfish.	Birds only come close to each other for reproduction purposes...	0
+Reproduction	No matter how severe the disease is, one of the other characteristics of this disease is that it always protects the human [reproductive] function cleanly.	This flower reproduces unusually through mycorrhiza.	1
+Previous	It had been a tradition since [before].	I worked overnight for the ownership transfer.	0
+Headquarters	[Main building] is called Pungsan.	The annex is built a little distance away from the main building.	0
+Headquarters	This class had to go up to the 7th floor [of the main building].	My grandfather said that he cannot marry someone whom he doesn't even know their hometown.	0
+Sex/gender	"[성]이 나서 펄펄 뛰다.
+en: Jumping with excitement."	Are you going to make such a big fuss about it among friends?	0
+Sex/gender	The enemy is fierce and numerous, while the allies are scarce and unable to confront the enemy, resulting in the capture of [something].	I wonder what the difference is between [성] and [궁].	1
+Intellectual	She exudes [intellectual] charm.	Desire for intellectuality.	1
+Intellectual	If you keep criticizing like that, I will get angry.	The teacher's [criticism] was justified.	1
+Change	My uncle had a stroke.	[Note] An examination is very important for the diagnosis of digestive diseases.	0
+Format	Submit the application according to the [format].	Check the [habitat] of rare animals.	0
+Format	Modify the report according to the [format].	It is inconvenient because there is no separate resume format.	1
+Imitation	The bigger and more beautiful the jewel is, the more it feels [artificial].	[Imitation] Jinju is used as a substitute for natural pearls.	1
+Imitation	[Artificial] leather is actually easier to manage.	[Artificial] gathered his followers after much consideration.	0
+examination	He avoided the teacher's [gaze/glance].	She had been staring at one spot on the ceiling for a long time.	1
+Mosa	He did not draw the portrait, saying it was nothing but a [copy].	They met day and night to plot against the enemy [imitation].	0
+Mosa	[Imitation] Although it is called a work, it is so similar to the original that it is hard to distinguish.	Our military's [imitation] was more capable than anyone else.	0
+Water damage	I am also someone who used to hear the sound [Water Rejection].	He is a poor [prodigy] who graduated at the top of his university class.	1
+Water damage	People who lost their homes in the flood fell into despair.	That child may not be a genius, but we can say that they are a prodigy.	0
+above	The country awarded a [prize] to the merit recipient.	To celebrate grandma's birthday, mom prepared a table full of food as a [gift].	0
+above	Upon hearing the news of [someone] suffering [something], I quickly made a phone call.	When the child received [an award], the parents were extremely happy.	0
+Civil Service Examination	Wow, the world is funny. Just after I passed the civil service examination, a mediator came barging in...	This person is from a background of passing the government examination.	0
+Civil Service Examination	I have only been preparing for the [civil service examination] for one year.	If I fail this exam, I am considering quitting [preparing for the civil service exam].	1
+Development	In the 1970s, South Korea achieved remarkable economic development.	There is no progress without adaptation to the present.	1
+Interest	Pay back the principal plus interest.	Wages saved [interest] are tax-exempt.	1
+Paper	During a trial, people who clap or shout receive a warning from the judge.	The advancement of technology has also been a significant support for the development of publishing.	0
+Paper	The terrorist detonated a bomb immediately after colliding with the patrol vehicles in the vicinity, breaking through the police officers' blockade at the entrance of the police station.	He was restricted by the moderator for expressing personal opinions at an official conference table.	1
+Decision	Now is the time to make a decision.	Diamonds are [crystals] that are hard.	0
+Decision	The market price of books is hindered by the determination and prediction of fair price.	The nature of the exhibition is determined by the curator's decision.	1
+Electronics	Since there was no work for [electronics], I'll disappear from the town before it gets bright.	That place is a mecca of the [electronic] industry.	0
+Electronics	The former was a winner and the latter was a loser.	[Electronic] I bought a cello but it's not as good as I thought.	0
+Private	Stop the long [editorial] and quickly eat rice or side dishes.	It was an act of forcefully removing and causing a disturbance to a pastor who was immersed in preaching in a private [editorial] on heresy.	0
+Private	[Editorial] If it is too long, the core becomes blurred.	During negotiations, let's keep the private discussions short and focus on the main topic.	1
+jewel	A box containing food and [jewelry].	Escape from prison with [jewelry].	0
+jewel	Among gemstones, diamonds are the most precious.	He ended up serving time in prison for stealing [jewelry].	1
+Inspiration	I wrote a post suddenly because [inspiration] came to mind.	Next-door neighbor [Inspiration] lives for the fun of watching the mischief of their grandson these days.	0
+Inspiration	This song was composed after being inspired by watching this movie.	Our [Inspiration] is a poor person.	0
+Emperor	Sejong is the fourth king of Joseon.	The two people took out the payroll book and calculated the wages of the workers.	0
+Emperor	There was not a single servant who advised the king not to do that work.	[The king] set out to pay homage to the abilities of the previous king, with only one of his courtiers accompanying him.	1
+Sam	We finally reached a [spring] full of clear water.	Living with a younger sibling who has a lot of energy is a difficult task.	0
+Sam	Deep wells do not run dry in a drought.	It is true that I envy my sister's abilities.	0
+Tattoo	To hide the tattoo on my arm, I only wore long-sleeved clothes.	His left arm was covered in tattoos.	1
+Gyeonggi	[Gyeonggi] is recovering, and exports are showing signs of vitality.	In order to have an exciting [game], one must follow the rules carefully.	0
+Gyeonggi	What can I order for a child who dislikes [Gyeonggi]?	The public considers attitude towards [competition] to be more important than skill.	0
+Positive/Positive gender	A teacher's college is a school that aims to train educators.	In talent education, the most important thing is the cultivation of autonomous activities and creative thinking ability.	1
+Positive/Positive gender	He, who was the winner of the athletics competition at the last Olympics, had his medal revoked after testing positive in the drug test conducted after the game.	If the skin at the injection site becomes hardened by more than 10mm, it is considered to be latent tuberculosis [positive].	1
+Base	The batter hit a home run and slowly rounded the bases.	He was a minstrel in the village who carried a bass on his shoulder.	0
+Base	That sound was the tone of a [bass] guitar that I heard for the first time in my life since I was born in this world.	After hitting a great home run, he high-fived the first base coach as he passed by [the base].	0
+Typing	As [the batter] stepped up to the plate, cheers erupted.	There is resistance as a [typist] in foreign languages.	0
+The best	Papyrus is known as the world's top mathematics book.	[Top] Holding power in one's hands	0
+The best	The person who recorded the highest score in the arcade was none other than our class president.	If you were asked to choose the best restaurant in this area, everyone would choose that Baekban restaurant.	1
+Mountain water	Today, I learned multiplication in the math class.	He is skilled in [arithmetic] and can quickly solve complex calculations.	1
+Mountain water	[The mountain water] is beautiful.	I was lying on a narrow kitchen floor, with a mat spread out and a cool breeze blowing, while doing my math homework.	0
+Kidney	Yumi's height is 180cm.	There is an abnormality in the patient's kidneys.	0
+Original	The grandmother next door is known as the [originator] of this food.	The [origin] of the computer can be said to be the abacus, which was first used in China around 2600 BC.	1
+home	He already had [established] a home.	I was a woman with a [family], and so was she.	1
+home	I wish for good luck to come to your homes.	Many domestic wastewater was discharged into the river.	1
+Medal	He achieved great merits in the war and received a [medal].	De Gaulle participated in the First World War as a lieutenant and received the highest [decoration].	1
+ointment	Apply ointment to the affected area.	I applied disinfectant and then applied ointment on top.	1
+ointment	I want to start fresh in a place without any ties or connections.	There are also different types of ointments for applying to wounds.	0
+reporting	That newspaper always has accurate content in its reporting.	Please do not spread tap water as [news].	0
+Fruit	The fact is that he has not committed any significant [fault] during his twenty-seven and a half years of life until today.	I never commit [a mistake].	1
+Fruit	This region experienced flooding this summer, resulting in a low yield of fruits.	Due to its unique aroma caused by fruits, nowadays women are seeking alchemy more.	1
+Import	Import and trade of foreign cultures.	The government regulated the [import] of foreign goods.	1
+True	In the evening, I should go for a walk and visit a nearby bookstore.	Lunchtime comes only after a few hours.	1
+Immaturity	Yesterday, I pulled out my younger sibling's tooth.	When you pull out a loose tooth, you look forward to getting a new one.	1
+Immaturity	I bragged that my younger sibling won a child's drawing competition.	We gained a lot of income through hosting this international competition.	0
+Saturn	Part of the old [Tosung] remained standing in ruins.	On the surface of Saturn, there are lines parallel to the equator.	0
+Saturn	In that [Saturn], not only artifacts from Balhae but also a considerable number of ruins and artifacts from the Bronze Age were discovered.	An astrophysicist appeared on television and said that on Saturn, there is no air, so even if you were to ring a bell, there would be no sound.	0
+East	There is a bank account meeting today at [동], so please attend.	"[동]이 트려면 아직도 멀었다.
+en: We still have a long way to go to achieve [동]."	0
+East	After tossing and turning until dawn, I fell into a vague sleep. However, I woke up to the sound of rustling and suddenly opened my eyes, and [동] was standing there.	There is a middle school student named Hong Mangu in room 305.	0
+Gift	In celebration of Children's Day, I prepared a small gift for my nephew.	He has been conducting trading in which he buys goods and sells futures.	0
+Air	As late autumn approaches, the early morning [air] has become quite chilly.	In that [air] there is a mixture of toxic gases, smoke, and dust.	1
+Air	Yeongcheol put air into the deflated tire.	Changsu went up the mountain to drink fresh [air] while studying.	1
+Captain	The Speaker of the National Assembly is responsible for overseeing the overall affairs of the National Assembly.	How can I find a corpse that has been dumped?	0
+Captain	There is no better candidate than a woman to take the position of [director].	The [leader] of the organization must demonstrate dignity.	1
+bag	The clothing merchant untied the [sack] and took out the items.	My mother spread out the sack and filled it with rice.	1
+bag	[Bag] Can't we just throw away the shaking knife?	[The sack] was filled with beans, and there were quite a lot in sight.	0
+Chinese restaurant	The sky cleared up without a single cloud.	I got red marks all over my arm from being bitten by mosquitoes all night long.	0
+Chinese restaurant	A large mole on the back of the neck caught my eye.	It was a dog with brown spots on its face.	1
+Reason	There was a valid reason for him to marry his aunt, Youngdal.	The military cannot impose sanctions on an individual's [reasoning].	0
+Reason	[Reason] Infringe on property rights.	If the President-elect dies or loses their qualification due to a ruling or other [reason], a successor must be elected within 60 days.	0
+Gasan	Anyway, Ki-beom [Gasan] diligently studied and appeared in front of us frequently, so that he would not be forgotten.	He has diligently increased his assets.	1
+ledger	If they were alive, they would have become prosperous [books] by now.	[Book] Whether it's a waste of life or a weak belief, I can't abandon the heart I once made.	1
+ledger	Please sign your name on the ledger first.	When the situation became unfavorable, he hid the accounting [ledger].	1
+Chapter	You can create a wonderful artwork with just one piece of colored paper.	My mother used to hide valuable items deep in the wardrobe.	0
+Chapter	My mother untied the knot and boiled the soup.	To match the [scene] at a furniture store.	0
+Organizer	To hold a ceremony under the government's auspices.	A youth film festival was held under the auspices of the French Cultural Center.	1
+Normal	That person is not [normal].	Observatory located on a mountain [summit].	0
+Pot	Riding a [gama].	Putting pottery in [a kiln]	0
+First snow	This year, the first snowfall is on the late side.	I made a promise to meet with a friend on the day when the first snow falls.	1
+See	Advance [보] retreat after work for advance.	A dish filled with delicious food shines on a strange flower-stitched, white plate.	0
+See	Let's open the [book], and there was a chili pepper.	He bet 30,000 [won] a day.	0
+Small person	How can a small person [understand] the meaning of a military man?	On the cow's buttocks was the owner's brand mark [cow's sign].	0
+Small person	"""There is nothing more to release from [소인]!"""	Please listen to the words of [someone].	1
+Soy sauce	Anchovies and chili peppers were cooked in soy sauce.	When I think about that time, [soy sauce] goes bad.	0
+Soy sauce	Even if you mix rice with soy sauce, it tastes good.	It tastes really delicious when you dip grilled mackerel in soy sauce.	1
+Recording	To record several times.	Various birds chirped in the recording of [June's recording].	0
+consultation	It is necessary to [consult] whether our citizens have the ability to respond cooperatively in times of crisis.	Forming a policy advisory professor group.	1
+Bandage	Someone has recklessly stripped off the [cover] of the front line.	New recruits were given two sets of summer uniforms.	0
+Distribution	The advertising leaflets [distribution] have been completed.	The first issue will be distributed for free for promotional purposes.	1
+Distribution	He is the king of a small kingdom, but he possesses enough power to compete with a large country.	As part of book promotion, we are planning a free distribution event.	0
+Commercial building	I bought side dishes from a [shopping mall] near my house.	Samwoo is over and all the customers who came to the [store] have left.	0
+Commercial building	A new fast food restaurant has opened in the shopping mall.	"It was good that each apartment complex had a large ""shopping center""."	1
+Cooking	to speak [eloquently]	This article is written by [조리].	1
+Cooking	After reading the cooking instructions, the woman filled the pot with water.	[Cooking] Tools should always be kept clean.	1
+Construction	This [construction] is scheduled to be completed by the end of the year.	Strictly distinguish [construction].	0
+Construction	[Construction] The noise was so loud that I couldn't sleep in.	[Construction] It is useless to keep telling them to separate.	0
+Thorough	I threw away all the wine in the [jar].	Live life a little more boldly.	0
+Lee Sung	The existence of [Desire] is the essence of human beings.	He is a rational and pragmatic person who values logic over emotions.	1
+preservation	That adult is the most influential figure here.	If we continue like this, it seems difficult to maintain the current situation.	0
+preservation	Maintaining the current condition is the most important thing.	We were able to continue the legacy of our ancestors.	0
+older brother	Development of a new type of car.	My brother and I resemble our father in our eyes.	0
+older brother	"""[Hyung] is a precious existence to me."""	I gave pocket money to [my/your/his/her] mother.	1
+Appearance	My [appearance] is ridiculous.	I immigrated to avoid seeing the [disgraceful] sight of the country collapsing.	1
+Resonance	Just thinking about obtaining wealth and [public reputation] together makes my heart race.	I thought that person was amazing, but it turns out they are nothing but empty words.	0
+Resonance	When the resonance of the two sounds occurred, a fantastic sound was produced.	It is the process of changing the resonance frequency of the receiving circuit.	1
+Vase	She put the roses that her friend gave her in a vase.	A [vase] with a pretty flower pattern is sold at a very high price.	1
+Phenomenon	"The phenomenon called ""Be 500 Fill"" moved people's desires in a significant way."	It is desirable for the imbalance in national development to be corrected.	1
+Phenomenon	These days, there is no one coming to the photo studio to directly leave their photos for development.	We no longer feel unfamiliar with such social phenomena.	0
+Bride	"It is called ""shinhaeng"" when the bride enters her husband's family for the first time."	The [bride] wearing a traditional Korean wedding robe, first performed a bow and then the groom performed the greeting ceremony.	1
+Bride	Groom, please take your position [Bride].	The bride wore a jokduri (a traditional Korean wedding crown) and adorned it with a large headpiece, then decorated it with jade ornaments and flower patterns.	1
+US	He got on the bus with a [US] Marine Corps officer.	I received an A in Korean language, but I received a B in art.	0
+US	[US] The standards of the Food and Drug Administration are slightly different from those in South Korea.	[US] The government showed a positive attitude.	1
+Magic or Power	There was a [magic] that could even captivate people who didn't care about rumors that said it was amazing.	This car is capable of producing 280 horsepower.	0
+Tooth	Received the pay of three kings.	Monthly salary.	1
+Tooth	I am now shaken by his hypocritical behavior.	Although I am afraid that others might know, I am shushing it. But when I think about the wounds that our child has in their heart, I tremble.	1
+Miracle	The ship set sail, ringing [miracles].	"There is no ""miracle"" medicine that can cure all diseases."	0
+Mountain	I like the mountains because they are green.	There is a tiger on that mountain.	1
+Customs and traditions	Today, the maximum wind speed reached 7 meters per second in an instant.	Marriages that excessively judge premarital sex should disappear.	0
+Dog	That [dog] only followed its owner.	Our [dog] had puppies.	1
+Dog	[Dogs] have a more developed sense of smell than humans and are sensitive to odors.	Our [dog] gave birth to five cute puppies.	1
+Year.	The children had a competition to see who could fly higher in the sky with the kite.	The child asks their grandfather how to make a [bow].	1
+Year.	The child asks their grandfather how to make a [연].	[The person] unties the rope, then reels it back in with a sigh, and throws [the rope].	1
+New Year	Friendship between friends must be mutual.	My mother carefully asked about the [end] of the fight.	1
+New Year	[Si-jong] were all filled with complaints.	When Yangban cleared his throat outside, [Sijong] quickly entered the room.	1
+Recover	Accident [Recovery] Measures Headquarters.	Professor H was so excited that he couldn't [recover] himself.	1
+Recover	The belated [recovery] of the political power was clearly visible.	The authorities concerned should make every effort to handle the accident site [recovery] and post-accident measures.	1
+Product	Department stores have all kinds of [products].	Sell [products] in bundled units.	1
+Product	The [product] of this competition was premium beef.	Our orchard treats fruits that are sweet and beautifully shaped as the top [product].	0
+Factor	Analyze the [factors] of failure.	He fell ill due to various factors such as stress and irregular eating habits.	1
+Extension	He took care of the extension and headed there.	Please extend the contract.	0
+substitute, interchange	Today is a day with a night shift [rotation], so I had dinner and left home.	All nurses must set their alarms for shift change time.	1
+Video	It was below zero until yesterday, but today it won't be too cold because of the [video].	In a [video], water is in a liquid state.	1
+Beijing	I booked a plane ticket to [Beijing].	After majoring in Chinese literature in college, Wonjun left to study abroad in Beijing.	1
+labor and construction	The ruling party and the opposition party have been continuously changing their positions on [the issue] over the past few months.	The river in this town is used for [fishing].	0
+Seobang	Looking for someone who can speak [Western] language.	"Give this to your ""Seobang""."	0
+Origin	The eastern and western parts of Gwacheon City are formed as mountainous areas.	The villages in [Mountainous Region] are generally scattered in small-scale areas.	1
+Chiaha	The period of Japanese imperialism is a disgrace to the history of our country.	To our people who had suffered under the Japanese colonial rule, this democracy is a progressive ideology and a political system that can be firmly asserted.	1
+genius	They did not know that [genius] would suddenly become a inferior student one day after fighting against poverty and persistent struggles.	Unless you're a genius, you can't create such original and beautiful artwork.	1
+Insult	I hope that any [disparagement], any insult will end tonight with just one incident.	The central force of the Moshin, who founded Goguryeo and unified the Three Kingdoms, was socially [disparaged] compared to the literati.	1
+Escape	That guy Cheolsu has such a quick temper, he's [impulsive].	A man started dancing with a mask turned upside down on his face.	1
+execution	Various discussions arose regarding [the execution], whether to send a messenger, make a pledge, or eliminate the entire clan.	In the past, if someone entered a temple without permission, it was considered blasphemy and they were [executed].	1
+teacher	If he interfered, he would unknowingly get excited and end up having a performance-like argument with his colleagues [teachers].	[Teachers] have a responsibility to guide and develop their students.	1
+sponsorship	We kindly ask for your interest and support in our volunteer group.	The politician pledged to provide extensive support to farmers and full-time farmers, who are successors to agricultural families.	1
+Wavelength	After a drinking session, all that remains is trash.	That movie caused a significant social impact.	0
+Opening price	In order to be listed on the stock exchange, a certain level of sales, assets, and market capitalization must be reached.	He is a poet who has blossomed as a master of lyrical poetry in the [shi-ga] genre.	0
+Defense	[Direction] is generally divided into four directions: east, west, south, and north.	Our military is prepared with a solid defense posture to counter enemy aggression.	0
+resident	The people of Chungcheong Province [residents] supported the issue.	The [residents] of our island are all opposed to that issue.	0
+organic	The criminal dumped a body [corpse] into the river.	I bought [Organic] from Anseong as a souvenir to give to my parents.	0
+Three	Isn't that the value when the ginseng we cultivated becomes red ginseng and becomes processed ginseng?	[Three] is my favorite number.	0
+scream, yell, shriek	[Tears] flowed when I thought about my deceased son.	Startled by the sudden [scream] sound, he quickly turned around to look.	0
+Diesel fuel	Paju City is replacing existing buses operated by [diesel] with hybrid vehicles.	According to the price linkage system, the consumer prices of gasoline, kerosene, and diesel have increased by an average of 3.86 percent.	1
+Regular	With sharp roots, it is bright and comfortable, with few diseases and will not steal [regularity] from the ear.	Our association has regular monthly meetings.	0
+Firearm	That recruit was full of [firearms].	I worked hard, so my vision [of firearms] has become blurry.	1
+Pro	The student who consistently achieved good grades throughout high school eventually made their debut as a professional athlete.	I [pro] have a lot of problems because I speak casually as if it were true.	0
+page	It is also inconvenient on this side.	Open math book page 85.	0
+Pollack	If you are not careful, you will be annihilated by the enemy's [movement].	Most of the [dongtae] distributed domestically is imported.	0
+Public corporation	We decided to change the location of [공단] this time.	They called in employees dispatched to the Kaesong [Industrial Complex].	1
+Fire	I lit a fire and roasted marshmallows to eat.	The child ended up getting burned in the fire.	1
+Luggage	I checked in my luggage before boarding the plane.	Now I have to pack [my] luggage so [I] can leave early tomorrow.	1
+receptionist	The [leader] of each faction came out and started negotiating.	The organization has completed the application form [receipt].	0
+Denial	In the long run, negativity in reality is not helpful.	Tears came out from my father's warm [embrace].	0
+Ball	A baby's cheek is soft and squishy.	If your foot is wide, it is difficult to buy shoes.	0
+ambassador	In order to recognize the new king, [envoys] were dispatched.	"We have attached the sign ""General Merchant [Ambassador]"" to our store."	0
+Scouting	People were unwilling to perform reconnaissance missions.	The [scouting] operation of our allies has begun.	1
+Trends	Please keep an eye on recent trends as they are strange.	When I met someone from a different place, we quickly became close.	0
+Saw	It is difficult to cut the wood cleanly with a saw.	The lumberjack lent me a saw.	1
+weekly	Be careful during the Islamic fasting period [during the day].	There are more people at night than during the day.	0
+Ssam	I filled the lettuce wrap with pork belly.	Even if you eat cabbage with [ssam], it tastes delicious.	1
+Truth	People were shocked when the truth of the incident was revealed.	The most important thing now is the [truth] investigation.	1
+Original	A dental brace was made by taking an impression of the teeth.	Please pour plaster into a mold in the shape of an apple [core].	1
+Yangsan	The warm and sweet spring sun melted and flowed under the clear [parasol], and Yeon-suk's face blossomed quite brightly.	In the electronics industry, efforts are being made to accelerate development in order to establish memory [mass production] technology.	0
+Fairy Tale	The teacher throws questions to the children after each [fairy tale] ends, leading them to think deeply.	She is waiting for a prince who will turn her life around like Cinderella in a fairy tale.	1
+Paris	In the middle of summer, a fly was buzzing around in front of my face.	The old man Kim was chasing after flies with a fly swatter as a pastime.	1
+Stationery	The flyer states that they will purchase overdue phones, deactivated phones, and damaged phones without condition, and it even mentions that they will also buy lost or stolen phones.	A collection of [quotes] showcasing the sense of restaurant owners is a hot topic among netizens.	1
+Fasting	His younger sister reported that he participated in a [hunger strike] in prison.	In order to obtain permission for marriage from his parents, my older brother went on a hunger strike and engaged in a fierce struggle.	1
+Extremity	This is the inaugural work of [Theater Group], which recently took its first step while promoting feminist theater.	Due to financial difficulties, [the theater group] [극단] reluctantly resorted to performing commercialized plays, despite their insistence on producing only artistically significant performances.	1
+Emergency	Please quickly form an emergency response team.	When the stock price plummeted, the entire company went into an emergency situation.	1
+Cheongju	[Cheongju] When the detention warrant, which had been re-applied by the special department, was once again rejected, the prosecutor showed a sense of urgency by holding a crisis meeting.	If it's Choi Cham-bong, when I was young, he was a wealthy person who lived in our neighborhood and was a prominent figure in Cheongju.	1
+Low	I have no reason to disrespect him, as someone who respected the president more than anyone else.	The two officials readily accepted and carried out the order without any hesitation or reason to delay their entry.	1
+Yangji	People living in the prosperous areas need the virtue of remembering and helping those who are suffering in the less fortunate areas.	For soup or stew, galbi, moksim, [yangji], dogani, and satay are used.	0
+Bowing	That [temple] barely maintains its livelihood with the offerings of the believers.	Mrs. Park felt conflicting emotions in her heart even while receiving [blessings].	0
+Sugar	[Party name] leadership resolved to expel the members of parliament who were convicted of bribery for judicial processing.	After suffering a complete defeat in the election he had been confident about, he gave up his position as [party] representative.	1
+Map	Duryeong spread out the map of Jirisan and roughly predicted the path of the police force.	The information manager pointed to a certain point on the map with a pointer and said again.	1
+Price	"They were also the ""masters"" of spiritual healing."	The US military government agency has stated that it has established a policy to completely eradicate pirates and is developing detailed operation plans, even at a high cost.	0
+Hwarang	At [Hwarang], a Korean folk painting exhibition with tigers and magpies as its theme is being held.	This [Hwarang] is a place that lends artists a certain period of time and place for art exhibitions.	1
+do	Although the winner may not know the way [to do it], there is a thought of repaying the country.	The small school in this town has been decided to be closed by the [do] education office.	0
+Introduction	He wrote a recommendation for the [Preface] of his disciple's published poetry collection.	"From the difference in fonts between the ""Introduction"" and the main text, it is clear that someone else has written the introduction of this book."	1
+Island	[Island] Suddenly, a strange tension began to spread throughout the entire area.	The construction of a bridge connecting the mainland and an island is currently underway.	1
+Primitive	He is conducting research on the process by which [primitive] religion developed into a higher religion.	In [primitive] societies before the creation of writing, communication primarily relied on verbal language.	1
+inquiry	In our class, during the [inquiry] or closing time, we take turns talking for about 3 minutes each.	Recently, various additional services such as shopping and accessing geographical information can be used through mobile phones.	0
+Sweat	[Ugh] The smell of sweat mixed with the smell of food is foul.	The sweat-soaked apron was flicked off.	1
+Po-dae	The palaces were the perfect place for military bases as the forests were dense and there was no better place than [Podaem] for a military base.	Before starting the construction, Jung-ho went to the material warehouse with a delivery note and received several bags of cement.	0
+Evaluation	The sharp and cold [judgment] of the boy was laid at the bottom of the writing.	He was excluded from this promotion [evaluation].	0
+Garak	A performance of a traditional Korean play, featuring an enthusiastic rendition of our [garak], received multiple standing ovations at a gathering of young people from around the world.	And once the [Garak] that I heard once was engraved in my mind like a score without me realizing it, and it would often resonate and come out through my fingertips.	1
+Employee	This place is the largest temple in our country that boasts history, tradition, and the number of monks.	Forcing [employees] out without cause is an act that violates labor laws.	0
+Visit	[Visiting] It is polite to contact in advance before visiting.	[Visit] was open, but no one had the courage to enter the room.	0
+Luck	Since he was young, he had no luck at all.	The guy who smiled saying he did well on the test couldn't help but smirk like that.	1
+Embroidery	My mom's new hobby these days is embroidering on old cloth bags.	A cat drawing embroidered with [stitching] caught my eye with its quirky design.	1
+scenery	This pension is characterized by its beautiful surroundings [scenery].	Traditional Korean houses harmonize well with the natural landscape.	1
+Guard	Due to the intimidating expression of the guard, the prisoners returned to their respective places without a word.	It's ridiculous how they used to nag at others while not even being able to take care of their own belongings properly.	0
+Cracks or flaws	Seeing that there is a snake's shed skin, it would be better to move to another place.	The woman who ended up twisting someone else's [fault] upside down appealed to the injustice.	0
+Chae	If I could have just one house, I would have no more wishes.	It is said that the wealthy person in that house owns only five houses.	1
+South	Families separated by the South and North longed for each other for a long time.	It was a man's problem to engage in intellectual bullying towards others.	0
+Eggplant	The child burst into tears upon seeing the broken branch.	I'm going to try making a rice bowl with [eggplant].	0
+Simulation	[Mock] The man was nervous even during the mock exam.	The woman had already received a passing score on the previous [mock] exam.	1
+name	"[Literal translation] What good would there be in having a long name?
+
+[Interpretation] What benefit is there in having a long name?"	He had a strong will to follow whatever a man said.	0
+Notice	A job posting for new employees has been posted.	According to the announcement, the interview was scheduled for next week.	1
+Output	The mine that produces diamonds is a source of pride for this town.	When there was a disruption in egg production, the price skyrocketed.	1
+Branch	Sales at the Daejeon branch have increased dramatically.	I heard that there are many accidents occurring at that [location].	0
+private	The cost of sending my child to a private elementary school was extraordinary.	The woman started working at a private foundation.	1
+Beverage	The main crop in our farm is blueberries.	[Relationship] I didn't think there was a need to twist and turn so much even though it wasn't a relevant matter.	0
+Dongsan	[Dongsan] is filled with flowers in bloom.	The children happily played and jumped on the hillside.	1
+Crab	Where is [게] going around so recklessly?	Since it is said to be in season, I am looking forward to its taste.	0
+Construction	Their love was a love that transcended [time and space].	They started the interior construction.	0
