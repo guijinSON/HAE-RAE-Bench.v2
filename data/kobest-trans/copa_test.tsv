@@ -1,0 +1,1773 @@
+Unnamed: 0	sentence	question	1	2	Answer
+0	The waist of the newly bought pants was too big.	result	I cut the bottom of the pants.	I put on a belt and adjusted the size of my pants.	2
+1	I shed tears after watching the movie.	cause	I watched a movie with interesting content.	I watched a sad movie.	2
+2	The demand for a book has increased.	cause	There have been negative criticisms (or reviews) about the book.	The book received rave reviews.	2
+3	I put ice in warm water.	result	The water has turned into ice.	The water has become cold.	2
+4	In the news, they discovered a puddle of muddy water.	result	I fell into a puddle.	I kept walking on the sidewalk, avoiding puddles.	2
+5	I put the water bottle in the freezer.	result	The water froze.	The water boiled.	1
+6	I put potatoes in boiling water.	result	The potatoes were boiled deliciously.	The potatoes were cooked deliciously.	1
+7	The woman felt that long hair was messy.	result	The woman cut her hair.	The woman cut her hair.	1
+8	I boiled the water for a long time.	result	The amount of water has increased.	The amount of water has decreased.	2
+9	I have been sued by a celebrity.	cause	I wrote a fan letter to my favorite celebrity.	I left hateful comments on a disliked celebrity.	2
+10	I have never been absent until graduation.	result	Received an attendance award.	Received a physical education special talent award.	1
+11	The man filed a lawsuit against the company.	cause	The company treated men unfairly.	The man received unfair treatment from the company.	1
+12	The laptop did not turn on.	cause	The battery is discharged.	The battery has been charged.	1
+13	Put artificial tears in your eyes.	cause	The snow was moist.	My eyes were dry.	2
+14	I went to a fan signing event, and the idol remembers my face.	cause	I went to my first fan signing event.	I often went to fan signing events.	2
+15	The tip of my hair is damaged.	cause	After perming, I did not properly maintain it.	I did a treatment every day.	1
+16	The battery of the doorbell number key is completely dead and not working.	result	Pressing the number key did not make any sound.	When I entered an incorrect number on the keypad, a warning sound rang out.	1
+17	I forgot the door lock password.	result	The door lock password has been reset.	I replaced the door lock battery.	1
+18	A woman's ear feels clogged.	cause	The woman listened to the song very loudly.	The woman sang a song.	1
+19	The hunter ran out of ammunition.	result	The hunter aimed at the deer.	The hunter reloaded his gun.	2
+20	I fell off the ladder.	cause	I couldn't find balance.	It is well balanced.	1
+21	The boy ate rice cakes today.	cause	Today is Chuseok.	Today is the day of Jeongwol Daeboreum.	1
+22	The child missed the balloon.	result	The balloon is filled with air.	The balloon flew into the sky.	2
+23	I caught a cold.	result	Tears came out.	I have a cough.	2
+24	The bottle cap was difficult to open.	cause	I loosely closed the bottle cap.	The bottle cap is tightly closed.	2
+25	Hot oil splashed onto my hand.	result	I have a blister on my foot.	I have a blister on my hand.	2
+26	The woman received driving lessons.	cause	The woman obtained a driver's license.	The woman registered for a driver's license academy.	2
+27	The man was jealous of his colleague.	cause	My colleague worked overtime.	My colleague got promoted.	2
+28	The bandage was removed.	cause	The wound got infected.	All wounds have healed.	2
+29	The sun has set and it has become evening.	result	The moon has waned.	The moon has risen.	2
+30	I stepped on a Lego piece with my foot.	result	My foot hurts.	The feet were slippery.	1
+31	My lips have become rough.	cause	I drank enough water.	I was thirsty.	2
+32	He spat out phlegm.	cause	I am constipated.	I have phlegm in my throat.	2
+33	There was a smell in the room.	result	I opened the window.	I closed the window.	1
+34	There was a smell in the room.	result	I opened the window.	I closed the window.	1
+35	Suddenly, heavy rain came pouring down.	result	I did the laundry.	I closed the window.	2
+36	Suddenly, heavy rain came pouring down.	result	I did the laundry.	I closed the window.	2
+37	Next year, my younger brother will be able to participate in the presidential election.	cause	My younger sibling will turn 19 years old next year.	Next year, my younger sibling will enter high school.	1
+38	The pond dried up.	cause	The drought continued for days.	The continuous heavy rain continued for days.	1
+39	The timer in the kitchen went off.	result	The man put the groceries in the refrigerator.	The man took out the pizza from the oven.	2
+40	The woman started running on the crosswalk.	cause	There is a lot of remaining pedestrian time on the crosswalk.	There is not much time left for pedestrians to cross the crosswalk.	2
+41	The egg white was beaten with a whisk.	result	The egg white has cooked.	Meringue was made.	2
+42	Air pollution has worsened.	result	People wore masks.	People engaged in outdoor activities.	1
+43	The woman's eyes turned red.	cause	The woman cried while watching a sad movie yesterday.	The woman laughed while watching a comedy movie yesterday.	1
+44	A thief came into my house.	result	I called 112 to report it.	I called 116 to check the time.	1
+45	The woman did not eat dinner.	cause	The dinner menu was the favorite food of women.	The woman ate too much for lunch.	2
+46	I exercised in the scorching sun.	result	It got colder.	I'm sweating.	2
+47	The children raised their hands.	cause	I had the opportunity to experience traditional culture.	I had the opportunity to experience modern culture.	1
+48	I spoke to Mike.	result	My voice is heard loudly by people.	My voice sounds small to people.	1
+49	I charged the transportation card.	cause	I am planning to take the subway.	I am scheduled to take a plane.	1
+50	The laptop is broken.	result	I bought a new laptop.	I lent a laptop.	1
+51	The laptop is broken.	result	I bought a new laptop.	I lent a laptop.	1
+52	The laptop is broken.	result	I bought a new laptop.	I lent a laptop.	1
+53	The laptop is broken.	result	I bought a new laptop.	I borrowed a laptop.	1
+54	The laptop is broken.	result	I bought a new laptop.	I lent a laptop.	1
+55	The laptop is broken.	result	I bought a new laptop.	I lent a laptop.	1
+56	The laptop is broken.	result	I bought a new laptop.	I lent a laptop.	1
+57	The laptop is broken.	result	I bought a new laptop.	I borrowed a laptop.	1
+58	The laptop is broken.	result	I bought a new laptop.	I lent a laptop.	1
+59	The laptop is broken.	result	I bought a new laptop.	I lent a laptop.	1
+60	The laptop is broken.	result	I bought a new laptop.	I lent a laptop.	1
+61	The laptop is broken.	result	I bought a new laptop.	I borrowed a laptop.	1
+62	The laptop is broken.	result	I bought a new laptop.	I lent a laptop.	1
+63	The laptop is broken.	result	I bought a new laptop.	I lent a laptop.	1
+64	The laptop is broken.	result	I bought a new laptop.	I lent a laptop.	1
+65	The laptop is broken.	result	I bought a new laptop.	I borrowed a laptop.	1
+66	The laptop is broken.	result	I have been using the laptop for a long time.	I entrusted the repair of the laptop.	2
+67	The laptop is broken.	result	I have been using the laptop for a long time.	I entrusted the repair of the laptop.	2
+68	The laptop is broken.	result	I have been using the laptop for a long time.	I entrusted the repair of the laptop.	2
+69	The laptop is broken.	result	I have been using the laptop for a long time.	I entrusted the repair of the laptop.	2
+70	The laptop is broken.	result	I have been using the laptop for a long time.	I entrusted the repair of the laptop.	2
+71	The laptop is broken.	result	I have been using the laptop for a long time.	I entrusted the repair of the laptop.	2
+72	The laptop is broken.	result	I have been using the laptop for a long time.	I entrusted the repair of the laptop.	2
+73	The laptop is broken.	result	I have been using the laptop for a long time.	I entrusted the repair of the laptop.	2
+74	The laptop is broken.	result	I have been using the laptop for a long time.	I entrusted the repair of the laptop.	2
+75	The laptop is broken.	result	I have been using the laptop for a long time.	I entrusted the repair of the laptop.	2
+76	The laptop is broken.	result	I have been using the laptop for a long time.	I entrusted the repair of the laptop.	2
+77	The laptop is broken.	result	I have been using the laptop for a long time.	I entrusted the repair of the laptop.	2
+78	The laptop is broken.	result	I have been using the laptop for a long time.	I entrusted the repair of the laptop.	2
+79	The laptop is broken.	result	I have been using the laptop for a long time.	I entrusted the repair of the laptop.	2
+80	The laptop is broken.	result	I have been using the laptop for a long time.	I entrusted the repair of the laptop.	2
+81	The laptop is broken.	result	I have been using the laptop for a long time.	I entrusted the repair of the laptop.	2
+82	The seawater was evaporated under the sun.	result	Sugar was created.	Salt was created.	2
+83	A woman was convicted of a minor crime.	result	A woman has been sentenced to death.	The woman received a social service disposal.	2
+84	The day after the party, he vomited.	result	He danced at the party.	He drank a lot of alcohol at the party.	2
+85	The man got lost.	cause	It was familiar because it was the path I always took.	I entered the wrong destination in the navigation.	2
+86	New books have been stocked in the library.	cause	People have requested a new book.	There are many people in the library.	1
+87	I wrote the wrong answer on my error notes for a math problem.	cause	I made a mistake on the math problem.	I solved the math problem.	1
+88	I couldn't find a towel after taking a shower.	result	I couldn't wipe off the moisture.	There was no water coming out.	1
+89	I pounded the meat with a hammer.	result	The meat has become tough.	The texture has become softer.	2
+90	The doctor placed the stethoscope on the patient's chest.	result	The doctor looked at the patient's bone picture.	The doctor heard the patient's heartbeat.	2
+91	I sang high-pitched songs all day long.	result	I feel relieved.	I became skilled at playing musical instruments.	1
+92	The zipper is broken.	cause	I drank hot water.	I drank cold water.	1
+93	I sliced and added chili peppers to the stew.	result	The stew became spicy.	The stew has become spicy.	2
+94	The grandmother attached a half-moon-shaped knife to her grandson's hand.	cause	Blood was shed from the grandson's hand.	The grandson's hand got a bruise.	1
+95	I called my friend.	cause	I wanted to be alone.	I was bored.	2
+96	The woman always wore a ring on her left ring finger.	cause	She had no boyfriend.	Women have spouses.	2
+97	There is adhesive on my finger.	result	The fingers stuck together.	The fingers have become smooth.	1
+98	The woman woke up from sleep.	cause	She took sleeping pills.	Her husband snored heavily.	2
+99	I approached the magnet near the refrigerator.	result	The magnet stuck to the refrigerator.	The magnet fell to the floor.	1
+100	The car cannot move forward.	cause	The road was heavily congested with cars, causing severe traffic congestion.	Two people were riding in a car.	1
+101	The letter was sealed with wax.	cause	I have finished writing the letter.	I received a letter from someone.	1
+102	One group left the exhibition hall.	cause	I bought tickets for the exhibition.	I have visited all the exhibitions.	2
+103	The man burned his hand.	cause	The man grabbed the hot pot with his bare hands.	The man washed the pot clean.	1
+104	I harvested red beans.	cause	I planted red beans.	I boiled red beans.	1
+105	The writing in the nearby newspaper was not visible clearly.	result	I used prescription glasses.	I used a magnifying glass.	2
+106	The students left the classroom.	cause	The bell rang to signal the end of the class.	The teacher gave homework to the students.	1
+107	The man could not see colors well.	cause	The man was wearing sunglasses.	The man was wearing earphones.	1
+108	The woman had a bandage wrapped around her hand.	cause	The woman cut her hand.	The woman's hand was covered in food.	1
+109	I got a cut on my finger.	cause	I cut my finger on the paper.	Flick your finger to make a sound.	1
+110	An error occurred in the computer.	result	The computer suddenly turned off.	The speed of the computer has become faster.	1
+111	There is a bad smell coming from the mouth.	cause	I ate rice and did not brush my teeth.	I rinsed my mouth with mouthwash for bad breath removal.	1
+112	I made a reservation for a restaurant tonight.	cause	Today is my mom's birthday.	Last week was my mother's birthday.	1
+113	I took the GED exam.	cause	I dropped out of school.	I entered school.	1
+114	I rode a swing.	cause	I went home early.	I went to the playground.	2
+115	My hair was very oily.	cause	I did not cut my hair for three days.	I just took a shower.	1
+116	I put a stamp on it.	result	I received a letter.	I sent the mail.	2
+117	The laptop overheated severely.	cause	I left the laptop on for a long time.	I turned off the laptop for a long time.	1
+118	I brought a potato knife to the potato.	result	The potato skin has been peeled off.	The potatoes were boiled.	1
+119	The man opened an umbrella.	cause	It was raining outside.	The sun was shining brightly.	1
+120	The man opened an umbrella.	cause	It was raining outside.	The sun was shining brightly.	1
+121	Wearing rubber boots.	cause	It was the rainy season.	The sun was shining brightly.	1
+122	Wearing rubber boots.	cause	It was the rainy season.	The sun was shining brightly.	1
+123	I turned on the air purifier.	result	The air inside the room became clean.	The air in the room became stuffy.	1
+124	A speeding fine was imposed on the man.	cause	The man was driving slower than the speed limit.	The man drove faster than the speed limit.	2
+125	I fried corn in a frying pan.	result	Popcorn is complete.	The corn has been boiled.	1
+126	The ship sank.	result	The passengers fell into the sea.	The passengers boarded the ship.	1
+127	The company's CEO resigned.	result	The board of directors has disappeared.	They selected a different CEO in the board of directors.	2
+128	I wore a headband.	result	Hair fell out.	My hair did not fall out.	2
+129	I wore a headband.	result	Hair fell out.	The hair did not fall out.	2
+130	I wore a headband.	result	My hair fell out.	My hair did not fall out.	2
+131	I wore a headband.	result	My hair fell out.	The hair did not fall out.	2
+132	I pinned a hairpin.	result	Hair fell out.	The hair is fixed.	2
+133	I pinned a hairpin.	result	Hair fell out.	My hair is fixed.	2
+134	I pinned a hairpin.	result	My hair fell out.	The hair is fixed.	2
+135	I pinned a hairpin.	result	My hair fell out.	My hair is fixed.	2
+136	I filled the tumbler with coffee.	cause	I ordered coffee at the cafe.	All the coffee beans have been used.	1
+137	I did not water the vegetable garden.	result	The plants in the vegetable garden grew vigorously.	The plants in the vegetable garden withered.	2
+138	I covered the thick blanket.	cause	The temperature has dropped below zero.	The weather was hot.	1
+139	It's time to turn off the lights.	result	I turned on the lights in the room.	Turn off the lights in the room.	2
+140	The police removed the woman from the list of suspects.	cause	The police interrogated the woman.	The woman's alibi has been confirmed.	2
+141	A woman boarded the escalator.	result	The woman moved to a different floor.	The woman moved to a different country.	1
+142	The child exercised.	result	The child felt scared.	The child became filled with energy.	2
+143	I didn't have enough memory on my mobile phone.	cause	I bought a new cell phone.	I have too many photos on my phone.	2
+144	I developed the film at the photo studio.	cause	I took a photo with a film camera.	I took a photo with a digital camera.	1
+145	The car was overturned.	cause	The driver is a veteran.	The driver was drowsy driving.	2
+146	The police surrounded the house.	cause	There was a burglar inside the house.	The criminal was caught by the police.	1
+147	I applied shoe polish to my shoes.	result	The heel of the shoe broke.	There is a glare in the shoes.	2
+148	The girl unfolded the parasol.	cause	It rained.	The sunlight was strong.	2
+149	The girl unfolded the parasol.	cause	It rained.	The sun was strong.	2
+150	The girl unfolded the parasol.	cause	It rained.	The sunlight was strong.	2
+151	The girl unfolded the parasol.	cause	It rained.	The sun was strong.	2
+152	People spread calcium chloride on the road.	cause	It rained.	It snowed.	2
+153	People spread calcium chloride on the road.	cause	It rained.	It snowed.	2
+154	People spread calcium chloride on the road.	cause	It rained.	It snowed.	2
+155	People spread calcium chloride on the road.	cause	It rained.	It snowed.	2
+156	The fan requested an autograph from the baseball player.	result	The baseball player signed the autograph.	The baseball player hit a home run.	1
+157	I put bread in the freezer.	result	The bread has become soft.	The bread has become hard.	2
+158	The man wiped off the lipstick on his cheek.	cause	My lover kissed me on the cheek.	My lover kissed me on the cheek.	1
+159	On a rainy day, I dried the laundry.	result	The laundry dried well.	There is a smell coming from the laundry.	2
+160	My favorite song came on the radio.	result	I blocked my ears.	I sang along to the song.	2
+161	The well has dried up.	cause	The drought lasted for a long time.	The flood lasted for a long time.	1
+162	I turned on the air conditioner.	result	The temperature inside the room has increased.	The room became cool.	2
+163	I mixed honey with hot water.	result	Honey tea is completed.	Honey makgeolli has been completed.	1
+164	I caught the mosquito sitting on the wall with my palm.	result	I was bitten by a mosquito.	Blood was stained on the wall where the mosquito had landed.	2
+165	I lost my pencil case.	result	There are more stationery items.	I need to buy new stationery.	2
+166	I rolled the candy around in my mouth with my tongue.	result	The candy melted.	The candy is broken.	1
+167	There is a defect in the airplane engine.	result	The pilot made a flying mistake.	The airplane crashed.	2
+168	I came back home while getting wet in the rain.	result	My body felt itchy.	I feel refreshed.	1
+169	The woman felt pain in her sole.	cause	The woman wore comfortable shoes.	The woman walked for a long time.	2
+170	I bought pork belly.	cause	There was a discount event for samgyeopsal.	The price of pork belly has gone up.	1
+171	The number of patients with heatstroke has increased.	cause	The heat wave continues.	The cold wave continues.	1
+172	The airplane is landing.	cause	Passengers began boarding the airplane.	The airplane has arrived at its destination.	2
+173	I attached a knee guard.	cause	The half-price store disappeared.	I hurt my knee.	2
+174	I burned mosquito repellent.	result	Mosquitoes gathered together.	The mosquito died.	2
+175	I burned mosquito repellent.	result	Mosquitoes gathered together.	The mosquito died.	2
+176	I found a mosquito and sprayed insecticide.	result	The mosquito is alive.	The mosquito died.	2
+177	I found a mosquito and sprayed insecticide.	result	The mosquito is alive.	The mosquito died.	2
+178	A piece of glass got stuck in my hand.	cause	I broke the dish.	I organized the dishes.	1
+179	I boiled water in a pot.	cause	I wanted to make a boiled egg.	I wanted to fry eggs.	1
+180	I won first place in the marathon race.	result	I have been exercising hard lately.	He hung a gold medal around his neck.	2
+181	There is a big stain on the blanket.	result	I put the blanket in the washing machine.	I covered the blanket.	1
+182	The man wore an apron.	cause	The man is going to cook.	The man completed the cooking.	1
+183	My ears hurt because the earphone volume was too loud.	result	I lowered the earphone volume.	I increased the volume of the earphone.	1
+184	The shoe sole was sticky.	cause	I washed the shoes.	I stepped on gum on the street.	2
+185	The patient was discharged from the hospital.	cause	The patient's body has recovered.	The patient's disease has relapsed.	1
+186	The man convinced his family.	cause	The family agreed with the man's opinion.	The family opposed the man's marriage.	2
+187	The participant received criticism from the judges.	cause	The participant made a perfect dish within the given time.	The participants were unable to make the food in time.	2
+188	The woman's hand was cut.	cause	The woman was skilled at knife skills.	The woman was not skilled in using a knife.	2
+189	I bought a puzzle.	cause	I had so much to do because I was too busy.	I was bored because I had nothing to do.	2
+190	The locked door was opened.	cause	The door was locked from the inside.	I inserted the key into the keyhole and turned it.	2
+191	I have developed a tooth abscess.	result	I visited the ophthalmologist.	I visited the proctology department.	2
+192	There is a hole in the mosquito net.	result	Bugs have entered the room.	Rain has come into the room.	1
+193	My eyes are congested.	cause	I laughed a lot.	I cried a lot.	2
+194	I made the broken glass piece with my hand.	result	I washed my hands clean.	I got a cut on my hand.	2
+195	I spilled coffee on the carpet.	result	The carpet has dried.	There is a coffee stain on the carpet.	2
+196	My younger sibling made kimchi.	cause	I ate all the kimchi.	There is a lot of leftover kimchi.	1
+197	The man turned up the music louder.	result	I couldn't hear the music well.	I could not hear the surrounding noise well.	2
+198	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+199	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+200	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+201	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+202	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+203	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+204	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+205	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+206	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+207	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+208	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+209	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+210	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+211	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+212	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+213	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+214	The dog's paws got dirty.	cause	The dog stepped in muddy water.	I washed the dog's paws.	1
+215	The dog's paws got dirty.	cause	The dog stepped in muddy water.	I washed the dog's paws.	1
+216	The dog's paws got dirty.	cause	The dog stepped in muddy water.	I washed the dog's paws.	1
+217	The dog's paws got dirty.	cause	The dog stepped in muddy water.	I washed the dog's paws.	1
+218	The dog's paws got dirty.	cause	The dog stepped in muddy water.	I washed the dog's paws.	1
+219	The dog's paws got dirty.	cause	The dog stepped in muddy water.	I washed the dog's paws.	1
+220	The dog's paws got dirty.	cause	The dog stepped in muddy water.	I washed the dog's paws.	1
+221	The dog's paws got dirty.	cause	The dog stepped in muddy water.	I washed the dog's paws.	1
+222	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+223	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+224	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+225	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+226	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+227	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+228	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+229	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+230	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+231	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+232	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+233	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+234	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+235	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+236	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+237	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+238	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+239	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+240	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+241	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+242	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+243	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+244	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+245	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+246	The dog's paws got dirty.	cause	The dog stepped in muddy water.	I washed the dog's paws.	1
+247	The dog's paws got dirty.	cause	The dog stepped in muddy water.	I washed the dog's paws.	1
+248	The dog's paws got dirty.	cause	The dog stepped in muddy water.	I washed the dog's paws.	1
+249	The dog's paws got dirty.	cause	The dog stepped in muddy water.	I washed the dog's paws.	1
+250	The dog's paws got dirty.	cause	The dog stepped in muddy water.	I washed the dog's paws.	1
+251	The dog's paws got dirty.	cause	The dog stepped in muddy water.	I washed the dog's paws.	1
+252	The dog's paws got dirty.	cause	The dog stepped in muddy water.	I washed the dog's paws.	1
+253	The dog's paws got dirty.	cause	The dog stepped in muddy water.	I washed the dog's paws.	1
+254	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+255	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+256	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+257	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+258	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+259	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+260	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+261	The dog's paws got dirty.	cause	The dog stepped on muddy water.	I washed the dog's paws.	1
+262	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+263	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+264	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+265	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+266	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+267	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+268	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+269	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+270	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+271	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+272	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+273	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+274	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+275	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+276	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+277	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+278	The dog's paws got dirty.	cause	The dog stepped in muddy water.	The dog drank water.	1
+279	The dog's paws got dirty.	cause	The dog stepped in muddy water.	The dog drank water.	1
+280	The dog's paws got dirty.	cause	The dog stepped in muddy water.	The dog drank water.	1
+281	The dog's paws got dirty.	cause	The dog stepped in muddy water.	The dog drank water.	1
+282	The dog's paws got dirty.	cause	The dog stepped in muddy water.	The dog drank water.	1
+283	The dog's paws got dirty.	cause	The dog stepped in muddy water.	The dog drank water.	1
+284	The dog's paws got dirty.	cause	The dog stepped in muddy water.	The dog drank water.	1
+285	The dog's paws got dirty.	cause	The dog stepped in muddy water.	The dog drank water.	1
+286	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+287	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+288	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+289	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+290	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+291	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+292	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+293	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+294	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+295	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+296	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+297	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+298	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+299	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+300	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+301	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+302	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+303	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+304	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+305	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+306	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+307	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+308	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+309	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+310	The dog's paws got dirty.	cause	The dog stepped in muddy water.	The dog drank water.	1
+311	The dog's paws got dirty.	cause	The dog stepped in muddy water.	The dog drank water.	1
+312	The dog's paws got dirty.	cause	The dog stepped in muddy water.	The dog drank water.	1
+313	The dog's paws got dirty.	cause	The dog stepped in muddy water.	The dog drank water.	1
+314	The dog's paws got dirty.	cause	The dog stepped in muddy water.	The dog drank water.	1
+315	The dog's paws got dirty.	cause	The dog stepped in muddy water.	The dog drank water.	1
+316	The dog's paws got dirty.	cause	The dog stepped in muddy water.	The dog drank water.	1
+317	The dog's paws got dirty.	cause	The dog stepped in muddy water.	The dog drank water.	1
+318	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+319	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+320	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+321	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+322	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+323	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+324	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+325	The dog's paws got dirty.	cause	The dog stepped on muddy water.	The dog drank water.	1
+326	I received a reissued card.	cause	I bought a wallet.	I lost my card.	2
+327	The man invested in stocks.	result	Received dividends.	The man wanted to make money.	1
+328	There is a stain on the clothes.	cause	I spilled food on my clothes.	I washed the clothes.	1
+329	The man couldn't find his way properly.	cause	The man repaired the navigation.	The man had not updated his navigation for a long time.	2
+330	The clock stopped.	cause	The watch battery has run out.	The watch battery is dead.	1
+331	Kim became watery.	cause	I soaked the dried seaweed in water.	I grilled the dried seaweed on a gas stove.	1
+332	I washed my hands.	cause	My hands got wet.	My hands got stained with paint.	2
+333	The mouse is not working.	cause	The battery of the mouse has completely run out.	I replaced the battery of the mouse with a new one.	1
+334	The woman bought a rosary.	cause	The woman is a Catholic.	The woman is a Buddhist believer.	1
+335	I watched a sad movie.	result	I shed tears.	It was a grand spectacle.	1
+336	The man has an upset stomach.	cause	The man ate spoiled food.	The man ate fresh vegetables.	1
+337	The family members of the man requested an autopsy on the man's body.	cause	The family members of the man could not accept the cause of death announced for the man.	The cause of death for the man was clear.	1
+338	The woman got annoyed with the man.	cause	The man gave flowers to the woman.	The man shook the sleeping woman to wake her up.	2
+339	Her bag was too heavy.	result	Her bag was filled with a lot of luggage.	She had a shoulder ache.	2
+340	There was a good scent coming from the woman's body.	cause	The woman sprayed perfume.	The woman sprayed water.	1
+341	I lay on the sunbed and sunbathed.	result	A tattoo is engraved on the back.	The back was burned brown.	2
+342	I mixed yellow paint and blue paint.	result	The paint has turned purple.	The paint turned green.	2
+343	The man lost his hearing.	cause	The man defused the explosive.	An explosive went off right next to the man.	2
+344	I put oil in the water.	result	Water and oil are mixed.	Water and oil have not been mixed.	2
+345	My friend was hospitalized.	result	I went to the hospital with a card and flowers.	My friend was taken in an ambulance.	1
+346	I took high blood pressure medication.	result	Blood pressure has decreased.	Blood pressure has increased.	1
+347	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+348	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+349	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+350	I am out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+351	I am out of breath.	cause	I sat on the chair.	I quickly climbed the mountain.	2
+352	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+353	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+354	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+355	I am out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+356	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+357	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+358	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+359	I am out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+360	I am out of breath.	cause	I sat on the chair.	I quickly climbed the mountain.	2
+361	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+362	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+363	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+364	I am out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+365	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+366	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+367	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+368	I am out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+369	I am out of breath.	cause	I sat on the chair.	I quickly climbed the mountain.	2
+370	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+371	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+372	I am out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+373	I am out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+374	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+375	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+376	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+377	I'm out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+378	I'm out of breath.	cause	I sat on the chair.	I quickly climbed the mountain.	2
+379	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+380	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+381	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+382	I'm out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+383	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+384	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+385	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+386	I'm out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+387	I'm out of breath.	cause	I sat on the chair.	I quickly climbed the mountain.	2
+388	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+389	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+390	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+391	I'm out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+392	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+393	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+394	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+395	I'm out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+396	I'm out of breath.	cause	I sat on the chair.	I quickly climbed the mountain.	2
+397	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+398	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+399	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+400	I'm out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+401	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+402	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+403	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+404	I'm out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+405	I'm out of breath.	cause	I sat on the chair.	I quickly climbed the mountain.	2
+406	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+407	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+408	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+409	I'm out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+410	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+411	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+412	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+413	I'm out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+414	I'm out of breath.	cause	I sat on the chair.	I quickly climbed the mountain.	2
+415	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+416	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+417	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+418	I'm out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+419	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+420	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+421	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+422	I'm out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+423	I'm out of breath.	cause	I sat on the chair.	I quickly climbed the mountain.	2
+424	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+425	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+426	I'm out of breath.	cause	I sat on the chair.	I climbed the mountain quickly.	2
+427	I'm out of breath.	cause	I sat on the chair.	Climbed the mountain quickly.	2
+428	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+429	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+430	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+431	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+432	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+433	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+434	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+435	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+436	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+437	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+438	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+439	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+440	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+441	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+442	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+443	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+444	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+445	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+446	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+447	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+448	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+449	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+450	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+451	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+452	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+453	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+454	I am out of breath.	cause	I walked slowly.	I ran at full speed.	2
+455	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+456	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+457	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+458	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+459	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+460	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+461	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+462	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+463	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+464	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+465	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+466	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+467	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+468	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+469	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+470	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+471	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+472	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+473	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+474	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+475	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+476	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+477	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+478	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+479	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+480	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+481	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+482	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+483	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+484	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+485	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+486	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+487	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+488	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+489	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+490	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+491	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+492	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+493	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+494	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+495	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+496	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+497	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+498	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+499	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+500	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+501	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+502	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+503	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+504	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+505	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+506	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+507	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+508	I'm out of breath.	cause	I walked slowly.	I ran at full speed.	2
+509	I am out of breath.	cause	I did light exercise.	I did intense aerobic exercise.	2
+510	I am out of breath.	cause	I did light exercise.	I did intense aerobic exercise.	2
+511	I am out of breath.	cause	I did light exercise.	I did intense aerobic exercise.	2
+512	I am out of breath.	cause	I did light exercise.	I did intensive aerobic exercise.	2
+513	I am out of breath.	cause	I did light exercise.	I did intense aerobic exercise.	2
+514	I am out of breath.	cause	I did light exercise.	I did intense aerobic exercise.	2
+515	I am out of breath.	cause	I did light exercise.	I did intense cardio exercise.	2
+516	I am out of breath.	cause	I did light exercise.	I intensively did aerobic exercise.	2
+517	I am out of breath.	cause	I did light exercise.	Intensive aerobic exercise was performed.	2
+518	I am out of breath.	cause	I did low-intensity exercise.	I did intense aerobic exercise.	2
+519	I am out of breath.	cause	I did low-intensity exercise.	I did intense aerobic exercise.	2
+520	I am out of breath.	cause	I did low-intensity exercise.	I did intense aerobic exercise.	2
+521	I am out of breath.	cause	I did low-intensity exercise.	I did intensive aerobic exercise.	2
+522	I am out of breath.	cause	I did low-intensity exercise.	I did intense aerobic exercise.	2
+523	I am out of breath.	cause	I did low-intensity exercise.	I did intense aerobic exercise.	2
+524	I am out of breath.	cause	I did low-intensity exercise.	I did intense cardio exercise.	2
+525	I am out of breath.	cause	I did low-intensity exercise.	I intensively did aerobic exercise.	2
+526	I am out of breath.	cause	I did low-intensity exercise.	Intensive aerobic exercise was performed.	2
+527	I am out of breath.	cause	I did a low-intensity exercise.	I did intense aerobic exercise.	2
+528	I am out of breath.	cause	I did a low-intensity exercise.	I did intense aerobic exercise.	2
+529	I am out of breath.	cause	I did a low-intensity exercise.	I did intense aerobic exercise.	2
+530	I am out of breath.	cause	I did a low-intensity exercise.	I did intensive aerobic exercise.	2
+531	I am out of breath.	cause	I did a low-intensity exercise.	I did intense aerobic exercise.	2
+532	I am out of breath.	cause	I did a low-intensity exercise.	I did intense aerobic exercise.	2
+533	I am out of breath.	cause	I did a low-intensity exercise.	I did intense cardio exercise.	2
+534	I am out of breath.	cause	I did a low-intensity exercise.	I intensively did aerobic exercise.	2
+535	I am out of breath.	cause	I did a low-intensity exercise.	Intensive aerobic exercise was performed.	2
+536	I'm out of breath.	cause	I did light exercise.	I did intense aerobic exercise.	2
+537	I'm out of breath.	cause	I did light exercise.	I did intense aerobic exercise.	2
+538	I'm out of breath.	cause	I did light exercise.	I did intense aerobic exercise.	2
+539	I'm out of breath.	cause	I did light exercise.	I did intensive aerobic exercise.	2
+540	I'm out of breath.	cause	I did light exercise.	I did intense aerobic exercise.	2
+541	I'm out of breath.	cause	I did light exercise.	I did intense aerobic exercise.	2
+542	I'm out of breath.	cause	I did light exercise.	I did intense cardio exercise.	2
+543	I'm out of breath.	cause	I did light exercise.	I intensively did aerobic exercise.	2
+544	I'm out of breath.	cause	I did light exercise.	Intensive aerobic exercise was performed.	2
+545	I'm out of breath.	cause	I did low-intensity exercise.	I did intense aerobic exercise.	2
+546	I'm out of breath.	cause	I did low-intensity exercise.	I did intense aerobic exercise.	2
+547	I'm out of breath.	cause	I did low-intensity exercise.	I did intense aerobic exercise.	2
+548	I'm out of breath.	cause	I did low-intensity exercise.	I did intensive aerobic exercise.	2
+549	I'm out of breath.	cause	I did low-intensity exercise.	I did intense aerobic exercise.	2
+550	I'm out of breath.	cause	I did low-intensity exercise.	I did intense aerobic exercise.	2
+551	I'm out of breath.	cause	I did low-intensity exercise.	I did intense cardio exercise.	2
+552	I'm out of breath.	cause	I did low-intensity exercise.	I intensively did aerobic exercise.	2
+553	I'm out of breath.	cause	I did low-intensity exercise.	Intensive aerobic exercise was performed.	2
+554	I'm out of breath.	cause	I did a low-intensity exercise.	I did intense aerobic exercise.	2
+555	I'm out of breath.	cause	I did a low-intensity exercise.	I did intense aerobic exercise.	2
+556	I'm out of breath.	cause	I did a low-intensity exercise.	I did intense aerobic exercise.	2
+557	I'm out of breath.	cause	I did a low-intensity exercise.	I did intensive aerobic exercise.	2
+558	I'm out of breath.	cause	I did a low-intensity exercise.	I did intense aerobic exercise.	2
+559	I'm out of breath.	cause	I did a low-intensity exercise.	I did intense aerobic exercise.	2
+560	I'm out of breath.	cause	I did a low-intensity exercise.	I did intense cardio exercise.	2
+561	I'm out of breath.	cause	I did a low-intensity exercise.	I intensively did aerobic exercise.	2
+562	I'm out of breath.	cause	I did a low-intensity exercise.	Intensive aerobic exercise was performed.	2
+563	I'm out of breath.	cause	I did light exercise.	I did intense aerobic exercise.	2
+564	I'm out of breath.	cause	I did light exercise.	I did intense aerobic exercise.	2
+565	I'm out of breath.	cause	I did light exercise.	I did intense aerobic exercise.	2
+566	I'm out of breath.	cause	I did light exercise.	I did intensive aerobic exercise.	2
+567	I'm out of breath.	cause	I did light exercise.	I did intense aerobic exercise.	2
+568	I'm out of breath.	cause	I did light exercise.	I did intense aerobic exercise.	2
+569	I'm out of breath.	cause	I did light exercise.	I did intense cardio exercise.	2
+570	I'm out of breath.	cause	I did light exercise.	I intensively did aerobic exercise.	2
+571	I'm out of breath.	cause	I did light exercise.	Intensive aerobic exercise was performed.	2
+572	I'm out of breath.	cause	I did low-intensity exercise.	I did intense aerobic exercise.	2
+573	I'm out of breath.	cause	I did low-intensity exercise.	I did intense aerobic exercise.	2
+574	I'm out of breath.	cause	I did low-intensity exercise.	I did intense aerobic exercise.	2
+575	I'm out of breath.	cause	I did low-intensity exercise.	I did intensive aerobic exercise.	2
+576	I'm out of breath.	cause	I did low-intensity exercise.	I did intense aerobic exercise.	2
+577	I'm out of breath.	cause	I did low-intensity exercise.	I did intense aerobic exercise.	2
+578	I'm out of breath.	cause	I did low-intensity exercise.	I did intense cardio exercise.	2
+579	I'm out of breath.	cause	I did low-intensity exercise.	I intensively did aerobic exercise.	2
+580	I'm out of breath.	cause	I did low-intensity exercise.	Intensive aerobic exercise was performed.	2
+581	I'm out of breath.	cause	I did a low-intensity exercise.	I did intense aerobic exercise.	2
+582	I'm out of breath.	cause	I did a low-intensity exercise.	I did intense aerobic exercise.	2
+583	I'm out of breath.	cause	I did a low-intensity exercise.	I did intense aerobic exercise.	2
+584	I'm out of breath.	cause	I did a low-intensity exercise.	I did intensive aerobic exercise.	2
+585	I'm out of breath.	cause	I did a low-intensity exercise.	I did intense aerobic exercise.	2
+586	I'm out of breath.	cause	I did a low-intensity exercise.	I did intense aerobic exercise.	2
+587	I'm out of breath.	cause	I did a low-intensity exercise.	I did intense cardio exercise.	2
+588	I'm out of breath.	cause	I did a low-intensity exercise.	I intensively did aerobic exercise.	2
+589	I'm out of breath.	cause	I did a low-intensity exercise.	Intensive aerobic exercise was performed.	2
+590	A woman received a gift.	result	The woman opened the packaging of the gift.	A woman packaged a gift.	1
+591	The tea was brewed for too long.	result	It tastes like tea.	It tastes sweet in the car.	1
+592	I had been wearing socks for a long time without wiping my feet.	result	I have developed calluses on my feet.	I have athlete's foot.	2
+593	The dog barked at the person.	cause	The dog saw its owner.	The dog saw a stranger.	2
+594	The woman climbed up onto the roof using a ladder.	cause	The roof was damaged and water leaked.	The woman repaired the roof.	1
+595	The new instant noodles cooked faster than the other noodles.	cause	The noodles of the newly purchased ramen are thinner.	The noodles of the newly bought ramen are thicker.	1
+596	The woman threw the ball upwards.	result	The ball is inflated.	The ball hit the ceiling.	2
+597	The man put down the dog's snack on the floor.	result	The dog came running and ate the snack.	The dog went to the bathroom and pooped.	1
+598	On a hot summer day, the child went under the shade of a tree.	result	The child felt coolness.	The child felt hungry.	1
+599	I bit into the ice.	result	I froze the ice.	My eyes were itchy.	2
+600	My younger sibling succeeded in business.	result	My younger sibling's household situation has become difficult.	My younger sibling became rich.	2
+601	I planted seeds in the yard.	result	Flowers bloomed in the yard.	A dog was running around in the yard.	1
+602	I made pottery and let it dry.	result	The pottery has become soft and mushy.	The pottery has become stiff.	2
+603	The woman felt static electricity.	cause	The woman grabbed the doorknob.	The woman looked at the door.	1
+604	I bought a new mobile phone.	cause	My cellphone is broken.	The mobile phone has been charged.	1
+605	I placed a dehumidifier in the cabinet.	result	The cupboard has become damp.	The pantry has become dry.	2
+606	The man rushed to the bathroom and urinated.	cause	The man drank a lot of water today.	The man washed his hands with water.	1
+607	I ate samgyetang in the hot summer.	result	I didn't sweat at all.	I am sweating a lot.	2
+608	The basketball team lost in the tournament.	result	Fans of the Jin team were disappointed.	Fans of the Jin team cheered.	1
+609	The man did not study for the exam at all.	result	The man passed the exam.	The man failed the exam.	2
+610	The owner is running to catch the dog.	cause	The owner dropped the dog's leash.	The dog ate its food.	1
+611	The woman applied cleansing cream to her face.	cause	The woman is trying to remove her makeup.	The woman wants to put on makeup.	1
+612	The audience screamed.	cause	The circus acrobat juggled while riding a unicycle.	The circus acrobat laughed.	1
+613	I have constipation.	result	The bowel movement is good.	It is difficult to see changes.	2
+614	The man received carnations from his son.	cause	Today is the day my son takes an exam.	Today is Parents' Day.	2
+615	The man started self-quarantine.	cause	The man caught the flu.	The man's flu has been cured.	1
+616	The international film festival was held in Busan.	result	Many tourists flocked to Busan.	A fire broke out in Busan.	1
+617	A tick is attached to the dog's body.	cause	The dog went into the grassy field and came out.	The dog went into the water and came out.	1
+618	The water in the kettle started to boil.	cause	The water inside the kettle has reached 100 degrees.	The water in the kettle has turned into gas.	1
+619	Some flower pollen got into my eye.	result	I felt a foreign object in my eye.	The flower bloomed.	1
+620	I wiped my nose with a handkerchief.	cause	I have a runny nose.	Tears came out.	1
+621	The woman's hair flowed down.	result	The girl lost her hairpin.	The woman fixed her hair with a hairpin.	2
+622	The new year has come.	result	I became one year older.	I got one year younger.	1
+623	I sprayed fabric perfume on my clothes.	result	There is a food smell on the clothes.	There was a fragrant smell coming from the clothes.	2
+624	The cup is broken.	cause	Minsoo dropped the cup.	Min-su washed the cup.	1
+625	I wiped my face with an oil blotting paper.	result	My face is sweaty.	The facial sebum has been removed.	2
+626	I bought a new ink.	cause	I have used up all the ink.	I opened the packaging of the new ink.	1
+627	The banana peel was removed.	result	The surface of a banana is yellow.	The surface of a banana is white.	2
+628	I sprayed water on the tissue.	result	The tissue paper became soggy.	The tissue paper has become stiff.	1
+629	We started a sale to handle inventory.	cause	There is a lot of inventory left.	There is no stock left.	1
+630	I had a cramp.	cause	The injured leg has healed.	I fell down and broke my leg.	2
+631	The rubber band was stretched with a very strong force.	result	The rubber band has become shorter.	The rubber band broke.	2
+632	The floor is cold.	result	I turned on the air conditioner.	I turned on the boiler.	2
+633	The rice was left on the fire longer than the time it takes to cook.	result	We have nuroongji.	The rice is slightly sour.	1
+634	The woman used the stairs to go up to the office.	cause	The office elevator has been replaced with a new one.	The office elevator is broken.	2
+635	I swept the floor with a vacuum cleaner.	result	Dust has accumulated on the floor.	The dust on the floor was sucked in.	2
+636	I swept the floor with a vacuum cleaner.	result	Dust has accumulated on the floor.	The dust on the floor was sucked in.	2
+637	I swept the floor with a vacuum cleaner.	result	Dust has accumulated on the floor.	The dust on the floor was sucked in.	2
+638	I swept the floor with a vacuum cleaner.	result	Dust has accumulated on the floor.	The dust on the floor was sucked in.	2
+639	No one has lived for a long time.	result	Dust has accumulated on the floor.	The house was repaired cleanly.	1
+640	No one has lived for a long time.	result	Dust has accumulated on the floor.	The house has been repaired cleanly.	1
+641	No one has lived for a long time.	result	Dust has accumulated on the floor.	The house was repaired cleanly.	1
+642	No one has lived for a long time.	result	Dust has accumulated on the floor.	The house has been repaired cleanly.	1
+643	The woman shared lunch with her friend.	cause	I forgot that my friend was bringing lunch for me.	A friend of the woman bought her a meal.	1
+644	I went to a jjimjilbang.	result	I took a bath.	I couldn't take a bath.	1
+645	I bought something online.	result	The item was delivered by courier.	The item is broken.	1
+646	The drought lasted for a long time.	cause	There was a heavy rainstorm in the summer.	It did not rain in the summer.	2
+647	The front door is open.	cause	I forgot to close the door.	Locked the door with a key.	1
+648	I sweated.	cause	I turned on the fan.	I did intense exercise.	2
+649	She wrote the English word ten times.	result	I memorized all the English words.	I found the English word in the dictionary.	1
+650	I farted.	cause	I felt nauseous throughout the car ride.	I held my urine throughout the car ride.	1
+651	I started a vegetarian diet.	result	I grilled and ate beef.	I ate grilled tofu.	2
+652	The turtle hid inside its shell.	cause	The turtle ate the fish.	The turtle encountered a predator.	2
+653	The milk was aged.	result	It became yogurt.	The milk has become cold.	1
+654	The food taken out from the refrigerator was stored at room temperature.	result	The food has become cold.	The food has become lukewarm.	2
+655	There was a power outage in the entire town.	result	The village became lively.	The village became dark.	2
+656	The airplane encountered turbulence.	result	The airplane shook.	The airplane sailed smoothly.	1
+657	The key is broken.	result	I couldn't open the lock.	The lock has been opened.	1
+658	The rabbit hurt its leg.	result	The rabbit hopped around.	The rabbit could not move.	2
+659	A woman called an ambulance.	cause	The woman's father has collapsed.	The woman's father woke up from sleep.	1
+660	I spilled the water that was in the bottle.	result	The weight of the bottle has become lighter.	The bottle is filled with water.	1
+661	The man played games all night.	result	The man slept a lot.	The man's eyes were congested.	2
+662	The woman ate her meal quickly.	result	The woman was sick.	The woman was very hungry.	1
+663	There was a traffic accident.	cause	I drove drowsy.	I bought a new car.	2
+664	I sent an email to a woman.	result	A reply came from the woman.	There was news to be told to the woman.	1
+665	I won the survey event.	result	I made a survey.	Received a prize.	2
+666	The woman has gastritis.	result	The woman ate spicy food.	The woman took the prescribed medication.	2
+667	The man drank a lot of water.	cause	The man frequently went to the restroom.	The man ate spicy food.	2
+668	The pen did not write well.	cause	I bought a new pen.	The ink in the pen has run out.	2
+669	A woman opened a Western-style restaurant.	cause	The woman had a qualification as a Japanese cuisine chef.	The woman had a Western cooking certificate.	2
+670	A woman called 119.	cause	A woman spotted a thief.	The woman was in an emergency situation.	2
+671	Someone hit a man's head.	result	The man wore a hat on his head.	The man lost consciousness.	2
+672	The woman could not answer the teacher's question.	cause	The woman knew what the answer to the question was for sure.	The woman did not know the answer to the question.	2
+673	I put tea in my milk.	result	Green tea was created.	Milk tea was created.	2
+674	The woman moved to a different area.	cause	The woman's workplace has changed.	The woman broke up with her neighborhood friends.	1
+675	I got scolded by my mom.	cause	I received a perfect score on the exam.	I fought with my younger sibling.	2
+676	There is a sudden shower that was not forecasted.	result	People walk in the park.	People are running to avoid the rain.	2
+677	There was no balance on the transportation card.	result	I took the bus.	I went into the convenience store to recharge my transportation card.	2
+678	The man's cancer was cured through the doctor's surgery.	result	The man was diagnosed with cancer by a doctor.	The man thanked the doctor.	2
+679	While the dog was taking a walk, it pooped on the ground.	result	The owner picks up the dog's poop and puts it in a waste bag.	The owner gave a snack to the dog.	1
+680	I erased the letters with an eraser.	result	Eraser powder was generated.	I bought an eraser.	1
+681	There was a sound of knocking on the door.	result	The dog was lying in front of the door.	The dog barked towards the door.	2
+682	A man wearing earphones was involved in a car accident.	cause	The man could not hear the sound of music.	The man did not hear the sound of a car horn.	2
+683	There is a callus on the sole of my foot.	cause	I walked for a long time.	I lay down for a long time.	1
+684	I applied a plaster to the strained muscle.	result	My muscles are very sore.	My muscle pain is relieved.	2
+685	I got slapped on the cheek.	cause	I gained weight on my cheeks.	My cheeks turned red.	2
+686	The woman has carpal tunnel syndrome.	cause	The woman used her phone a lot.	The woman wrapped a bandage around her hand.	1
+687	The man placed the meat on the fire.	result	The meat has gone bad.	The meat was cooked to perfection.	2
+688	The man got scared.	cause	The man led his family with shaky legs.	A man crossed the shaky bridge alone.	2
+689	The height of women has increased compared to usual.	cause	The woman wore high heels.	The woman wore flat shoes.	1
+690	I put sweet potatoes in the fire.	result	Sweet potato chips were made.	Sweet potatoes were made.	2
+691	The socks got wet in the rain.	cause	The rain stopped.	It rained heavily.	2
+692	The balloon popped.	cause	Tied the entrance of the balloon.	I popped the balloon with a needle.	2
+693	It is dangerous to swim when the waves are high.	result	People who were swimming came out of the sea.	People who were swimming applied sunscreen.	1
+694	The pine pollen flies in all directions.	cause	It became spring.	It has become winter.	1
+695	The pine pollen flies in all directions.	cause	It became spring.	It became winter.	1
+696	The man took out a short-sleeved t-shirt from the closet.	cause	It has become summer.	It has become winter.	1
+697	The man took out a short-sleeved t-shirt from the closet.	cause	It has become summer.	It became winter.	1
+698	The man has diabetes.	result	Men do not eat sweet food.	Men do not eat spicy food.	1
+699	The woman rode a bicycle for 5 hours.	result	The woman's leg hurts.	The woman has a headache.	1
+700	They hunted tigers randomly.	result	The population of tigers has increased.	Tigers are facing extinction.	2
+701	The dog bit the man's leg.	result	The man gave food to the dog.	Blood came out of the man's leg.	2
+702	I blocked the drain of the bathtub and turned on the water.	result	The water in the bathtub drained out through the drain.	The bathtub is filled with water.	2
+703	I had an upset stomach after eating potatoes.	cause	The man ate a sun-dried potato.	The man ate the potato with sprouts.	2
+704	I took out the ice from the refrigerator.	result	The ice froze.	The ice has melted.	2
+705	The child fell in the hallway.	cause	The hallway floor was wet from the rain and slippery.	The hallway floor was rough.	1
+706	I sprayed water on the burning house with a hose.	result	The fire soared higher and higher into the sky.	The fire gradually decreased.	2
+707	A man visited the internal medicine department.	cause	The man caught a cold.	A man is receiving orthodontic treatment for his teeth.	1
+708	The woman felt muscle pain.	cause	The woman has been smoking for a long time.	The woman has been exercising for a long time.	2
+709	The woman felt cold.	result	I put away the blanket.	I covered the blanket.	2
+710	I wiped my glasses with a cloth.	result	The glasses lens has become dirty.	The glasses lens became clean.	2
+711	The eyeglass frame is bent.	cause	My glasses broke.	I sat down with my glasses on.	2
+712	The river flooded.	cause	There was a flood.	There is a drought.	1
+713	The river flooded.	cause	There was a flood.	There is a drought.	1
+714	The river flooded.	cause	There was a flood.	There is a drought.	1
+715	The river flooded.	cause	There was a flood.	There is a drought.	1
+716	The river flooded.	cause	There was a flood.	There is a drought.	1
+717	The river flooded.	cause	There was a flood.	There is a drought.	1
+718	The river flooded.	cause	There was a flood.	There is a drought.	1
+719	The river flooded.	cause	There was a flood.	There is a drought.	1
+720	It rained heavily.	result	There was a flood.	There is a drought.	1
+721	It rained heavily.	result	There was a flood.	There is a drought.	1
+722	It rained heavily.	result	There was a flood.	There is a drought.	1
+723	It rained heavily.	result	There was a flood.	There is a drought.	1
+724	It rained heavily.	result	There was a flood.	There is a drought.	1
+725	It rained heavily.	result	There was a flood.	There is a drought.	1
+726	It rained heavily.	result	There was a flood.	There is a drought.	1
+727	It rained heavily.	result	There was a flood.	There is a drought.	1
+728	The woman reconciled with her friend.	cause	The woman broke up with her friend.	The woman received an apple from her friend.	2
+729	I installed a mouse trap in the warehouse.	result	The cat caught the mouse.	The mouse was caught in a mousetrap.	2
+730	The fans in the stadium were delighted.	cause	The team I was cheering for lost the game.	The team I support won the game.	2
+731	The child got a perfect score on every test.	cause	The child neglected to study.	The child studied hard.	2
+732	I used a toothpick to pick my teeth.	cause	I brushed my teeth.	There is foreign matter stuck in my teeth.	2
+733	I applied foundation on my face.	result	I have freckles on my skin.	The freckles on the skin have faded.	2
+734	I took a fever reducer.	cause	I have a high fever.	I have cooled down.	1
+735	The water cup on the table spilled onto the floor.	cause	The child drew a picture at the table.	The child pulled the tablecloth.	2
+736	I mixed alcohol into the diffuser.	result	The diffuser evaporates faster.	The diffuser evaporates more slowly.	1
+737	The entertainment program received a warning from the Korea Communications Commission.	cause	The entertainment program included vulgar language.	The storyline of the entertainment program was interesting.	1
+738	The student was selected as a full exemption recipient for tuition fees.	result	The student paid the tuition fee.	The student did not pay the tuition fee.	2
+739	Everyone in the classroom looked at one student.	cause	The students took notes.	A student gave a presentation.	2
+740	The man wore protective leather gloves.	cause	The man removed the thorns from the rose.	The man watered the rose.	1
+741	The package was lost during delivery.	result	I mistakenly wrote the wrong address on the package.	I did not receive the parcel.	2
+742	There is a hole in the car tire.	cause	I replaced the car tires.	A nail is stuck in the car tire.	2
+743	The landlord treated the guest to a dinner.	result	The guest was hungry.	The customer's stomach growled.	2
+744	My body has become warm.	cause	I took off my hat.	I wore a hat.	2
+745	The dart missed the center.	cause	A man threw a dart while losing focus.	A man threw a dart while focusing on the center.	1
+746	The boy spoke to the parrot.	cause	The parrot mimics the boy's words.	The parrot groomed itself.	1
+747	The woman pulled the cart.	cause	Women have a lot of luggage.	Women have almost no luggage.	1
+748	My ankle has swollen.	result	I did ice bath.	I applied lotion to the dry area.	1
+749	The ink on the pen has run out completely.	cause	I studied hard with a pen.	I hardly used a pen.	1
+750	The dough was rolled with a rolling pin.	result	The dough was baked crispy and golden.	The dough flattened.	2
+751	The man suffered a fracture on his arm.	result	The man wrapped a bandage around his arm.	The man hit his arm hard against the wall.	1
+752	The siren went off.	cause	I pressed the emergency bell.	The security guard was dispatched.	1
+753	The siren went off.	cause	I pressed the emergency bell.	The security guard rushed out.	1
+754	The siren went off.	cause	I pressed the emergency bell.	The security guard was dispatched.	1
+755	The siren went off.	cause	I pressed the emergency bell.	The security guard rushed out.	1
+756	The elevator has stopped working.	result	I pressed the emergency bell.	I pressed the button on the first floor.	1
+757	The elevator has stopped working.	result	I pressed the emergency bell.	I pressed the first-floor button.	1
+758	The elevator has stopped working.	result	I pressed the emergency bell.	I pressed the button on the first floor.	1
+759	The elevator has stopped working.	result	I pressed the emergency bell.	I pressed the first-floor button.	1
+760	The man wore rubber gloves.	cause	The man tried to wash his hands.	The man wanted to do the dishes.	2
+761	I caught a cold.	cause	I went to the hospital.	I stayed outside for a long time in the cold weather.	2
+762	There is fog on the glasses.	result	I wiped the eyeglass lenses.	My glasses are broken.	1
+763	The child picked up a green crayon.	cause	The child wants to color the picture of the sun.	The child wants to color the picture of the leaf.	2
+764	I installed blackout curtains.	cause	A lot of sunlight came into the room.	The room was dark.	1
+765	A woman fell down the stairs.	result	The woman's legs have become strong.	The woman's leg is broken.	2
+766	The cat urinated in the sand.	result	The sand is beautiful.	The sand has clumped together tightly.	2
+767	The woman passed the exam.	result	The woman received a comforting text message.	The woman received a congratulatory message.	2
+768	People immigrated to the countryside.	cause	People wanted the infrastructure of the city.	People disliked the pollution and noise of the city.	2
+769	A man stepped on a soap that fell on the floor.	result	The man fell over.	The man washed his body with soap.	1
+770	I received earrings as a gift.	result	I packed the earrings.	I put the earrings in the jewelry box.	2
+771	The pillow filling for women has become flattened.	cause	The woman slept on the same pillow for several years.	The woman purchased a new pillow.	1
+772	I found a friend at the end of the classroom.	result	The girl did not go to school.	The woman waved her hand towards her friend.	2
+773	I cannot access the website.	cause	The internet connection has been disconnected.	I opened an internet homepage.	1
+774	The spectators who were watching the game were saddened.	cause	The player suffered a serious injury.	The athlete set a new world record.	1
+775	Suddenly, there was a downpour.	result	I bought an umbrella.	I bought a lamb.	1
+776	I returned the clothes.	cause	I liked the clothes.	There was a stain on the clothes.	2
+777	There is a hole in the plastic containing the food.	result	The contents have leaked out.	The contents are well preserved.	1
+778	I put sweet potatoes in the oven.	result	The sweet potatoes are well cooked.	The sweet potato has gone bad.	1
+779	The power of the monitor has turned off.	cause	I plugged the cable of the monitor into the socket.	I unplugged the cable from the outlet.	2
+780	The man laughed like crazy.	cause	The man watched a comedy show.	The man watched a horror movie.	1
+781	Wearing magnifying glasses.	result	Things that are far away appear clearer.	Things that are closer appear more distinct.	2
+782	I asked a passing man for the time.	result	A man came out wearing a watch.	The man came out with a watch.	2
+783	The man ate three tubs of ice cream and finished them.	result	The man had an upset stomach.	The man's stomach was injured.	1
+784	I applied moisturizer.	result	My face became moisturized.	My face has become dry.	1
+785	The boy's mother sighed.	cause	The boy finished his homework excellently.	The boy failed the exam.	2
+786	I did the dishes.	cause	I cooked and ate at home.	I came home after eating out.	1
+787	The man had been sitting in a chair for a long time.	result	The man's arm hurts.	The man's waist hurt.	2
+788	The printout was not printed clearly.	cause	The ink of the printer has been refilled.	The ink in the printer has run out.	2
+789	The well water is hot.	cause	I stood under the sun for a long time.	I stood under the shade for a long time.	1
+790	A child is born.	result	I reported the birth of the child.	I reported the child's death.	1
+791	The woman failed the road driving test.	result	The woman received her driver's license.	The woman was unable to obtain a driver's license.	2
+792	My colleague admitted his mistake.	cause	The boss pointed out the colleague.	The boss complimented their colleague.	1
+793	The woman underwent a laboratory procedure.	cause	The woman wanted to give birth to a child.	The woman did not want to give birth to a child.	1
+794	The curtain was torn.	result	The woman took out a sewing machine from the basement.	The woman took out the stove from the basement.	1
+795	I had a severe allergic reaction.	result	They were transported to the emergency room.	I fell asleep.	1
+796	The man became a police officer.	cause	The man passed the national exam.	The man passed the police exam.	2
+797	The crotch of the pants is torn.	cause	I tore my leg.	I tore the paper.	1
+798	I had severe menstrual cramps.	result	I took a diarrhea medicine.	I took a painkiller.	2
+799	It started raining while driving.	result	I turned on the car lights.	I turned on the car wipers.	2
+800	The rice has ripened and turned golden.	result	The farmer harvests rice.	The farmer is mowing the grass.	1
+801	I chewed the gum for a long time.	result	My eyes felt stiff.	I had a stiff jaw joint.	2
+802	The man teaches literature to students.	cause	The man is a Korean language teacher.	The man is a science teacher.	1
+803	I pressed the music playback button on the speaker.	result	I went into the recording studio.	Music flowed out of the speaker.	2
+804	I wiped the floor with a kitchen towel.	cause	I spilled juice on the floor.	The floor was dry.	1
+805	The woman received a dermatological treatment.	cause	The woman had muscle pain in her legs.	The woman wanted to erase the mark on her cheek.	2
+806	I turned on the power of the razor and touched it to my beard.	result	Armpit hair has been trimmed.	The beard was shaved.	2
+807	The wound has festered.	cause	I applied the disinfectant well on the wound.	I did not disinfect the wound.	2
+808	I bit my lips severely.	result	My lips became moist.	Blood came out of my lips.	2
+809	I worked out hard.	result	My visceral fat has increased.	My muscles are tired.	2
+810	Tears came out from the eyes.	result	Something got into my eye.	I closed my eyes.	2
+811	I shot a laser at the mirror.	result	Laser is reflected.	The color of the laser changes.	1
+812	The woman stares at the camera.	cause	The camera is in the process of photographing a woman.	The woman checked the camera memory card.	1
+813	His face got sunburned.	cause	I was hospitalized all summer.	I surfed all summer long.	2
+814	Put the food in a sealed container.	cause	There was a lack of food.	There is leftover food.	2
+815	The potato got smashed.	cause	I put the whole potato in the oven.	I pressed the potato with a fork.	2
+816	The woman couldn't untie the knot.	result	The woman tied a knot with a new string.	The woman cut the knot with scissors.	2
+817	The baby got angry.	cause	Mom put the baby to sleep.	Mom styled the baby's hair strangely.	2
+818	The power of the mobile phone has been turned off.	cause	My phone battery is completely dead.	The phone has been fully charged.	1
+819	The woman could not take the subway.	cause	I didn't have enough transportation expenses.	The woman recharged her transportation card.	1
+820	The water overflowed from the cup.	cause	I kept pouring water into the cup.	I drank the water in the cup.	1
+821	"The teacher said ""Shh!"" while looking at the children."	result	The children became quiet.	The children ran away.	1
+822	A fragrant smell came from the room.	cause	I bought a scented candle.	I lit a scented candle.	2
+823	The boss urged the subordinate.	cause	The project deadline is tight.	There is still a lot of time left until the project deadline.	1
+824	A man stuck a chopstick in the electrical outlet.	result	The man was electrocuted.	The man's stamina has been recharged.	1
+825	There were many flies flying around.	cause	There are fruit peels around.	There is mosquito repellent nearby.	1
+826	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+827	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+828	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+829	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+830	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+831	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+832	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+833	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+834	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+835	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+836	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+837	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+838	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+839	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+840	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+841	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+842	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+843	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+844	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+845	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+846	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+847	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+848	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+849	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+850	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+851	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+852	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+853	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+854	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+855	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+856	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+857	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+858	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+859	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+860	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+861	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+862	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+863	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+864	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+865	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+866	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+867	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+868	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+869	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+870	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+871	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+872	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+873	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+874	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+875	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+876	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+877	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+878	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+879	I have an upset stomach.	cause	I ate porridge to death.	I ate too much cold food.	2
+880	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+881	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+882	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+883	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+884	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+885	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+886	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+887	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+888	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+889	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+890	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+891	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+892	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+893	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+894	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+895	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+896	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+897	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+898	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+899	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+900	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+901	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+902	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+903	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+904	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+905	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+906	I feel nauseous.	cause	I ate porridge to death.	I ate too much cold food.	2
+907	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+908	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+909	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+910	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+911	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+912	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+913	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+914	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+915	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+916	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+917	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+918	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+919	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+920	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+921	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+922	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+923	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+924	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+925	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+926	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+927	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+928	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+929	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+930	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+931	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+932	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+933	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+934	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+935	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+936	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+937	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+938	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+939	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+940	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+941	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+942	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+943	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+944	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+945	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+946	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+947	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+948	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+949	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+950	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+951	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+952	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+953	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+954	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+955	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+956	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+957	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+958	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+959	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+960	I have an upset stomach.	cause	I ate spoiled food.	I ate fresh food.	1
+961	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+962	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+963	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+964	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+965	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+966	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+967	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+968	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+969	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+970	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+971	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+972	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+973	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+974	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+975	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+976	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+977	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+978	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+979	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+980	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+981	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+982	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+983	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+984	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+985	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+986	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+987	I feel nauseous.	cause	I ate spoiled food.	I ate fresh food.	1
+988	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+989	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+990	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+991	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+992	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+993	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+994	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+995	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+996	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+997	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+998	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+999	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1000	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1001	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1002	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1003	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1004	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1005	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1006	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1007	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1008	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1009	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1010	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1011	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1012	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1013	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1014	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1015	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1016	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1017	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1018	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1019	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1020	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1021	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1022	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1023	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1024	I have an upset stomach.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1025	I have an upset stomach.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1026	I have an upset stomach.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1027	I have an upset stomach.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1028	I have an upset stomach.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1029	I have an upset stomach.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1030	I have an upset stomach.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1031	I have an upset stomach.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1032	I have an upset stomach.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1033	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1034	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1035	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1036	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1037	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1038	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1039	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1040	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1041	I have an upset stomach.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1042	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1043	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1044	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1045	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1046	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1047	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1048	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1049	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1050	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1051	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1052	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1053	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1054	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1055	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1056	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1057	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1058	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1059	I feel nauseous.	cause	I drank milk that has a long expiration date.	I drank expired milk.	2
+1060	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1061	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1062	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1063	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1064	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1065	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1066	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1067	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1068	I feel nauseous.	cause	I drank milk that had a long expiration date.	I drank expired milk.	2
+1069	The pagoda is broken.	cause	He brought down the pagoda with an axe.	I sprinkled water on the wooden pagoda.	1
+1070	I took a sleeping pill.	result	I am pouring sleep.	I have insomnia.	1
+1071	The paint got on the clothes.	result	I dried the clothes.	I washed the clothes.	2
+1072	The man made a lot of money through stocks.	result	The man bought a house.	The man filed for bankruptcy.	1
+1073	I memorized English words every day.	result	My English skills have improved.	I couldn't read the sentence written in English.	1
+1074	There was a heavy snowfall in the village.	result	The villagers hid in the air raid shelter.	A school in the village has received a school closure order.	2
+1075	I parked my car in the outdoor parking lot during the summer.	result	The temperature inside the car has become high.	The temperature inside the car has dropped.	1
+1076	The man did not clean his ears for three years.	result	The man's ears were filled with earwax.	The man's nose was full of boogers.	1
+1077	The sales of air conditioners have significantly increased.	cause	The weather is very hot.	The weather has continued to be colder than usual.	1
+1078	The door did not close properly.	cause	Fixed the door latch.	The door latch is broken.	2
+1079	The man has the tallest height in the team.	result	The man was selected as the team's lead.	The man made a flag.	1
+1080	There are many hair strands falling on the floor of the hair salon.	cause	Someone dyed their hair.	Someone cut their hair.	2
+1081	I used an eraser to erase the letters.	cause	I wrote with a pencil.	I wrote with a ballpoint pen.	1
+1082	The son read the novel out loud for his father.	cause	My father has a visual impairment.	My father has a hearing impairment.	1
+1083	My eyes were dry.	result	I put artificial tears.	I wore contact lenses.	1
+1084	That family is holding a memorial service for their ancestors.	cause	My great-grandfather has a chronic illness.	Today is the day my great-grandfather passed away.	2
+1085	The tea in the cup is hot.	result	The ice in the cup did not melt well.	Men blow on their tea and drink it.	2
+1086	The traffic light turned red.	result	The cars stopped.	The cars started running.	1
+1087	I am hungry.	result	There was a gurgling sound coming from the boat.	I gained weight on the boat.	1
+1088	The man left work early.	cause	The man found it difficult to carry out his work due to a headache.	The man took charge of an important project at the company.	1
+1089	Heejin's finger is broken.	result	I wore a cast on my finger.	I attached a bayonet to my finger.	1
+1090	I exchanged the ring.	cause	The ring size did not fit.	They matched rings with their lover.	1
+1091	The room became covered in dust.	cause	It has not been cleaned for a long time.	I did the cleaning.	1
+1092	I took a picture in a dark place without turning on the flash.	result	The photo came out clearly.	The photo did not turn out well.	2
+1093	The man was sentenced to death.	cause	The man committed a serious crime.	The man is an executioner.	1
+1094	There was a pleasant scent coming from the hair.	cause	I cut my hair.	I wrapped my hair with shampoo.	2
+1095	The director clapped the slate.	result	The shooting has begun.	The actor has left the work.	1
+1096	The boy caused mischief.	cause	The boy wanted to leave early.	The boy wanted to study more.	1
+1097	Some soap got into my eyes.	result	"It's cold (literally: ""The eyes sting"")."	My vision has improved.	1
+1098	My hair got caught in the hair dryer motor.	cause	The hair became straightened.	I held the hairdryer too close to my hair.	2
+1099	I swiped the credit card on the device.	result	The amount has been exempted.	The payment has been made.	2
+1100	The man wanted to borrow a book.	result	I went to the library.	I went to the bookstore.	1
+1101	I avoided answering the question.	cause	It was inconvenient to answer the question.	I wanted to answer the question honestly.	1
+1102	I received a bouquet of flowers.	cause	I watered the flowers.	We had a school entrance ceremony.	2
+1103	I set fire to the firewood.	result	The firewood was burned and turned into ashes.	To set fire to firewood.	1
+1104	I left the snack bag open.	result	The snack has become moist.	The snack is crushed.	1
+1105	There is sand on my hand.	result	I combed my hair.	I wore gloves on my hands.	1
+1106	I watched a baseball game at the baseball stadium.	cause	I booked baseball tickets.	The baseball stadium has closed its doors.	1
+1107	"I told the dog, ""Let's go for a walk."""	result	The dog is excited.	The dog bit its owner.	1
+1108	The price of gold rings has increased.	cause	The price of gold has risen.	The price of gold has dropped.	1
+1109	I flew high in the sky.	cause	The wind was blowing moderately.	There was no wind at all.	1
+1110	The writer finished writing the novel.	result	The writer came up with the story.	The book has been published.	2
+1111	I accidentally sneezed while my child was sleeping.	result	The blanket got wet.	The blanket was dried well.	1
+1112	I gained weight.	cause	I overate.	I ate less rice.	1
+1113	The car suddenly stopped on the road.	cause	The car ran fast.	The car was running low on fuel.	2
+1114	I stepped on a puddle of water.	result	My shoelace is untied.	The shoes got dirty.	2
+1115	My mouth feels numb.	cause	I ate spicy food.	I ate a meal.	1
+1116	The man did not eat for three days.	result	The man was hungry.	The man's stomach growled.	1
+1117	The employees formed a labor union.	cause	The employer raised wages.	Employees want to work under better conditions.	2
+1118	People are engaging in women's rights movements.	cause	Women's rights are fully protected.	The women's rights are being violated in the current situation.	2
+1119	A woman went to work at the fire station.	cause	The woman is a teacher.	The woman is a firefighter.	2
+1120	The gelatin sheet was soaked in water.	result	The gelatin became soft and squishy.	The gelatin has hardened.	1
+1121	The CEO signed the transaction documents.	result	The transaction has been canceled.	The transaction took place.	2
+1122	During the day, the sea is high pressure.	cause	The sea warms up more slowly than land.	The sea heats up faster than land.	1
+1123	The season has changed from summer to autumn.	result	The leaves have fallen.	New shoots sprouted on the branch.	1
+1124	I dropped the plate from a high place.	result	The plate became clean.	The plate was shattered into pieces.	2
+1125	I tightened my belt tightly.	cause	The pants were too small.	The pants were too big.	2
+1126	I pulled the rubber band tightly.	result	The rubber band has decreased.	The rubber band has stretched.	2
+1127	I gained a lot of weight compared to last year.	result	The clothes I was wearing have become smaller.	The clothes I was wearing became bigger.	1
+1128	The cabbage was salted.	result	The cabbage has become even more crispy.	The cabbage's breath has died.	2
+1129	The length of the school uniform skirt has been shortened.	result	The skirt became loose.	The skirt has become shorter.	2
+1130	I cleaned the bathroom.	result	The tile mold disappeared.	I installed a bidet.	1
+1131	I washed the clothes.	cause	I didn't like the color of the curtain.	The clothes got dirty.	2
+1132	The professor spoke slowly.	result	The students fell asleep during class.	The students sang songs during class.	1
+1133	The woman acquired U.S. citizenship.	cause	The woman was born in Korea.	The woman was born in the United States.	2
+1134	The wound stung.	cause	The wound was treated in time.	I left the wound as it is.	2
+1135	The woman ate a deadly poisonous mushroom.	result	A woman died.	The woman made mushroom dishes.	1
+1136	I stepped on the bicycle pedal.	result	The bicycle stopped right there.	The bicycle moved.	2
+1137	I remembered that I had left important belongings at home.	result	I locked the door of the house.	I went back home again.	2
+1138	I have a runny nose and a cough.	cause	I caught a cold.	I feel nauseous.	1
+1139	A wasp flew towards the boy.	result	The boy was stung by a wasp.	The boy released the wasp.	1
+1140	The company experienced financial difficulties.	result	Many employees were fired.	Many employees were hired additionally.	1
+1141	The child secretly stole money from his mother's wallet.	result	Mom scolded the child.	Mom praised the child.	1
+1142	I wiped the mirror with a towel.	result	The mirror is not visible well.	My face is reflected clearly in the mirror.	2
+1143	I went to the bookstore.	cause	I had to buy a new workbook.	I had to return the borrowed book.	1
+1144	This caused the chili powder to spread.	cause	I ate kimchi stew with red pepper flakes.	I bought red pepper flakes at the mill.	1
+1145	I couldn't take a vacation.	result	I made a travel appointment.	I canceled the travel appointment.	2
+1146	A forest fire broke out.	cause	The wind blew strongly.	The arsonist was arrested.	1
+1147	The suit pants fell down.	result	Wearing a belt.	I wore a necktie.	1
+1148	The girl gave carnations to her parents.	cause	Today was Christmas.	Today was Parents' Day.	2
+1149	A mouse came into the house.	result	I installed a mousetrap.	The mousetrap has been dismantled.	1
+1150	The cactus has withered.	result	The cactus was given enough sunlight.	I gave a lot of water to the cactus.	2
+1151	I got a fox fur.	cause	I hunted a fox.	I went to the zoo to see a fox.	1
+1152	I turned the light switch on and off.	result	The light bulb went out.	The light bulb flickered.	2
+1153	The bug that entered the house died.	cause	I sprayed insecticide towards the bugs.	I sprayed perfume towards the bugs.	1
+1154	I reported it to the police.	cause	I got pickpocketed.	The police asked about the situation.	1
+1155	I flicked the ashes off the cigarette.	result	The mirror is broken.	We ran out of tobacco.	2
+1156	I sprayed mist on my face.	cause	My face was dry.	The face was moisturized.	1
+1157	The dumplings were thawed.	cause	I put the dumplings in the freezer for a long time.	The dumplings were cooked for a long time.	1
+1158	I put the dishes on the kitchen sink.	cause	I did not have dinner.	I ate all the food on the plate.	2
+1159	The soccer player was expelled.	cause	The soccer player has grown.	The soccer player committed a foul.	2
+1160	There is a sour smell coming from the rice.	cause	I threw away the rice.	The rice is spoiled.	2
+1161	I dropped ice into hot water.	result	The ice froze in an instant.	The ice melted in an instant.	2
+1162	I felt pain in my wrist.	result	I wore a bracelet.	I wore a wrist guard.	2
+1163	I gained weight.	cause	I applied sunscreen.	I applied tanning cream.	2
+1164	A man collapsed due to a cerebral hemorrhage.	result	The ambulance has arrived.	The police car has arrived.	1
+1165	I put chains on the car tires.	cause	There was a lot of snow.	The wind blew fiercely.	1
+1166	The girl ate seaweed soup this morning.	cause	Today is the girl's birthday.	Today is the day when the girl takes an exam.	1
+1167	The bag strap has come off.	cause	I wore a new bag for the first time.	I carried multiple heavy textbooks in my bag.	2
+1168	There is dirt stuck to the sink.	result	I wiped the sink with a cleaning solution.	I applied silicone to the sink.	1
+1169	The yard has been cleaned up.	cause	I pulled out the weeds in the yard.	I watered the weeds in the yard.	1
+1170	I soaked the rice paper in warm water.	result	The rice paper has become stiff.	The rice paper has become mushy.	2
+1171	The makeup on her face melted away.	cause	I applied cleansing oil on my face.	I applied foundation to my face.	1
+1172	The company's profits have decreased.	result	The company has started promoting the new product.	The promotion for the new product was successful.	1
+1173	There were no washed socks left.	result	I couldn't put on socks and went out.	I have organized all the socks.	1
+1174	The wood was burned for a long time.	result	The tree was damp.	The tree has turned into charcoal.	2
+1175	The cursor on the computer screen moved.	cause	The user clicked the mouse.	The user moved the mouse.	2
+1176	During the day, the air on land expands.	cause	During the day, the air on land heats up quickly.	During the day, the air of the sea heats up quickly.	1
+1177	I drank water from the spring.	cause	I felt dizzy.	I am thirsty.	2
+1178	The child boarded the tube.	result	The child sank into the water.	The child did not fall into the water.	2
+1179	The chili peppers were prepared.	result	The coke was refreshing.	The nose was runny.	2
+1180	There is a rat on the bridge.	result	I broke my leg.	Covered the legs.	1
+1181	The bug died.	cause	I threw a book over the bug.	I released the bug outside.	1
+1182	The letters are not clearly visible.	result	I used a pedometer.	I used a magnifying glass.	2
+1183	They left the currency area.	result	The phone is not working.	I had a conversation with my friend.	1
+1184	The number of fishermen farming abalone has increased.	cause	The demand for abalone has increased.	The demand for abalone has decreased.	1
+1185	I spilled coffee on my linen shirt.	result	The linen shirt was dry.	The linen shirt got stained.	2
+1186	There is a big hole in the ship.	result	The ship sank.	The ship continued its journey.	1
+1187	The dog shed its fur.	cause	The dog got wet in the water.	The dog dried its whole body.	1
+1188	The man did hand washing for a long time.	result	The man's fingers became swollen.	The man's finger is broken.	1
+1189	I put butter in a heated frying pan.	result	The butter has hardened.	The butter melted.	2
+1190	A man filed an appeal to the Supreme Court.	cause	The man won the case in the High Court.	The man was convicted in the High Court.	2
+1191	A scar appeared on the woman's body.	cause	The woman underwent surgery.	The woman underwent surgery.	2
+1192	I put something heavier than the recommended weight on the shelf.	result	The support stand is broken.	I assembled the stand.	1
+1193	The water pipe froze.	cause	Recently, the temperature has been below 0 degrees.	The recent temperature was above 10 degrees.	1
+1194	The child blew wind into the windmill.	result	The windmill stopped rotating.	The wings of the windmill rotated.	2
+1195	A woman fell victim to voice phishing.	result	I lost a lot of money.	I got a lot of money.	1
+1196	The wet interior of the air conditioner was not cleaned.	result	There is mold inside the air conditioner.	The performance of the air conditioner has improved.	1
+1197	The man forgot to take out the bread from the oven.	result	The bread is not fully cooked.	The bread was burnt black.	2
+1198	I added water to the sandcastle.	result	The sandcastle became sturdy.	The sandcastle has collapsed.	2
+1199	The room was filled with the smell of flowers.	cause	I picked flower petals, put them in a mortar, and crushed them.	The flower petals were placed in a container and sealed.	1
+1200	The woman's arm has chicken skin.	cause	The woman felt the heat.	The woman felt cold.	2
+1201	Water has formed on the surface of the cup.	cause	I poured cold water into a cup.	I poured lukewarm water into a cup.	1
+1202	The depth of the sea has become shallow.	cause	It was time to cut the water.	It was high tide.	1
+1203	The woman had nocturnal enuresis.	result	The woman did not go outside during the day.	The woman did not go outside at night.	2
+1204	The man didn't want to swim.	cause	The man was afraid of water.	The man was afraid of fire.	1
+1205	The ribbon was loosely tied.	result	The ribbon was quickly untied.	The ribbon shape has been maintained for a long time.	1
+1206	I put wet firewood on the fire.	result	The fire has grown even bigger.	The candle flame has extinguished.	2
+1207	I left the food on the gas stove for a long time.	result	The pot burned and turned black.	The food in the pot has cooled down.	1
+1208	The parents gave the child a fever reducer.	cause	The child's body temperature dropped.	The child's body became hot.	2
+1209	The man didn't know how to swim.	result	The man refused to acquire it.	The man dived into the water.	1
+1210	The man watered the lawn.	cause	The rainy season has begun.	There was no rain at all due to the drought.	2
+1211	The man had LASIK surgery.	cause	The man had poor eyesight.	The man had good eyesight.	1
+1212	There was a draft in the room.	result	The temperature in the room has dropped.	The temperature inside the room did not change.	1
+1213	It's my friend's birthday.	result	My friend bought a gift for his younger sibling.	I bought a gift to give to my friend.	2
+1214	The woman won the competition.	cause	The woman did not finish her performance at the concours.	The woman played a perfect performance at the concours.	2
+1215	The woman was very hungry.	result	The woman ate a lot of rice.	The woman did not eat rice.	1
+1216	The plant underwent photosynthesis.	cause	The sunlight came in well.	The sky was filled with thick clouds.	1
+1217	I sprayed bleach on black clothes.	result	Black color was removed.	It got darker.	1
+1218	I turned on the bathroom ventilation fan.	cause	The restroom was dry.	The bathroom was damp.	2
+1219	The man has started to quit smoking.	cause	Men are addicted to smoking.	The man quit smoking.	1
+1220	I put freshly caught clams on the stove.	result	Most of the clam shells are broken.	Most of the clam shells were open.	2
+1221	The button on the man's pants has come off.	result	The man's pants are worn out.	The man couldn't zip up his pants.	2
+1222	I googled it.	result	The smell of breath has been removed.	I was worried because there was a bad breath odor.	1
+1223	The water ran out of the laundry.	result	I put the fabric in the spin-dryer.	I ironed the fabric.	1
+1224	I put the bottle filled with water in the freezer.	result	The bottle broke as the water froze.	The bottle became empty as the water evaporated.	1
+1225	A man purchased a quit smoking kit.	cause	The man wanted to quit smoking.	The man lost his e-cigarette.	1
+1226	The woman's knee got bruised.	cause	The woman crushed her knee on the chair.	The woman sat on a cushion with her legs crossed.	1
+1227	I spilled strawberry on my clothes while eating.	result	The clothes turned blue.	The clothes turned red.	2
+1228	The rice has been polished.	result	We harvested the rice.	The husk of the rice has been peeled off.	2
+1229	I listened to the sound of the geomungo (a traditional Korean string instrument).	cause	I went to see a traditional Korean music performance.	I went to see a classical performance.	1
+1230	I skated on the ice.	result	The surface of the ice is rough.	The surface of the ice became smooth.	1
+1231	I roasted a hotteok in a steamer.	result	I washed the steamer.	I connected the steamer to the outlet.	1
+1232	I pinned a hairpin in my hair.	cause	My hair fell down.	My head was firmly fixed.	1
+1233	The frog's house sank.	result	The refrigerator turned off and the contents froze.	The refrigerator turned off and the contents went bad.	2
+1234	The man grabbed the heated pot with his bare hands.	result	A man put on a statue.	The man got burned.	2
+1235	The man headed towards the smoking room with a cigarette in his hand.	cause	The man is a smoker.	The man is quitting smoking.	1
+1236	I boiled the eggs.	result	The egg white has become opaque.	The eggshell has become hard.	1
+1237	The man washed his face meticulously every day.	result	The man's skin got burned.	The man's skin became clean.	2
+1238	Water leaked from the ceiling.	cause	The roof repair work has been completed.	There is a hole in the roof.	2
+1239	The man uses crutches.	cause	The man had leg surgery.	The man received arm surgery.	1
+1240	The woman was surprised when she grabbed the hot dish with her bare hands.	cause	The woman's hand turned red.	The woman did not know that the bowl was hot.	2
+1241	The employee brought a chair for infants.	cause	A customer with a child entered the store.	The child left the store.	1
+1242	He has presbyopia.	cause	The man was old.	The man was young in age.	1
+1243	The man had a long and bushy beard.	cause	The man shaved every day.	The man had not shaved for a long time.	2
+1244	The domino has fallen.	cause	I touched the domino set up by the child.	The child built a domino.	1
+1245	The woman put the laundry in the dryer.	cause	I walked the laundry from the clothesline.	The laundry of the red cloth has been completed.	2
+1246	A woman's story was introduced on the radio.	cause	A woman read someone else's story at the radio broadcasting station.	A woman sent her story to a radio station.	2
+1247	The sleeve of the clothes is twisted.	result	I wore the clothes for a long time.	I sewed the clothes.	2
+1248	The sleeve of the clothes is twisted.	result	I wore the clothes for a long time.	I sewed the clothes.	2
+1249	The sleeve of the clothes is twisted.	result	I wore the clothes for a long time.	I sewed the clothes.	2
+1250	The sleeve of the clothes is twisted.	result	I wore the clothes for a long time.	I sewed the clothes.	2
+1251	All the wrinkles on the clothes have been smoothed out.	cause	I wore the clothes for a long time.	I dressed up.	2
+1252	All the wrinkles on the clothes have been smoothed out.	cause	I wore the clothes for a long time.	I dressed up.	2
+1253	All the wrinkles on the clothes have been smoothed out.	cause	I wore the clothes for a long time.	I dressed up.	2
+1254	All the wrinkles on the clothes have been smoothed out.	cause	I wore the clothes for a long time.	I dressed up.	2
+1255	The persimmons were dried.	result	It became dried persimmon.	I became a persimmon.	1
+1256	The man had to go out in a hurry with his hair messy.	result	The man wore glasses.	The man wore a hat.	2
+1257	The man paid the phone bill.	cause	The man canceled his telecommunications service.	A man used a communication service.	2
+1258	The woman passed the national medical exam.	result	A woman has been issued a medical license.	The woman entered medical school.	1
+1259	It snowed.	result	The child rode on a sleigh.	The snowman melted.	1
+1260	The woman started receiving waist chiropractic treatment.	cause	The woman's waist has been healed.	The woman felt pain in her waist.	2
+1261	I applied an acne patch.	cause	The pimple sticker fell off.	I squeezed the acne on my face.	2
+1262	The bottle floated on the water.	cause	A bottle full of stones was thrown into the water.	I threw the empty bottle into the water.	2
+1263	The kimchi is fully ripe.	cause	I put the kimchi in the refrigerator.	I left the kimchi at room temperature.	2
+1264	The woman stabbed the potato with chopsticks.	cause	The woman wanted to remove the moisture from the potatoes.	The woman wanted to check if the potatoes had ripened.	2
+1265	The credit card usage exceeded the limit.	result	I used the card a lot.	The card payment did not go through.	2
+1266	The teacher gave the starting signal.	result	All the students started running.	All the students stopped.	1
+1267	When I opened the beer can, the beer foamed up.	cause	I shook the beer can vigorously.	I put the beer can in the refrigerator for a long time.	1
+1268	A heavy rain warning has been issued.	cause	It snowed a lot.	There has been a lot of rain.	2
+1269	The child smiled brightly.	cause	The child received a punishment.	The child received a present.	2
+1270	I put the milk bottle in boiling water.	result	The milk bottle has been contaminated.	The milk bottle has been sterilized.	2
+1271	The woman landed safely.	cause	A woman deployed a parachute.	The woman jumped without safety equipment.	1
+1272	Leaves have piled up on the floor.	result	The environmental cleaner cleaned the floor.	The floor became shiny.	1
+1273	The apartment where the man is living experienced a power outage.	result	The man took the elevator and went home.	The man went home through the stairs.	2
+1274	The woman felt suffocated.	cause	The woman loosely tied her necktie.	The woman wore the tie tightly around her neck.	2
+1275	The man wears a beret.	result	The man's sock is fixed.	The man's pants are fixed.	2
+1276	The man left the gas burner on.	result	The man conducted a fire evacuation drill.	There was a fire at the man's house.	2
+1277	My hair was damaged and kept breaking.	cause	Repeated dyeing and bleaching.	I frequently applied essence to my hair.	1
+1278	The sea was rough with strong waves.	cause	The sunlight was shining strongly on the sea.	The sea breeze blew strongly.	2
+1279	The man's complexion has become pale.	cause	The man has been experiencing a lot of happiness recently.	The man has recently had a lot of difficult tasks.	2
+1280	The building is leaning.	result	The people who lived in the building came out of the building.	The people who lived in the building went inside the building.	1
+1281	The woman quickly took a taxi.	cause	The woman came out earlier than the promised time.	The woman came out later than the appointed time.	2
+1282	The YouTube video stopped.	cause	The WiFi connection status was good.	The WiFi connection was not good.	2
+1283	The woman has been promoted.	cause	The project led by a woman achieved great success.	The project led by a woman has been canceled.	1
+1284	The woman went to the post office.	result	The woman received a letter from her friend.	The woman sent a letter to her friend.	2
+1285	The child increased the prescription of their eyeglass lenses.	cause	The result of the vision test showed that the vision has worsened.	The result of the vision test showed that the vision has been maintained.	1
+1286	The fire did not catch on the firewood.	cause	I sprinkled water on the firewood and lit the fire.	I sprinkled oil on the firewood and lit it.	1
+1287	The woman's car tire burst while driving.	result	The woman's car swerved.	The woman did not receive a timely tire inspection.	1
+1288	The man who fell into the water did not know how to swim.	result	The man drowned.	The man died of suffocation.	1
+1289	The ice cream was frozen solid.	cause	The ice cream was stored in the freezer.	The ice cream was stored in the refrigerator.	1
+1290	The child did not brush his teeth well.	result	My child has a cavity.	The child lost his/her baby teeth.	1
+1291	The letters written on the sand were erased.	cause	The seawater came rushing in.	The sun set over the sea.	1
+1292	The man pricked his hand on a rose thorn.	result	Blood is coming out of the man's hand.	The man's hand has a bruise.	1
+1293	The man was diagnosed with anemia at the hospital.	result	The man took insulin.	The man took iron supplements.	2
+1294	The valley water has risen a lot.	cause	It rained continuously for a few days.	The drought continued for several days.	1
+1295	The player applied chalk powder to his hands.	result	I have a lot of sweat in my hands.	The hand did not slip.	2
+1296	The car quickly passed over a puddle of water.	result	The water in the puddle splashed heavily.	All the water in the puddle has evaporated.	1
+1297	The man shouted into the sleeping woman's ear.	result	The woman woke up from sleep.	The woman fell asleep.	1
+1298	The man shouted into the sleeping woman's ear.	result	The woman woke up from sleep.	The woman fell asleep.	1
+1299	The man shouted into the sleeping woman's ear.	result	The woman woke up from sleep.	The woman fell asleep.	1
+1300	The man shouted into the sleeping woman's ear.	result	The woman woke up from sleep.	The woman fell asleep.	1
+1301	The man shouted into the sleeping woman's ear.	result	The woman woke up from sleep.	The woman fell asleep.	1
+1302	The man shouted into the sleeping woman's ear.	result	The woman woke up from sleep.	The woman fell asleep.	1
+1303	The man shouted into the sleeping woman's ear.	result	The woman woke up from sleep.	The woman fell asleep.	1
+1304	The man shouted into the sleeping woman's ear.	result	The woman woke up from sleep.	The woman fell asleep.	1
+1305	The woman wore a blindfold.	result	The woman woke up from sleep.	The woman fell asleep.	2
+1306	The woman wore a blindfold.	result	The woman woke up from sleep.	The woman fell asleep.	2
+1307	The woman wore a blindfold.	result	The woman woke up from sleep.	The woman fell asleep.	2
+1308	The woman wore a blindfold.	result	The woman woke up from sleep.	The woman fell asleep.	2
+1309	The woman wore a blindfold.	result	The woman woke up from sleep.	The woman fell asleep.	2
+1310	The woman wore a blindfold.	result	The woman woke up from sleep.	The woman fell asleep.	2
+1311	The woman wore a blindfold.	result	The woman woke up from sleep.	The woman fell asleep.	2
+1312	The woman wore a blindfold.	result	The woman woke up from sleep.	The woman fell asleep.	2
+1313	The man punched the window with his fist.	result	The window is closed.	The window is broken.	2
+1314	The woman suddenly fell asleep.	cause	The woman is suffering from hysteria.	The woman suffers from narcolepsy.	2
+1315	Sweet potatoes were cut and dried.	result	The sweet potato has gone bad.	The sweet potato has become hard.	2
+1316	The fingerprint was not recognized on the electronic device.	cause	The man was wearing gloves.	The man was barehanded.	1
+1317	I swatted the fly with an electric fly swatter.	result	Paris laid an egg.	Paris is paralyzed.	2
+1318	The man's clothes were soaked with sweat.	result	The man put his clothes in the washing machine.	The man ironed the clothes he had washed.	1
+1319	The glasses that the man is wearing are broken.	cause	A man hit his face on a utility pole.	The man hit his leg on the utility pole.	1
+1320	The strap of the bag has fallen off.	result	I took the bag to the repair shop.	I washed the bag.	1
+1321	I have a coffee.	cause	I often picked my nose with my fingers.	I removed the blackheads on my nose.	1
+1322	The firepower of firewood has increased.	cause	I fanned the fire with firewood.	I sprinkled water on the firewood.	1
+1323	The student did not get a single question wrong on the test.	result	The student studied very hard.	The student ranked first in the whole school.	2
+1324	The child does not know how to ride a two-wheeled bicycle.	result	I pumped air into the bicycle tire.	I attached training wheels on the bicycle.	2
+1325	The battery of the watch is dead.	result	The time on the clock was perfectly synchronized.	The time on the clock was not correct.	2
+1326	The man shaved.	cause	The man's hair has grown a lot.	The man has grown a lot of beard.	2
+1327	The student forgot the memorized content.	result	The student did well on the exam.	The student did not perform well on the exam.	2
+1328	The man urinated in the toilet.	result	The man flushed the toilet.	The man cleaned the toilet.	1
+1329	A lot of advertising calls came to the woman.	cause	A woman's phone number has been leaked.	I blocked the number that the woman did not know.	1
+1330	The woman chose a wedding dress.	cause	The woman is preparing for a funeral.	The woman is getting ready for her wedding.	2
+1331	I put red pepper powder in the soup.	result	The soup has become bland.	The country turned red.	2
+1332	I vomited because I couldn't digest it.	cause	I ate too much for lunch.	I had lunch and did the dishes.	1
+1333	I brought the cotton soaked in remover close to my eyes.	result	The eye makeup has been removed.	I did eye makeup.	1
+1334	The woman dried her hair instead of using hair rollers.	result	The woman's hair was curly.	The woman's hair was calm.	1
+1335	The road has split.	result	The road was repaved.	I sprinkled water on the road.	1
+1336	The man did not want to get injured.	cause	The man thoroughly prepared for the exercise.	The man did not wear a protective gear.	1
+1337	The woman looked up the dictionary.	cause	There are words that women don't know.	The woman knew the meaning of the word.	1
+1338	The man got up, sweating.	cause	The man had a nightmare.	The man had a good dream.	1
+1339	The man could not afford to pay the university tuition fees.	result	The man received excellent grades in college.	The man couldn't attend college classes.	2
+1340	The singer's concert sold out in just one second.	cause	The singer is very popular.	The singer is not popular.	1
+1341	The company decided to release a new product.	result	We conducted a market survey.	They promoted the new product.	1
+1342	The woman is allergic to peaches.	result	The woman enjoyed eating peaches.	The woman did not eat peaches.	2
+1343	Burned my tongue.	cause	I ate hot food quickly.	I ate cold food hastily.	1
+1344	The man dropped the apple from his hand.	result	The apple floated in the air.	The apple fell to the ground.	2
+1345	The woman could not hear the voice calling her.	cause	The woman was wearing earphones.	The woman had taken off her earphones.	1
+1346	The man's address has changed.	cause	The man renewed his house contract.	The man moved.	2
+1347	The debit card payment was not processed.	cause	I deposited money into my bank account.	There was no balance in the bank account.	2
+1348	I touched the wall that had been painted not long ago.	result	There is a handprint on the wall.	There is no paint on my hands.	1
+1349	The sewage water flowed backwards.	cause	The heat wave continued for several days.	The heavy rain continued for several days.	2
+1350	I tore open the snack bag.	cause	I'm so hungry.	I'm hungry.	2
+1351	I have a broken fingernail.	cause	My hands were dry.	I applied hand cream to my hands.	1
+1352	I did intense exercise after a long time.	result	I have severe muscle pain.	My muscles are relaxed.	1
+1353	Packed the luggage in the carrier.	cause	I decided to spend my vacation abroad.	I decided to spend my vacation at home.	1
+1354	The neighborhood where the woman lives has become quieter.	result	The woman went to the bathhouse.	The woman took a bath at home.	1
+1355	A man shouted checkmate while playing chess.	result	The man won in chess.	The man lost in chess.	1
+1356	The child was walking around in short sleeves during the winter.	result	The child did not catch a cold.	My child caught a cold.	2
+1357	The noise outside the building was loud.	result	I opened all the windows in the room.	I closed all the windows in the room.	2
+1358	The fence between the neighboring house and our house has collapsed.	result	I couldn't see the neighbor's yard.	The next-door neighbor's backyard was completely exposed.	2
+1359	The pianist finished the performance wonderfully.	result	Thunderous applause erupted from the audience.	People came in one by one and sat in the seats.	1
+1360	I took a picture without removing the camera lens cap.	result	The camera screen is black.	The landscape was captured on the camera screen.	1
+1361	The woman quit her job.	result	The woman received her monthly salary.	The woman has lost her economic source of income.	2
+1362	The characters on the document are all blurred.	cause	I spilled alcohol on the printed document.	I shook off the dust from the printed document.	1
+1363	The man walked while looking at the map.	cause	The man was familiar with the way.	The man did not know the way well.	2
+1364	The water glistened with a sparkle.	cause	The sunlight reflected off the river.	Rainwater poured into the river.	1
+1365	The pasture was lush with grass.	result	The livestock ate the grass contentedly.	The livestock starved because they couldn't graze on grass.	1
+1366	I applied shoe polish to the shoes.	result	The shoes got dirty.	There is a shine on the shoes.	2
+1367	A landslide occurred.	result	The soil covered the house.	The fire engulfed the house.	1
+1368	The audience gave a standing ovation.	cause	The performance was successful.	There were many problems with the performance.	1
+1369	The woman bought a hairband.	cause	I wanted to tie up a woman's hair.	I wanted to let a woman's hair down.	1
+1370	The woman joined the beginner's Chinese class.	cause	The woman did not know how to speak Chinese.	The woman knew how to speak Chinese.	1
+1371	I put fabric softener in the washing machine.	result	There was a good smell from the laundry.	The fabric has become stiff.	1
+1372	The woman was discharged from the hospital.	cause	The woman underwent surgery and completed her recovery.	The woman went to the hospital to receive medical treatment.	1
+1373	The woman received a love letter.	cause	The new year has come.	It's become Chuseok.	1
+1374	My legs are tingling.	cause	I kneeled down and sat for a long time.	I got a leg massage.	1
+1375	The man's pants were too short.	cause	The man had shorter legs than average.	The man had longer legs than average.	2
+1376	The man turned on the air conditioner less.	cause	Last month, the electricity bill came out to be too high.	The water bill for last month came out to be too high.	1
+1377	The woman's throat is sore.	result	The woman sang for a long time.	The woman could not speak well.	2
+1378	The man applied mosquito repellent.	cause	The man caught a mosquito.	The man was bitten by a mosquito.	2
+1379	The student had a good sense of balance.	result	The student stood on one foot for a long time on the balance beam.	The student quickly fell off the balance beam.	1
+1380	The woman's throat was very dry.	result	The woman ordered hot water.	The woman ordered a cold water.	2
+1381	All the dirt in the nose has been removed.	cause	I applied lotion to my face.	I packed it.	2
+1382	The woman's hand was pricked by a cactus.	result	There is a bruise on the woman's hand.	Blood came out of the woman's hand.	2
+1383	The woman had a severe cough.	cause	I sneezed.	I heard a noise.	2
+1384	The woman stepped into a puddle of water.	result	The woman's socks got wet.	The woman's bag got wet.	1
+1385	The woman accidentally stumbled while walking.	result	The woman walked while looking straight ahead.	The woman looked at her phone and started walking.	1
+1386	The woman's spine curved.	cause	The woman lived with good posture.	The woman lived with a hunched posture.	2
+1387	The magnet does not stick to the refrigerator.	cause	The surface of the refrigerator was made of iron.	The surface of the refrigerator was made of wood.	2
+1388	I had surgery again.	cause	The surgical area has healed well.	There is a problem with the surgical area.	2
+1389	The man wants to drink the beverage colder.	result	The man boiled the drink.	The man put ice in his drink.	2
+1390	I received a shoulder massage.	result	Shoulder pain has decreased.	I injured my shoulder.	1
+1391	The sun was shining brightly.	result	I wore sunglasses.	I wore glasses.	1
+1392	The whole house resounded with a thumping sound.	cause	I was lying on the sofa at home.	I ran in place at home.	2
+1393	The students sat down.	cause	The teacher entered the classroom.	The teacher went out of the classroom.	1
+1394	There are many weeds growing in the field.	result	The farmer gave fertilizer.	The farmer removed the weeds.	2
+1395	I can't put my finger on it.	cause	I lost weight in my fingers.	My fingers have gained weight.	2
+1396	The man removed the stain.	cause	The man wiped his body with an Italian towel.	The man dried his body with a towel.	1
+1397	The woman has a genetic disease factor.	cause	The woman's friend is suffering from a hereditary disease.	The mother of the woman is suffering from a hereditary disease.	2
+1398	I emptied the trash can.	cause	The trash can is full of garbage.	The trash bin was not filled with trash.	1
+1399	The pants I was wearing became shorter.	cause	I have grown taller than before.	I have become shorter than before.	1
+1400	The plants that got rained on all died.	cause	Acid rain fell.	It rained lightly.	1
+1401	The woman is trying to make a right turn.	result	The woman turned on the car's wiper.	The woman turned on the car's blinker.	2
+1402	People passing by on the street asked the man for his autograph.	cause	The man was a famous celebrity.	The man was an ordinary office worker.	1
+1403	The ice did not freeze.	cause	The refrigerator was repaired.	The refrigerator is broken.	2
+1404	The woman's nose was itchy.	result	The woman sneezed.	The woman coughed falsely.	1
+1405	The woman used the computer for a long time.	result	The woman's nose hurt.	The woman had a sore throat.	2
+1406	People started opening umbrellas.	cause	Suddenly, the wind blew.	Suddenly, it started raining.	2
+1407	A school closure order has been issued.	cause	It drizzled in that area.	A heavy snowfall warning has been issued in the area.	2
+1408	The vegetables were blanched in boiling water.	result	The vegetables have become tough.	The volume of vegetables has decreased.	2
+1409	The woman was infected with an eye disease.	result	The woman was wearing a mask.	The woman wore a blindfold.	2
+1410	The dog scratched the door.	cause	The dog wanted to go outside of the room.	The dog wanted to stay inside the room.	1
+1411	The child spilled water.	result	The child pushed the cup filled with water.	The child wiped up the water spilled with a rag.	2
+1412	The soil is soaked.	cause	It rained last night.	The snow piled up on the ground overnight.	1
+1413	The student received a penalty from the student council.	cause	The student followed the rules.	The student broke the rules.	2
+1414	The torn part of the bag was sealed with pliers.	cause	I ate all the snacks in the bag.	There are cookies left inside the bag.	2
+1415	There was a smell of chlorine in the water.	cause	I sprayed ink on the water.	I sprayed bleach on the water.	2
+1416	The man failed to pay the utility bill.	cause	The man did not have much money left in his bank account.	The man received his salary.	1
+1417	The man retook the exam.	cause	The man passed the entrance exam in one try.	The man failed the entrance exam.	2
+1418	A fire broke out in the house.	result	The doorbell rang.	The sprinkler has activated.	2
+1419	The man nervously shook his legs.	cause	The man was waiting for the announcement of the test results.	The man passed the exam.	1
+1420	The mobile phone screen is broken.	cause	I dropped my cellphone on the bed.	I dropped my phone on the cement floor.	2
+1421	The man suffered from a high fever.	result	The man lay still without moving at all.	The man happily ran outside.	1
+1422	The woman's finger was swollen.	cause	The woman had been in the bathtub for a long time.	The woman took a quick shower and came out.	1
+1423	The crops grew well.	cause	The farmer spread enough fertilizer.	The farmer did not give water well.	1
+1424	I put a dehumidifier in the closet.	result	The humidity in the closet has decreased.	The humidity in the wardrobe has increased.	1
+1425	The woman dyed her hair.	result	The woman's hair color has changed.	The woman's hairstyle has changed.	1
+1426	I used a exfoliating remover.	result	My skin has become rough.	The skin has become softer.	2
+1427	The woman's spine was cold.	cause	The woman watched a comedy movie.	The woman watched a horror movie.	2
+1428	Blood came out from the woman's finger.	cause	The woman burned her hand on the fire.	The woman cut her hand with a knife.	2
+1429	The woman's cellphone battery has completely run out.	result	The woman was unable to make phone calls.	The woman talked on the phone for a long time.	1
+1430	The video taken by the woman was very shaky.	cause	The woman had Down syndrome.	The woman had epilepsy.	2
+1431	The man collapsed from overwork.	cause	Lately, men have been very busy.	Recently, men have been quite idle.	1
+1432	The woman pulled out the safety pin of the digestive system.	cause	A woman discovered the scene of the fire.	The woman arrived at the scene where the fire was extinguished.	1
+1433	The man lit a fire in the hearth.	result	There was warmth inside the room.	The room was filled with coolness.	1
+1434	It has been cleaned.	result	There is a foreign substance in my mouth.	Something foreign has fallen out of my mouth.	2
+1435	The child covered his ears with both hands.	cause	The thunder struck loudly in the sky.	The sun was shining brightly in the sky.	1
+1436	The woman had a sociable personality.	result	The woman easily became friends with strangers.	The woman was afraid of meeting strangers.	1
+1437	The adhesive strength of the Post-it has greatly decreased.	cause	I reused the post-it several times.	I stuck the post-it note back using tape.	1
+1438	There are bugs all over the room.	cause	I installed a mosquito net.	There is a hole in the mosquito net.	2
+1439	A nail is stuck in the tire.	result	I replaced the tires.	I cleaned the tires.	1
+1440	The man graduated from middle school.	result	The man entered elementary school.	The man entered high school.	2
+1441	My long hair got wet with sweat and it bothered me.	result	I tied my hair up.	I got a haircut.	1
+1442	I took out the live fish from the water.	result	The fish did not move.	The fish was delicious.	2
+1443	I rubbed the balloon on my hair.	result	Static electricity occurred on the balloon.	The size of the balloon has become bigger.	1
+1444	The water dripped from the laundry.	cause	Dehydration did not occur properly.	I have finished dehydrating.	1
+1445	The woman got a minor burn on her hand.	cause	The woman held a hot cup.	The woman held a cold cup.	1
+1446	I plugged in the USB mouse to the computer.	result	The mouse is not connected to the computer.	The mouse is connected to the computer.	2
+1447	The woman went down the hill with a sled.	cause	It rained on the hill.	Snow has piled up on the hill.	2
+1448	The waterlogged cellphone is functioning normally.	cause	The cellphone has waterproof function.	The mobile phone does not have waterproof function.	1
+1449	The desk was organized.	cause	I took out all the items on the desk.	I put all the items on the desk into the drawer.	2
+1450	A person fell into the sea.	result	A lifeguard jumped into the sea.	A rescuer came out of the sea.	1
+1451	I jumped hard on the trampoline.	result	My body rose high.	The body did not move.	1
+1452	The heat wave continued for several days.	result	The number of bronze statue patients has increased.	The number of heatstroke patients has increased.	2
+1453	The length of the pencil has become shorter.	cause	I bought a new pencil.	I used the pencil for a long time.	2
+1454	The book for women has entered an additional print run.	cause	The book for women is sold out.	The stock of women's books is piled up in the warehouse.	1
+1455	I cut the dog's nails.	cause	The dog's toenail was pulled out.	The dog's nails were very long.	2
+1456	The lead of the pencil that the woman was using broke.	result	The woman found a pencil sharpener.	The woman found an eraser.	1
+1457	I trimmed my eyebrows with an eyebrow razor.	result	The hair on the eyebrows has become thicker.	The fine hairs of the eyebrows have been groomed.	2
+1458	The student searched for the learning content.	cause	The student understood all of the class content.	The student had some information they wanted to know about during the class.	2
+1459	The duck laid an egg.	result	A duckling was born.	The duck laid an egg.	1
+1460	I wiped the oil off the frying pan with a kitchen towel.	result	The frying pan became clean.	The frying pan sizzled.	1
+1461	A woman was caught by a police officer for speeding.	result	The woman paid the fine.	The woman received a reward.	1
+1462	The police handcuffed the man's hands.	cause	The man arrested the culprit.	The man committed a crime.	2
+1463	It rained heavily and my legs got submerged in water.	result	The cars could not cross the bridge.	The cars raced across the bridge at high speed.	1
+1464	My nail fell off.	cause	I dropped the dumbbell onto my foot.	I tied a stretching strap around my foot.	1
+1465	The outdoor class has been canceled.	cause	The sky was clear.	It rained and there was a strong wind.	2
+1466	The woman painted the car.	cause	There is a scratch on the car.	I washed the car.	1
+1467	The child has never combed their hair.	result	My hair is tangled.	The hair fluttered.	1
+1468	The tree burned down in the fire.	cause	I threw a tree into the river.	I threw the wood into the bonfire.	2
+1469	The woman couldn't enter the performance hall.	cause	The woman forgot to grab the ticket.	The woman brought the ticket with her.	1
+1470	A woman called a cleaning company.	cause	The woman's house was clean.	The woman's house was messy.	2
+1471	The man paid a traffic fine.	cause	The man parked in the parking lot.	The man violated the signal.	2
+1472	The flight that the man was going to take was canceled.	result	There is no change in a man's schedule.	The man arrived at the destination later than scheduled.	2
+1473	I no longer use a fan.	result	I disassembled the fan and put it in the warehouse.	I bought a new fan.	1
+1474	A woman was taken to the emergency room.	cause	The woman suddenly got up from her seat.	A woman suddenly collapsed on the street.	2
+1475	I wore the contact lenses by switching their left and right sides.	result	The color of the pupil changed.	I couldn't see well.	2
+1476	A heavy rain accompanied by thunder and lightning poured down.	result	The airplanes landed safely.	Flights were cancelled one after another.	2
+1477	The man's car ran out of gas.	result	The man went into the gas station.	The man passed by the gas station without stopping.	1
+1478	There was a big fire at the museum.	result	The artwork of the museum was exhibited.	The artwork in the museum was stolen.	1
+1479	The table tennis ball fell on the floor.	result	The table tennis ball bounced off the floor.	The ping pong ball stuck to the floor.	1
+1480	I ate hot food hurriedly.	result	I am very hungry.	The roof collapsed.	2
+1481	The woman had an egg allergy.	result	The woman could not eat the egg tart.	The woman liked egg rolls.	1
+1482	The man saved up some money.	cause	The man wanted to buy a house.	The man bought a house.	1
+1483	The woman had a conversation with a Chinese person in Chinese.	cause	The woman was fluent in Chinese.	The woman was not confident in Chinese.	1
+1484	The sound of the violin was not good.	cause	A lot of rosin was applied to the violin.	The violin's strings were gently polished.	1
+1485	The food was bland.	result	I put shrimp sauce in the food.	Water was added to the food.	1
+1486	Skateboarding day has become dull.	result	I quickly moved forward on the ice.	It is difficult to gain speed on an icy surface.	2
+1487	The woman's gums swelled up.	cause	The woman has contracted conjunctivitis.	The woman has gum inflammation.	2
+1488	The woman violated copyright law.	result	The woman was sued.	The woman acquired the copyright.	1
+1489	The woman paid the car acquisition tax.	cause	The woman bought a car.	The woman sold a car.	1
+1490	He dropped the transparent contact lens on the floor.	result	He couldn't find his glasses.	He wore contact lenses.	1
+1491	The soldiers began preparing for war.	cause	The king declared the end of the war.	The king declared war.	2
+1492	The man took a half-body bath.	result	The man's blood circulation is good.	The man's skin has become dry.	1
+1493	The man injured his leg and wore a cast.	result	The man walked down the stairs.	The man took the elevator down.	2
+1494	I shook the blanket vigorously.	result	Dust flew off the blanket.	The size of the blanket has decreased.	1
+1495	Let's eat clams, the sand got chewed.	cause	The clams have been soaked in saltwater for a long time.	The clam was not properly thawed.	2
+1496	The caterpillar molted.	result	The size of the caterpillar has decreased.	I became an adult.	2
+1497	Taxes have been unpaid.	result	A tax payment reminder has been sent.	Selected as a model taxpayer.	1
+1498	I put the cheese in the freezer.	result	The cheese melted.	The cheese has hardened and become tough.	2
+1499	During the construction process, cultural heritage was discovered.	result	The construction has been suspended.	The construction has resumed.	1
+1500	Preservatives have been added.	result	The food has spoiled.	The food did not spoil.	2
+1501	The kitchen countertop collapsed.	cause	The screws on the shelf were tightly fastened.	The screw on the shelf was loose.	2
+1502	I chop firewood to put it in the fireplace.	cause	The firewood was stacked full in the warehouse.	We ran out of firewood.	2
+1503	The woman came in first place in the marathon race.	result	The woman received a bronze medal.	The woman received a gold medal.	2
+1504	The man hurriedly walked the laundry.	cause	It suddenly started raining.	The sun suddenly rose.	1
+1505	There is a nutritional imbalance.	cause	I had a picky eating habit.	I ate a variety of food.	1
+1506	The fire truck rushed out with its siren blaring.	cause	There was a report that the suspect had appeared.	There was a report that a fire had broken out in the mountains.	2
+1507	The woman received a commendation from the foundation.	cause	The woman embezzled money from the foundation.	The woman consistently made donations to the foundation.	2
+1508	The chocolate was heated in a double boiler.	result	The chocolate has hardened.	The chocolate melted.	2
+1509	The doorbell of the woman's house rings.	result	The woman arrived home.	The woman confirmed who the visitor was.	2
+1510	The man understood the American drama without subtitles.	cause	The man couldn't speak English.	The man was good at English.	2
+1511	The woman's mouth became numb.	cause	The woman chewed on salt.	The woman chewed on a spicy pepper.	2
+1512	The woman is practicing a guitar piece.	cause	The woman is a retired guitarist.	A woman is preparing to hold a solo guitar concert.	2
+1513	The woman has a lot of tartar on her teeth.	result	The woman's teeth were very clean.	The woman received scaling to remove tartar.	2
+1514	Oil leaked into the sea.	cause	The oil tanker has capsized.	The oil tanker anchored in the port.	1
+1515	The woman received a receipt.	cause	The woman made a purchase.	The woman did not purchase the item.	1
+1516	Mom brushed the child's hair.	result	The child's hair became disheveled.	The child's hair was neatly arranged.	2
+1517	The woman connected her laptop to the charger.	result	The battery level of the laptop has decreased.	The battery level of the laptop has increased.	2
+1518	The filter of the air purifier quickly became dirty.	cause	The place where women live has a lot of fine dust.	There is no fine dust where women live.	1
+1519	I put muddy water into the purifier.	result	The water has become dirty.	The water has become clean.	2
+1520	The man did not get the desired score on the exam.	cause	The man did not study hard for the exam.	The man took the exam.	1
+1521	I harvested watermelons in the cold winter.	cause	The watermelon was grown in a greenhouse.	I grew watermelon in the field.	1
+1522	The woman took out a feces bag.	cause	The woman's dog pooped.	The woman's dog peed.	1
+1523	The woman's face became moisturized.	cause	The woman sprayed perfume.	The woman sprayed mist on her face.	2
+1524	The bicycle chain fell off.	result	The bicycle is moving forward well.	I left my bicycle at the repair shop.	2
+1525	The woman received shoulder physical therapy.	result	The woman's shoulder was torn.	The woman's shoulder stiffness has been cured.	2
+1526	The hot water did not come out.	result	I took a shower with warm water.	I took a shower with cold water.	2
+1527	I washed my eyes with water.	cause	I put artificial tears in my eyes.	Dust got into my eyes.	2
+1528	A woman sent a wedding invitation.	cause	The woman decided to get a divorce.	The woman decided to get married.	2
+1529	A woman tapped her transportation card on the bus terminal.	cause	The woman held onto the bus handle.	A woman got on the bus.	2
+1530	The man felt a headache.	result	The man played games for a long time.	The man purchased a headache medicine.	2
+1531	It rained a lot.	result	The soil was soaked.	The ground was frozen solid.	1
+1532	The woman made and ate late-night snacks.	cause	The woman got hungry.	The woman was hungry.	1
+1533	I boiled the towel.	result	The odor of the towel disappeared.	There was a bad smell coming from the towel.	1
+1534	I put the melted chocolate in the refrigerator.	result	I opened the packaging of the chocolate.	The chocolate has hardened.	2
+1535	The woman received congratulations from her colleagues.	cause	The woman was promoted at work.	The woman was late for work.	1
+1536	The woman turned off the car engine.	cause	The woman tried to take out the car from the parking lot.	The woman parked her car in the parking lot.	2
+1537	The picture appeared three-dimensional.	cause	The shading in the picture is emphasized.	The paint in the picture has completely dried.	1
+1538	A man has died.	cause	The man drank poison.	The man ate vegetables evenly.	1
+1539	The dumplings have become warm.	cause	I put dumplings in the refrigerator.	I microwaved dumplings.	2
+1540	The wet wipes were not properly sealed.	result	The wet wipes dried up.	The wet wipes have become damp.	1
+1541	The man felt dazzled.	result	The man was wearing sunglasses.	The man was wearing a security guard uniform.	1
+1542	The little child's mother did the laundry.	cause	The child wet the bed.	The child peed on the toilet.	1
+1543	The man quickly lifted the fishing rod.	cause	The fish bit the bait.	No fish were caught.	1
+1544	The man had a long beard.	cause	The man shaved regularly.	The man did not shave.	2
+1545	I worked on the computer for a long time.	result	The temperature of the computer has increased.	The computer has been fixed.	1
+1546	I installed an air purifier in the car.	cause	The recent weather has been clear.	Recently, the concentration of fine dust has been high.	2
+1547	My child has an upset stomach.	cause	The child drank contaminated water.	The child drank clean water.	1
+1548	The woman smelled a foul odor.	result	The woman squeezed her nose.	The woman blew her nose with a tissue.	1
+1549	The singer held a concert in a larger venue than last year.	cause	The singer's popularity has decreased compared to last year.	The singer has become more popular than last year.	2
+1550	I inserted nutrition supplement into the flower pot.	cause	The flowers in the pot have withered.	The flowers in the pot have become fresh.	1
+1551	The man wore sheepskin boots.	cause	The man's foot was itchy.	The man's feet were sweating.	1
+1552	The woman raised the height of the chair.	cause	The desk was too low.	The desk was too high.	2
+1553	People crowded in.	cause	The circus performance has begun.	The circus performance has come to an end.	1
+1554	I turned on the air conditioner because the temperature was too high.	cause	It is now August.	It's December.	1
+1555	The woman received eye surgery.	cause	Women have good eyesight.	The woman has cataracts.	2
+1556	The cat scratched the sofa with its claws.	result	The sofa became smooth.	There is a scratch on the sofa.	2
+1557	I dropped my headphones in water.	result	The headphones are functioning properly.	The headphones are broken.	2
+1558	The sewer is broken.	result	The rainwater flowed backwards.	The rainwater flowed normally.	1
+1559	The child got scratched by a cat.	result	I gave food to the cat.	The child cried loudly.	2
+1560	The water rescue team has been dispatched.	cause	My stomach flipped.	The ship set sail.	1
+1561	The pottery was fired in a kiln.	result	The pottery has become soft.	The pottery has become stronger.	2
+1562	The man purchased large breed dog food.	cause	A man raised a Maltese dog.	A man raised a husky.	2
+1563	The paper box got wet in the water.	result	The box tore when I put heavy objects in it.	Even when heavy items were placed in the box, it did not budge.	1
+1564	The woman wore a raincoat.	result	The woman's t-shirt did not get wet in the rain.	The woman's t-shirt became damp.	1
+1565	The man dropped a cup made of rubber on the floor.	result	The cup did not break.	The cup broke into pieces.	1
+1566	The fish tank was left under the sunlight for a long time.	result	There is algae in the fish tank.	The fish tank water has become clean.	1
+1567	The man stamped the seal.	cause	The man agreed to the contents of the contract.	The man objected to the contents of the contract.	1
+1568	The whole house was filled with the smell of kimchi.	cause	I opened the lid of the kimchi.	I sealed the kimchi lid.	1
+1569	The woman liked reading.	result	There were many video tapes at the woman's house.	There were many books in the woman's house.	2
+1570	I boiled the wine in a pot.	result	The alcohol in the wine has all evaporated.	The wine has been aged more.	1
+1571	The girl got high grades on the exam.	cause	The woman studied for the exam carelessly.	The woman studied hard for the exam.	2
+1572	I turned on the flashlight.	cause	There has been a blackout.	I replaced the fluorescent light with a new one.	1
+1573	The bread is moldy.	cause	I left the bread at room temperature for a long time.	The bread was stored in the freezer.	1
+1574	The woman was thirsty.	result	The woman ate sweet potatoes.	The woman drank water.	2
+1575	I mistakenly dried the laundry during the rainy season.	result	The laundry had a pleasant smell.	There was a musty smell coming from the laundry.	2
+1576	The man was arrested by the police.	cause	The man reported the criminal.	The man committed a crime.	2
+1577	The man became addicted to poison.	cause	The man was bitten by a venomous snake.	The man discovered a venomous snake.	1
+1578	The man applied rinse to his hair.	result	The hair has become soft.	My hair became stiff.	1
+1579	The man drank a lot of coffee in the evening.	result	The man was very sleepy.	The man couldn't sleep.	2
+1580	The airbag has been activated.	cause	The car is driving on the highway.	The car collided with an electric pole.	2
+1581	A woman has been hired by the company.	result	The woman received an employee ID card.	The woman returned her ID card.	1
+1582	The barrier of sincerity has collapsed.	result	The enemy has entered the castle.	The enemy retreated.	1
+1583	There is a lot of mold on the wall.	cause	The room was very well lit by sunlight.	The room hardly received any sunlight.	2
+1584	The president has been impeached.	cause	The president was found guilty.	A new presidential election has been held.	1
+1585	The man was dazed all day.	cause	The man slept soundly yesterday.	The man couldn't sleep yesterday.	2
+1586	I opened the window wide even though it was raining.	result	The paper left by the window is completely soaked in rain.	The paper left by the window completely dried up.	1
+1587	The woman had been sitting for a long time.	result	The woman's waist hurt.	The woman injured her leg.	1
+1588	I can't see because it's dark outside.	result	Turned on the car's headlights.	I turned on the blinker of the car.	1
+1589	The woman began to experience labor pains.	result	The woman became pregnant.	A baby is born.	2
+1590	The woman's face was covered in oil.	result	The woman put the oil blotting paper in her bag.	The woman removed the oil with blotting paper.	2
+1591	The man forgot the movie ticket reservation time.	result	The man watched a movie.	The man could not enjoy the movie.	2
+1592	The brush tip is split.	cause	I left the brush to dry for a long time.	I dipped the brush into the water bucket.	1
+1593	The oil was removed with kitchen towels.	cause	There was excessive oil in the frying pan.	There was not enough oil in the frying pan.	1
+1594	I couldn't open the bottle.	cause	There were no bottle openers.	I lost the bottle cap.	1
+1595	The graffiti on the wall is not easily erased.	cause	I scribbled on the wall with a pencil.	I scribbled on the wall with paint.	2
+1596	There was a smell coming from the man's hair.	cause	The man cut his hair.	The man did not cut his hair.	2
+1597	The woman's lips turned blue.	cause	The woman has been in cold water for a long time.	The woman soaked her body in hot spring water.	1
+1598	The man lay down in his seat.	cause	The man was overwhelmed with drowsiness.	The man fell asleep.	1
+1599	The company announced that it will conduct a peer evaluation.	result	The team members participated diligently in the project.	The company's project has become a mess.	1
+1600	The woman touched the soap bubble.	result	The soap bubbles have become smaller.	The soap bubble burst.	2
+1601	The pencil lead is broken.	result	I sharpened the pencil again.	I erased the letters with an eraser.	1
+1602	There was a jingling sound coming from the man's wallet.	cause	There were coins in the man's wallet.	There were only bills in the man's wallet.	1
+1603	The man started sneezing.	cause	The man sprinkled salt on the food.	The man sprinkled a lot of pepper on his food.	2
+1604	The sun was hot.	result	I entered into the shade under the parasol.	Folded and put away the umbrella.	1
+1605	There is a bad smell coming from the sink drain.	cause	There was food residue in the drain.	The drain was cleaned with bleach.	1
+1606	I haven't cleaned the bathroom for a long time.	result	The bathroom mirror was clean.	The bathroom mirror is covered in water stains.	2
+1607	The car broke down on the road.	result	I put gas in the car.	The car was towed.	2
+1608	The woman had been in a cold place for a long time.	result	The woman took off her outerwear.	The woman's body temperature dropped.	2
+1609	The branch was soaked in water.	result	The floor of the branch has become slippery.	The ground at the site hardened and cracked.	1
+1610	The woman received a housewarming gift.	cause	The woman moved to a new house.	The woman sold her house.	1
+1611	The woman lowered the temperature setting of the air conditioner.	cause	The woman did not suffer from the heat.	The woman currently felt hot.	2
+1612	The man wiped his sweat with a handkerchief.	cause	The man's face was dry.	The man's face was covered in sweat.	2
+1613	The child has not lost their baby teeth yet.	result	The child's permanent teeth are decayed.	The child did not have permanent teeth.	2
+1614	The students were unable to provide logical counterarguments in the debate.	result	The students won the debate.	The students lost the debate.	2
+1615	The woman was sitting there blankly.	cause	The woman's strength soared.	The woman had no strength.	2
+1616	The man worked hard on upper body strength exercises.	result	Muscles have attached to the man's legs.	Muscles have formed on the man's arm.	2
+1617	The girl bought a light stick for an idol group.	cause	The woman is a fan of an idol group.	The woman is an anti-fan of an idol group.	1
+1618	I put eye drops in the dog's eyes.	cause	The dog's eyes are congested.	The dog's eye disease has been cured.	1
+1619	The windmill spun at a fast speed.	cause	The wind was weak.	The wind was blowing strongly.	2
+1620	A man gave a woman a nipple-shaped candy as a gift.	cause	She has a young child.	The woman is unmarried.	1
+1621	Hit the iron plate with a hammer.	result	The iron plate is bent.	The steel plate was welded.	1
+1622	Refined salt.	result	I obtained salt.	I got sugar.	1
+1623	The pants got bigger.	result	I tied the belt tightly.	I loosely fastened my belt.	1
+1624	The woman was tired so she took a nap.	cause	I barely made it home in the early morning and fell asleep.	I went straight home in the early evening and went to sleep.	1
+1625	The bacteria on my hands have been removed.	cause	I made hand sanitizer.	I applied hand sanitizer.	2
+1626	I lost my company ID card.	result	I contacted the company's security team.	I contacted the company's sales team.	1
+1627	The man was able to sing soprano range.	result	The man's song is composed of low melodies.	The man's song is composed of high melodies.	2
+1628	The charger cable has been disconnected.	result	Charging is complete.	It was not charged.	2
+1629	The water in the washbasin did not drain.	cause	I cleaned the drain.	The drain is clogged.	2
+1630	The wooden furniture was scratched with a knife.	result	Color has been added to the furniture.	There is a scratch mark left on the furniture.	2
+1631	There is a smell coming from the baby's diaper.	result	I did not change the baby's diaper.	I changed the baby's diaper.	2
+1632	The food sold at the restaurant was spoiled.	result	The people who ate at the restaurant got an upset stomach.	Expired ingredients were used in the restaurant.	1
+1633	The man suffered from alcohol abuse.	cause	The man drank a larger amount of alcohol than his usual intake.	The man drank a smaller amount of alcohol than his usual intake.	1
+1634	The woman got drunk.	cause	The woman drank a lot of grape wine.	The woman drank a lot of grape juice.	1
+1635	I opened the window wide on a rainy day.	result	Rainwater flooded into the room.	Raindrops hit the window.	1
+1636	I offered comfort to the man.	cause	The man lost in the competition.	The man won the competition.	1
+1637	The woman has lactose intolerance.	result	The woman's stomach hurt after drinking milk.	The woman drank milk well.	1
+1638	I wore goggles.	result	I opened my eyes easily in the water.	Water got into my eye.	1
+1639	The man changed the baby's diaper.	cause	The baby flipped over.	The baby urinated.	2
+1640	There is mold on the wallpaper.	result	I did new wallpapering.	I replaced the floor mat.	1
+1641	The woman got a magic perm.	result	The woman's hair became straight.	The woman's hair became curly.	1
+1642	People protested.	cause	People were dissatisfied with the current situation.	People were satisfied with the current situation.	1
+1643	The man committed tax evasion.	result	The man received a commendation as a model taxpayer.	The man received a fine notice.	2
+1644	The lid of the jar containing slime was not covered.	result	The slime has dried up and stuck.	The slime became moist.	1
+1645	I threw a pebble into the deep lake.	result	The pebble floated on the water.	The pebble sank under the water.	2
+1646	The woman ate walnuts and developed hives.	cause	The woman had a nut allergy.	The woman really liked nuts.	1
+1647	The woman came into some money.	cause	The woman's savings account has reached its maturity.	The woman repaid the loan.	1
+1648	We ran out of firewood.	result	The fire blazed fiercely.	The fire went out.	2
+1649	I made glasses with my fingers.	result	There were fingerprints on the glasses case.	I replaced the colored lenses with regular ones.	1
+1650	The company lacked manpower.	result	All employees worked relaxedly.	All employees worked busily.	2
+1651	The man's arm swelled up.	cause	The man caught a bee.	The man was stung by a bee.	2
+1652	The woman complained of abdominal pain.	cause	The woman developed inflammation in her appendix.	The woman has scheduled a colon surgery.	1
+1653	The woman was still hungry.	result	The woman ordered additional food.	The woman arranged the plates.	1
+1654	The child sat down on the floor.	cause	The child's leg hurt.	The child put on new shoes.	1
+1655	My hand is numb.	cause	I tightly wrapped the pressure bandage around my hand.	He attached a machete to his hand.	1
+1656	The woman became an accountant.	cause	The woman passed the judicial examination.	The woman passed the certified public accountant exam.	2
+1657	I tapped on the Korean rose.	result	The deodeok has become tough.	The deodeok has become softer.	2
+1658	The man was in a bad mood all day.	cause	The man lost money by gambling.	The man gambled and made money.	1
+1659	The man bit his nails.	result	My nails have become uneven.	The nails are neatly arranged.	1
+1660	The woman wore aqua shoes.	cause	A woman went to a ski resort.	The woman went to the swimming pool.	2
+1661	Insects often enter the room.	result	The woman installed mosquito netting.	The woman tore apart the mosquito net.	1
+1662	I fixed the camera on the tripod.	result	The camera angle was shaking here and there.	The camera angle has been stably fixed.	2
+1663	I hung the knitwear on the hanger for a long time.	result	The nitrate has decreased.	The knit has stretched.	2
+1664	The woman had confidence in her argument.	result	The women actively expressed their opinions.	The woman withdrew her opinion.	1
+1665	Even when force was applied, the bottle cap did not open easily.	cause	The bottle cap was tightly sealed.	The bottle cap was loosely closed.	1
+1666	The woman ate spoiled food.	result	The woman overate.	The woman got food poisoning.	2
+1667	The man suffered from a headache.	cause	The man was stressed.	The man felt happiness.	1
+1668	The motor of the fan has overheated.	cause	I left the fan on all day.	I turned off the fan all day.	1
+1669	The woman's fingernail is broken.	cause	The woman's toenail was ripped off at the door.	The woman applied nail polish onto her nails.	1
+1670	I pricked my finger with a needle.	result	There is a bruise on my finger.	My finger is bleeding.	2
+1671	The eardrum is torn.	result	I could hear the sound well.	I couldn't hear the sound.	2
+1672	I cooked corn kernels in a frying pan.	result	The real corn has been completed.	The Popcorn is complete.	2
+1673	The fish died.	cause	Contaminated water has been introduced into the ocean.	I put seawater into the purification machine.	1
+1674	The ice cream has melted.	cause	I left the ice cream at room temperature.	I put the ice cream in the freezer.	1
+1675	The man felt cold.	result	I opened the window wide.	I closed all the windows.	2
+1676	I cooked beef in a frying pan.	result	The beef has turned white.	The beef turned brown.	2
+1677	My hair is neatly styled.	cause	I fell asleep without drying my hair.	I combed my hair with a comb.	2
+1678	People made a snowman.	cause	It rained a lot.	There is a lot of snow piled up.	2
+1679	There is a hole in the tube.	result	The tube was filled with air.	The tube became twisted and the air came out.	2
+1680	The woman frowned.	cause	The woman ate a sweet dessert.	The woman took bitter medicine.	2
+1681	The woman bought an item and received change.	cause	The woman paid more than the value of the item.	The woman paid for the item with a card.	1
+1682	The delivery food arrived very late.	cause	The wind blew fiercely.	The weather was clear and sunny.	1
+1683	The man's hair froze in the cold.	cause	The man went out with wet hair in winter.	The man went out with his hair completely dry in the winter.	1
+1684	The man had a car accident.	result	The man violated the signal.	The man called the police.	2
+1685	The woman often went to the restroom.	cause	The woman drank a lot of water.	The woman did not take a sip of water.	1
+1686	The man exchanged the purchased item.	cause	The man liked the item he purchased.	The item purchased by the man was defective.	2
+1687	I lent a handkerchief to a man.	cause	The man shed tears.	The man laughed loudly.	1
+1688	I put dumplings in boiling water.	result	I became dumplings.	I became a soldier dumpling.	1
+1689	The woman explained the content of the book to the student.	cause	The student read a book and wrote a book report.	The student did not understand the content of the book.	1
+1690	It started raining while I was driving.	result	I turned on the radio.	I turned on the wiper.	2
+1691	The woman opened a book.	cause	The woman finished reading the book.	The woman was curious about the content of the book.	2
+1692	The cabbage was soaked in salt water.	result	The cabbage's breath has died.	Cabbage has become fresh again.	1
+1693	The cabbage was soaked in salt water.	result	The cabbage's breath has died.	Cabbages have become fresh again.	1
+1694	The cabbage was soaked in salt water.	result	The cabbage's breath has died.	Cabbages have become fresh again.	1
+1695	The cabbage was soaked in salt water.	result	The cabbage's breath has died.	Cabbage has become fresh again.	1
+1696	The cabbage was soaked in salt water.	result	The cabbage's breath died.	Cabbage has become fresh again.	1
+1697	The cabbage was soaked in salt water.	result	The cabbage's breath died.	Cabbages have become fresh again.	1
+1698	The cabbage was soaked in salt water.	result	The cabbage's breath died.	Cabbages have become fresh again.	1
+1699	The cabbage was soaked in salt water.	result	The cabbage's breath died.	Cabbage has become fresh again.	1
+1700	The cabbage was soaked in salt water.	result	The cabbage's breath has died.	Cabbage has become fresh again.	1
+1701	The cabbage was soaked in salt water.	result	The cabbage's breath has died.	Cabbages have become fresh again.	1
+1702	The cabbage was soaked in salt water.	result	The cabbage's breath has died.	Cabbages have become fresh again.	1
+1703	The cabbage was soaked in salt water.	result	The cabbage's breath has died.	Cabbage has become fresh again.	1
+1704	The cabbage was soaked in salt water.	result	The cabbage's breath died.	Cabbage has become fresh again.	1
+1705	The cabbage was soaked in salt water.	result	The cabbage's breath died.	Cabbages have become fresh again.	1
+1706	The cabbage was soaked in salt water.	result	The cabbage's breath died.	Cabbages have become fresh again.	1
+1707	The cabbage was soaked in salt water.	result	The cabbage's breath died.	Cabbage has become fresh again.	1
+1708	The lens is torn.	result	The eye with the contact lens hurt.	I pulled the lens tightly.	1
+1709	The lens is torn.	result	The eye with the contact lens hurt.	I pulled the lens tightly.	1
+1710	The lens is torn.	result	The eye with the contact lens hurt.	I pulled the lens tightly.	1
+1711	The lens is torn.	result	The eye with the contact lens hurt.	I pulled the lens hard.	1
+1712	The lens is torn.	result	The eye with the contact lens hurt.	I pulled the lens tightly.	1
+1713	The lens is torn.	result	The eye with the contact lens hurt.	I pulled the lens tightly.	1
+1714	The lens is torn.	result	The eye with the contact lens hurt.	I pulled the lens tightly.	1
+1715	The lens is torn.	result	The eye with the contact lens hurt.	I pulled the lens hard.	1
+1716	The lens was torn.	result	The eye with the contact lens hurt.	I pulled the lens tightly.	1
+1717	The lens was torn.	result	The eye with the contact lens hurt.	I pulled the lens tightly.	1
+1718	The lens was torn.	result	The eye with the contact lens hurt.	I pulled the lens tightly.	1
+1719	The lens was torn.	result	The eye with the contact lens hurt.	I pulled the lens hard.	1
+1720	The lens was torn.	result	The eye with the contact lens hurt.	I pulled the lens tightly.	1
+1721	The lens was torn.	result	The eye with the contact lens hurt.	I pulled the lens tightly.	1
+1722	The lens was torn.	result	The eye with the contact lens hurt.	I pulled the lens tightly.	1
+1723	The lens was torn.	result	The eye with the contact lens hurt.	I pulled the lens hard.	1
+1724	I used the eraser for a long time.	result	The size of the eraser has become larger.	The size of the eraser has become smaller.	2
+1725	I used the eraser for a long time.	result	The size of the eraser has become larger.	The size of the eraser has become smaller.	2
+1726	I used the eraser for a long time.	result	The size of the eraser has become larger.	The size of the eraser has become smaller.	2
+1727	I used the eraser for a long time.	result	The size of the eraser has become larger.	The size of the eraser has become smaller.	2
+1728	I used the eraser for a long time.	result	The size of the eraser has increased.	The size of the eraser has become smaller.	2
+1729	I used the eraser for a long time.	result	The size of the eraser has increased.	The size of the eraser has become smaller.	2
+1730	I used the eraser for a long time.	result	The size of the eraser has increased.	The size of the eraser has become smaller.	2
+1731	I used the eraser for a long time.	result	The size of the eraser has increased.	The size of the eraser has become smaller.	2
+1732	I used the eraser for a long time.	result	The size of the eraser has become larger.	The size of the eraser has become smaller.	2
+1733	I used the eraser for a long time.	result	The size of the eraser has become larger.	The size of the eraser has become smaller.	2
+1734	I used the eraser for a long time.	result	The size of the eraser has become larger.	The size of the eraser has become smaller.	2
+1735	I used the eraser for a long time.	result	The size of the eraser has become larger.	The size of the eraser has become smaller.	2
+1736	I used the eraser for a long time.	result	The size of the eraser has increased.	The size of the eraser has become smaller.	2
+1737	I used the eraser for a long time.	result	The size of the eraser has increased.	The size of the eraser has become smaller.	2
+1738	I used the eraser for a long time.	result	The size of the eraser has increased.	The size of the eraser has become smaller.	2
+1739	I used the eraser for a long time.	result	The size of the eraser has increased.	The size of the eraser has become smaller.	2
+1740	I wore rubber gloves and did the dishes.	result	My hands are very wet.	My hands are not wet.	2
+1741	I wore rubber gloves and did the dishes.	result	My hands are very wet.	My hands are not wet.	2
+1742	I wore rubber gloves and did the dishes.	result	My hands are very wet.	My hands did not get wet.	2
+1743	I wore rubber gloves and did the dishes.	result	My hands are very wet.	My hands didn't get wet.	2
+1744	I wore rubber gloves and did the dishes.	result	My hands are very wet.	My hands are not wet.	2
+1745	I wore rubber gloves and did the dishes.	result	My hands are very wet.	My hands are not wet.	2
+1746	I wore rubber gloves and did the dishes.	result	My hands are very wet.	My hands did not get wet.	2
+1747	I wore rubber gloves and did the dishes.	result	My hands are very wet.	My hands didn't get wet.	2
+1748	I wore rubber gloves and did the dishes.	result	My hands are very wet.	My hands are not wet.	2
+1749	I wore rubber gloves and did the dishes.	result	My hands are very wet.	My hands are not wet.	2
+1750	I wore rubber gloves and did the dishes.	result	My hands are very wet.	My hands did not get wet.	2
+1751	I wore rubber gloves and did the dishes.	result	My hands are very wet.	My hands didn't get wet.	2
+1752	I wore rubber gloves and did the dishes.	result	My hands are very wet.	My hands are not wet.	2
+1753	I wore rubber gloves and did the dishes.	result	My hands are very wet.	My hands are not wet.	2
+1754	I wore rubber gloves and did the dishes.	result	My hands are very wet.	My hands did not get wet.	2
+1755	I wore rubber gloves and did the dishes.	result	My hands are very wet.	My hands didn't get wet.	2
+1756	The bookshelf collapsed.	cause	The bookshelf was full of books.	The bookshelf was completely empty.	1
+1757	The bookshelf collapsed.	cause	The bookshelf was full of books.	The bookshelf was completely empty.	1
+1758	The bookshelf collapsed.	cause	The bookshelf was full of books.	The bookshelf was empty.	1
+1759	The bookshelf collapsed.	cause	The bookshelf was full of books.	The bookshelf was completely empty.	1
+1760	The bookshelf collapsed.	cause	The bookshelf was filled with books.	The bookshelf was completely empty.	1
+1761	The bookshelf collapsed.	cause	The bookshelf was filled with books.	The bookshelf was completely empty.	1
+1762	The bookshelf collapsed.	cause	The bookshelf was filled with books.	The bookshelf was empty.	1
+1763	The bookshelf collapsed.	cause	The bookshelf was filled with books.	The bookshelf was completely empty.	1
+1764	The bookshelf collapsed.	cause	The bookshelf was full of books.	The bookshelf was completely empty.	1
+1765	The bookshelf collapsed.	cause	The bookshelf was full of books.	The bookshelf was completely empty.	1
+1766	The bookshelf collapsed.	cause	The bookshelf was full of books.	The bookshelf was empty.	1
+1767	The bookshelf collapsed.	cause	The bookshelf was full of books.	The bookshelf was completely empty.	1
+1768	The bookshelf collapsed.	cause	The bookshelf was filled with books.	The bookshelf was completely empty.	1
+1769	The bookshelf collapsed.	cause	The bookshelf was filled with books.	The bookshelf was completely empty.	1
+1770	The bookshelf collapsed.	cause	The bookshelf was filled with books.	The bookshelf was empty.	1
+1771	The bookshelf collapsed.	cause	The bookshelf was filled with books.	The bookshelf was completely empty.	1
