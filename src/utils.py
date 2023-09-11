@@ -11,7 +11,7 @@ def get_llama(
     lora_dropout = 0.05,
     lora_bias = "none",
     lora_task_type = "CAUSAL_LM"
-    )
+    ):
   
     tokenizer = AutoTokenizer.from_pretrained(hf_ckpt)
     model = AutoModelForCausalLM.from_pretrained(hf_ckpt,torch_dtype = torch_dtype)
